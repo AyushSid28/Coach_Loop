@@ -1,45 +1,15 @@
 {
   "version": 2,
-  "name": "coachloop",
   "builds": [
     {
-      "src": "coachloop/backend/server.js",
-      "use": "@vercel/node",
-      "config": {
-        "maxDuration": 30
-      }
-    },
-    {
-      "src": "coachloop/frontend/server.js", 
-      "use": "@vercel/node",
-      "config": {
-        "maxDuration": 30
-      }
+      "src": "api/index.js",
+      "use": "@vercel/node"
     }
   ],
   "routes": [
     {
-      "src": "/api/(.*)",
-      "dest": "coachloop/backend/server.js"
-    },
-    {
-      "src": "/voice-input",
-      "dest": "coachloop/backend/server.js"
-    },
-    {
-      "src": "/stream-tts",
-      "dest": "coachloop/backend/server.js"
-    },
-    {
-      "src": "/chat",
-      "dest": "coachloop/backend/server.js"
-    },
-    {
       "src": "/(.*)",
-      "dest": "coachloop/frontend/server.js"
+      "dest": "api/index.js"
     }
-  ],
-  "env": {
-    "NODE_ENV": "production"
-  }
+  ]
 }
