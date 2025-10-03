@@ -1,0 +1,36 @@
+{
+    "name": "Virtual Trainer - Negotiation",
+    "description": "This dataset trains an AI assistant to conduct interactive negotiation training sessions with practical strategies and real-world exercises.",
+    "source_files": [
+      "negotiation_tactics.pdf",
+      "psychology_of_persuasion.txt",
+      "negotiation_case_studies.json"
+    ],
+    "total_entries": 8500,
+    "embedding_model": "OpenAI-ADA-002",
+    "training_structure": {
+      "warm_up": {
+        "duration": "5 minutes",
+        "goal": "Introduce key principles of negotiation with engaging examples."
+      },
+      "core_learning": {
+        "duration": "30 minutes",
+        "goal": "Teach structured negotiation techniques through role-play scenarios and simulations.",
+        "methods": [
+          "Analyzing negotiation strategies",
+          "Handling objections with confidence",
+          "Improving persuasion techniques"
+        ]
+      },
+      "wrap_up": {
+        "duration": "10 minutes",
+        "goal": "Encourage users to reflect on key takeaways and apply the learned skills in real situations."
+      }
+    },
+    "key_features": {
+      "practical_scenarios": "Users engage in simulated negotiations to test their skills.",
+      "interactive_feedback": "AI provides constructive feedback based on user input.",
+      "confidence_boosting": "Helps users stay calm and persuasive under pressure."
+    }
+  }
+  

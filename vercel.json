@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "name": "coachloop",
+  "builds": [
+    {
+      "src": "coachloop/backend/server.js",
+      "use": "@vercel/node",
+      "config": {
+        "includeFiles": ["coachloop/backend/**"]
+      }
+    },
+    {
+      "src": "coachloop/frontend/server.js", 
+      "use": "@vercel/node",
+      "config": {
+        "includeFiles": ["coachloop/frontend/**"]
+      }
+    }
+  ],
+  "routes": [
+    {
+      "src": "/api/(.*)",
+      "dest": "coachloop/backend/server.js"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "coachloop/frontend/server.js"
+    }
+  ],
+  "env": {
+    "NODE_ENV": "production"
+  },
+  "functions": {
+    "coachloop/backend/server.js": {
+      "maxDuration": 30
+    },
+    "coachloop/frontend/server.js": {
+      "maxDuration": 30
+    }
+  }
+}

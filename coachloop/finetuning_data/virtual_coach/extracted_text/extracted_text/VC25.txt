@@ -1,0 +1,962 @@
+v 13.11 | © 2020 International Coaching Federation 
+Page 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ICF Team Coaching Competencies: 
+Moving Beyond One-to-One Coaching 
+ 
+Introduction 
+Due to the desire for teams to perform well, consistently and over a long period of time, ongoing 
+team development is necessary. As a result, team coaching is growing rapidly. Team coaching is an 
+experience that allows a team to work towards sustainable results and ongoing development. It is 
+becoming an increasingly important intervention in corporate environments as high team performance 
+requires aligning toward goals, remaining innovative, and adapting quickly to internal and external 
+changes. Team coaching exists under this umbrella of team development, along with the following 
+modalities: team building, team training, team consulting, team mentoring, team facilitation, and team 
+coaching. These modalities are further compared in Figure 1. 
+To develop a set of team coaching competencies, ICF designed a rigorous, evidence-based 
+research project. The aim of this study was to determine which Knowledge, Skills, Abilities, and Other 
+characteristics (KSAO) team coaches use in addition to the ICF Core Competencies. The following 
+activities were undertaken: 
+ 
+• 
+A comprehensive literature review, 
+• 
+Development of team coaching critical incidents, 
+• 
+Task, and KSAO virtual workshops to garner an understanding of the experience of team coaching 
+and how it differs from one-to-one coaching, 
+• 
+Semi-structured interviews to understand how team coaches experience coaching engagements 
+and what team coaching means to them as a profession, 
+• 
+A global survey to determine the importance of specific team coaching tasks and KSAOs and 
+their  relationship to facilitation, and 
+• 
+Competency model workshops to review all of the job analysis data. 
+
+v 13.11 | © 2020 International Coaching Federation 
+Page 2 
+ 
+Caution should be applied when considering integrating team coaching with team training, 
+consulting, or mentoring. These three modalities are quite directive and therefore distinct from team 
+coaching. Some team coaches feel that these three modalities should not be undertaken by the team 
+coach, since doing so may cause confusion with the team and inhibit the coach’s ability to function 
+well as a coach. Nevertheless, from the data, it is clear that team coaches frequently wander into 
+facilitation mode in order to promote dialogue amongst the team members. Facilitation is about 
+enhancing communication and achieving clarity; the work remains on the surface and does not delve 
+into an analysis of the team dynamics. Team coaching goes deeper than facilitation—exploring the 
+subsurface dynamics of individual team member personalities, sub-groups, and how they might affect 
+team performance. There may not be a crisp distinction between team coaching and facilitation. 
+Rather, there may be a continuum between facilitation and coaching, and a good team coach may work 
+seamlessly anywhere along this continuum. 
+Because team coaching is multi-faceted, team coaches must also have a significantly broader 
+knowledge base when working with teams than with individuals. They need to have an understanding 
+of how to identify and resolve conflict, recognize power dynamics within the team, understand what 
+is required for high performing teams, know how to build team cohesion, develop rules and norms, 
+encourage participation and contribution by all, and promote team autonomy and sustainability. In 
+individual, one-to-one coaching, coaches are frequently careful when shifting to a modality other 
+than coaching. In team coaching, that distinction between the various modalities may not be so 
+apparent. It is up to the individual coach to decide how much information to share regarding the 
+different modalities with the client. Due to the complexity of team dynamics and factors that affect their 
+performance, team coaches often must be more directive than when working with clients one-to-one. 
+Supervision is also more important for team coaches due to the complexity of the work and ease with 
+which a team coach can get mired in internal team dynamics. 
+
+v 13.11 | © 2020 International Coaching Federation 
+Page 3 
+ 
+Figure 1. Team development modalities 
+ 
+ 
+Team coaches may use additional modalities beyond coaching when necessary. This may be done overtly or discreetly. 
+
+v 13.11 | © 2020 International Coaching Federation 
+Page 4 
+ 
+ICF Team Coaching Competencies: 
+Extending the 
+Core Competencies Framework 
+This document provides the additional knowledge and skills a professional coach must have to 
+effectively engage in team coaching practice, which ICF defines as partnering in a co-creative and 
+reflective process with a team and its dynamics and relationships in a way that inspires them to 
+maximize their abilities and potential in order to reach their common purpose and shared goals. 
+The ICF Team Coaching Competencies support a team coach practitioner in understanding the 
+distinct knowledge, skills, and tasks required for working with teams. At the core of this practice, 
+however, remains the ICF Core Competencies, which provide the foundation for all coaching practice. 
+Each element of the ICF Team Coaching Competency model is organized in alignment with the 
+structure of the ICF Core Competencies. Reference is made to the ICF Core Competency or sub- 
+competency, along with guidance on any contextual nuances, dynamics, or additions necessary for 
+team coaching practice. While no new competencies are required for team coaching beyond the eight 
+ICF Core Competencies, several new sub-competencies are necessary to be effective team coach 
+practitioners. The following table provides the additions for team coaching, those required beyond the 
+ICF Core Competency Model. 
+A critical distinction between the ICF Core Competencies and the ICF Team Coaching Competencies 
+is the nature of the client. While the use of the term “client” in the ICF Core Competencies often 
+represents an individual, the client in a team coaching context is a team as a single entity, comprising 
+multiple individuals. When applied alongside the Team Coaching Competencies in a team coaching 
+context, however, the term “client” in the Core Competencies represents the team, rather than an 
+individual. 
+The following pages will break down each of the Team Coaching Competencies as they relate to the 
+ICF Core Competencies—first by sharing the background of each competency, and second by showing 
+a visual representation of how the two competency models work together. 
+
+v 13.11 | © 2020 International Coaching Federation 
+Page 5 
+ 
+Competency 1: Demonstrates Ethical Practice 
+Definition: Understands and consistently applies coaching ethics and standards of coaching. 
+ 
+ 
+ICF Team Coaching Competency 
+Supplements to the ICF Core 
+Competencies 
+Background 
++ Coaches the client team as a single entity 
+The client for a team coach is the team as a 
+single entity. A team is made up of individual 
+team members and each one must be heard 
+and play an integral role in team discussions. 
+Further, the team coach must remain objective 
+in all interactions with team members, sponsors, 
+and relevant stakeholders. The team coach 
+should not be perceived as taking sides with 
+any subgroups or individual members of the 
+team, should remain open to what is emerging 
+in the sessions, and should be completely 
+honest in all dealings with the team. Discussions 
+with individual team members will need to 
+remain confidential to the team coach and 
+team member unless the team member allows 
+disclosure of information to others and as per 
+the team coaching agreement. 
++ Maintains the distinction between team 
+coaching, team building, team training, team 
+consulting, team mentoring, team facilitation, 
+and other team development modalities 
+Team development can involve many 
+modalities, including team coaching, team 
+building, team training, team consulting, team 
+mentoring, and team facilitation. The team 
+coach should partner with other experts when 
+the demands of a specific team coaching 
+engagement warrant or when specific 
+knowledge and skill levels are required. While 
+the distinction between these modalities may 
+not always need to be highlighted, caution must 
+be applied if interventions beyond coaching 
+are undertaken. Team coaches may need to 
+refer clients to many types of professionals 
+and also receive assistance from a co-coach, 
+a supervisor, or other team development 
+professionals. 
++ Demonstrates the knowledge and skill 
+needed to practice the specific blend of team 
+development modalities that are being offered 
+A team coach is sufficiently skilled to 
+competently practice all of the team 
+development modalities that the team 
+coach is offering as part of a team coaching 
+engagement. 
+
+v 13.11 | © 2020 International Coaching Federation 
+Page 6 
+ 
+ICF Team Coaching Competency 
+Supplements to the ICF Core 
+Competencies 
+Background 
++ Adopts more directive team development 
+modalities only when needed to help the team 
+achieve their goals 
+In general, there are more times when a team 
+coach will need to be directive than when 
+working with a client on a one-to-one basis. 
+These instances, however, should remain 
+limited to those opportunities that require 
+a directive approach to bring awareness to 
+growth areas for the team and to help them 
+understand the team coaching process. They 
+may be critical moments in team coaching 
+sessions, pointing out positive and negative 
+team dynamics, and introducing ways to move 
+forward. These moments of being directive 
+should broaden, rather than narrow, the team’s 
+perspective on their current situation. 
++ Maintains trust, transparency, and clarity when 
+fulfilling multiple roles related to team coaching 
+In the event that a team coach offers multiple 
+team development modalities, the coach must 
+be clear about these different roles and how 
+one role may affect another. 
+ 
+ 
+ 
+Integrating the ICF Core and Team Coaching Competencies: 
+Demonstrates Ethical Practice 
+ 
+1. 
+Demonstrates personal integrity and honesty 
+in interactions with clients, sponsors and 
+relevant stakeholders 
+2. 
+Is sensitive to clients’ identity, environment, 
+experiences, values and beliefs 
+3. 
+Uses language appropriate and 
+respectful to clients, sponsors 
+and relevant stakeholders 
+4. 
+Abides by the ICF Code of Ethics 
+and upholds the Core Values 
+5. 
+Maintains confidentiality with 
+client information per stakeholder 
+agreements and pertinent laws 
+6. 
+Maintains the distinctions between coaching, 
+consulting, psychotherapy and other 
+support professions 
+7. 
+Refers clients to other support professionals, 
+as appropriate 
++ Coaches the client team as a single entity 
++ Maintains the distinction between team 
+coaching, team building, team training, team 
+consulting, team mentoring, team facilitation, 
+and other team development modalities 
++ Demonstrates the knowledge and skill 
+needed to practice the specific blend of team 
+development modalities that 
+are being offered 
++ Adopts more directive team development 
+modalities only when needed to help the 
+team achieve their goals 
++ Maintains trust, transparency, and clarity 
+when fulfilling multiple roles related to 
+team coaching 
+
+v 13.11 | © 2020 International Coaching Federation 
+Page 7 
+ 
+Competency 2: Embodies a Coaching Mindset 
+Definition: Develops and maintains a mindset that is open, curious, flexible and client-centered. 
+ 
+ 
+ICF Team Coaching Competency 
+Supplements to the ICF Core 
+Competencies 
+Background 
++ Engages in coaching supervision for support, 
+development, and accountability when needed 
+It could be easy for a team coach to become 
+entangled in the team dynamics and become 
+unaware of issues that should be addressed. 
+Because of this, team coaches should be 
+working with a coaching supervisor. Team 
+coaching can be much more intense than 
+one-to-one coaching given the input from 
+many team members at once. Supervision 
+uses reflection on past events, awareness of 
+the coach’s part in those past moments or the 
+present moment, and the effect it has on the 
+coach’s behavior. A supervisor is an excellent 
+resource for a team coach as an impartial 
+observer and aid to the reflective practice and 
+its part in the team coaching process. 
++ Remains objective and aware of team 
+dynamics and patterns 
+Teams are made up of individuals who have 
+unique personalities, knowledge, skills, 
+and motivations. The combination of these 
+individuals working together will bring about 
+many dynamics of power, control, expertise, and 
+disparate goals. The team coach must be aware 
+of and alert to how these dynamics might play 
+out in team interactions, the team’s agenda, 
+internal disputes, beliefs, alliances, and must 
+remain objective at all times. 
+
+v 13.11 | © 2020 International Coaching Federation 
+Page 8 
+ 
+Integrating the ICF Core and Team Coaching Competencies: 
+Embodies a Coaching Mindset 
+ 
+1. 
+Acknowledges that clients are responsible 
+for their own choices 
+2. 
+Engages in ongoing learning and 
+development as a coach 
+3. 
+Develops an ongoing reflective practice to 
+enhance one’s coaching 
+4. 
+Remains aware of and open to the 
+influence of context and culture 
+on self and others 
+5. 
+Uses awareness of self and 
+one’s intuition to benefit clients 
+6. 
+Develops and maintains the ability to 
+regulate one’s emotions 
+7. 
+Mentally and emotionally prepares 
+for sessions 
+8. 
+Seeks help from outside sources 
+when necessary 
++ Engages in coaching supervision for 
+support, development, and accountability 
+when needed 
++ Remains objective and aware of team 
+dynamics and patterns 
+
+v 13.11 | © 2020 International Coaching Federation 
+Page 9 
+ 
+Competency 3: Establishes and Maintains Agreements 
+Definition: Partners with the client and relevant stakeholders to create clear agreements about the 
+coaching relationship, process, plans and goals. Establishes agreements for the overall coaching 
+engagement as well as those for each coaching session. 
+ 
+ICF Team Coaching Competency 
+Supplements to the ICF Core 
+Competencies 
+Background 
++ Explains what team coaching is and is 
+not, including how it differs from other team 
+development modalities 
+It is important for the team coach to highlight 
+the difference between team coaching and 
+other team development modalities. Given 
+the unique nature of individuals’ personalities, 
+teams may need to be very intentional about 
+the process to determine team and team coach 
+compatibility. 
++ Partners with all relevant parties, including the 
+team leader, team members, stakeholders, and 
+any co-coaches to collaboratively create clear 
+agreements about the coaching relationship, 
+processes, plans, development modalities, and 
+goals 
+The team coaching agreement must be 
+agreeable to all parties, including the individual 
+team members and the co-coach, when working 
+with one, as well as sponsors, as appropriate. 
+Confidentiality regarding what takes place in 
+team coaching sessions should be addressed, 
+as well as private discussions between the team 
+coach and individual team members. It is also 
+important to consider the role and extent to 
+which the organization’s culture, mission, and 
+overall context influences the team coaching 
+engagement. 
++ Partners with the team leader to determine 
+how ownership of the coaching process will be 
+shared among the coach, leader, and team 
+One of the purposes of team coaching is to 
+help build a sustainable team that does not 
+require the presence of the coach to maintain 
+forward momentum. While the team coaching 
+process may initially be directed by the coach, 
+agreement should be reached as to how the 
+ownership is gradually turned over to the team 
+leader and the team as a collective. 
+
+v 13.11 | © 2020 International Coaching Federation 
+Page 10 
+ 
+Integrating the ICF Core and Team Coaching Competencies: 
+Establishes and Maintains Agreements 
+ 
+ 
+ 
+ 
+ 
+1. 
+Explains what coaching is and is not and describes the 
+process to the client and relevant stakeholders 
+2. 
+Reaches agreement about what is and is not appropriate in 
+the relationship, what is and is not being offered, and the 
+responsibilities of the client and relevant stakeholders 
+3. 
+Reaches agreement about the guidelines and specific 
+parameters of the coaching relationship such as logistics, 
+fees, scheduling, duration, termination, confidentiality and 
+inclusion of others 
+4. 
+Partners with the client and relevant stakeholders to 
+establish an overall coaching plan and goals 
+5. 
+Partners with the client to determine client-coach 
+compatibility 
+6. 
+Partners with the client to identify or reconfirm what they 
+want to accomplish in the session 
+7. 
+Partners with the client to define what the client believes 
+they need to address or resolve to achieve what they want 
+to accomplish in the session 
+8. 
+Partners with the client to define or reconfirm measures 
+of success for what the client wants to accomplish in the 
+coaching engagement or individual session 
+9. 
+Partners with the client to manage the time and focus of 
+the session 
+10. Continues coaching in the direction of the client’s desired 
+outcome unless the client indicates otherwise 
+11. 
+Partners with the client to end the coaching relationship in 
+a way that honors the experience 
++ Explains what team coaching is and is 
+not, including how it differs from other team 
+development modalities 
++ Partners with all relevant parties, 
+including the team leader, team members, 
+stakeholders, and any co-coaches to 
+collaboratively create clear agreements 
+about the coaching relationship, processes, 
+plans, development modalities, and goals 
++ Partners with the team leader to 
+determine how ownership of the coaching 
+process will be shared among the coach, 
+leader, and team 
+
+v 13.11 | © 2020 International Coaching Federation 
+Page 11 
+ 
+Competency 4: Cultivates Trust and Safety 
+Definition: Partners with the client to create a safe, supportive environment that allows the client to 
+share freely. Maintains a relationship of mutual respect and trust. 
+ 
+ICF Team Coaching Competency 
+Supplements to the ICF Core 
+Competencies 
+Background 
++ Creates and maintains a safe space for open 
+and honest team member interaction 
+In order for each team member to participate 
+freely and meaningfully, the team coach must 
+build a safe space within which each team 
+member feels free to disagree with teammates 
+or raise sensitive topics. When working with 
+an individual client, the coach is aware and 
+respectful of the client’s cultural context. In team 
+coaching the team may have its own culture, 
+which is a variant of the organization’s culture 
+and may add an additional layer of complexity 
+to the engagement. 
++ Promotes the team viewing itself as a single 
+entity with a common identity 
+An element of team sustainability is the 
+perspective of each member that the team is 
+a single, high-performing unit. The team coach 
+should consistently promote team identity and 
+self-sufficiency. 
++ Fosters expression of individual team 
+members’ and the collective team’s feelings, 
+perceptions, concerns, beliefs, hopes, and 
+suggestions 
+The team coach may need to encourage team 
+members to speak freely in team meetings to 
+share their individual feelings, perceptions, 
+concerns, beliefs, hopes, and suggestions. It 
+is also important for the coach to understand 
+and clarify the collective feelings, perceptions, 
+concerns, beliefs, and hopes of the team. 
++ Encourages participation and contribution by 
+all team members 
+It is important to get the full benefit from the 
+knowledge and skill of each team member. 
++ Partners with the team to develop, maintain, 
+and reflect on team rules and norms 
+Rules and norms can help teams to be more 
+productive and perform at a higher level. 
+Clarification and codification of these rules and 
+norms can also help a team to be more self- 
+sustainable. 
+
+v 13.11 | © 2020 International Coaching Federation 
+Page 12 
+ 
+ICF Team Coaching Competency 
+Supplements to the ICF Core 
+Competencies 
+Background 
++ Promotes effective communication within the 
+team 
+Good communication amongst team members 
+can often be challenging, however, a good 
+flow of information is vital to team success. The 
+team coach should ensure that communication 
+from individual members of the team is 
+directed to the team and consistently redirects 
+communication within the team when it is 
+directed to the coach. 
++ Partners with the team to identify and resolve 
+internal conflict 
+It is inevitable that there will be some conflict 
+within every team. It is important to bring all 
+conflict to the surface and deal with it in a 
+constructive manner that promotes learning and 
+growth. 
+ 
+ 
+ 
+Integrating the ICF Core and Team Coaching Competencies: 
+Cultivates Trust and Safety 
+ 
+1. 
+Seeks to understand the client within their 
+context which may include their identity, 
+environment, experiences, values and beliefs 
+2. 
+Demonstrates respect for the client’s identity, 
+perceptions, style and language and adapts 
+one’s coaching to the client 
+3. 
+Acknowledges and respects the 
+client’s unique talents, insights 
+and work in the coaching process 
+4. 
+Shows support, empathy and 
+concern for the client 
+5. 
+Acknowledges and supports the 
+client’s expression of feelings, 
+perceptions, concerns, beliefs 
+and suggestions 
+6. 
+Demonstrates openness and transparency as 
+a way to display vulnerability and build trust 
+with the client 
++ Creates and maintains a safe space for 
+open and honest team member interaction 
++ Promotes the team viewing itself as a single 
+entity with a common identity 
++ Fosters expression of individual team 
+members’ and the collective team’s feelings, 
+perceptions, concerns, beliefs, hopes, and 
+suggestions 
++ Encourages participation and contribution 
+by all team members 
++ Partners with the team to develop, maintain, 
+and reflect on team rules and norms 
++ Promotes effective communication within 
+the team 
++ Partners with the team to identify and 
+resolve internal conflict 
+
+v 13.11 | © 2020 International Coaching Federation 
+Page 13 
+ 
+Competency 5: Maintains Presence 
+Definition: Is fully conscious and present with the client, employing a style that is 
+open, flexible, grounded and confident. 
+ 
+ICF Team Coaching Competency 
+Supplements to the ICF Core 
+Competencies 
+Background 
++ Uses one’s full range of sensory and 
+perceptual abilities to focus on what is 
+important to the coaching process 
+The team coach will often be overloaded 
+with information, necessitating full sensory 
+awareness and perception of what is 
+happening in the room throughout the coaching 
+engagement. 
++ Uses a co-coach when agreed to by the team 
+and sponsors and when doing so will allow the 
+team coach to be more present in the team 
+coaching session 
+Working with a co-coach can take pressure off 
+the singular team coach, given the significant 
+amount of information emerging during team 
+coaching sessions. A co-coach can help to 
+observe team dynamics, team and individual 
+behavior patterns, provide alternative 
+perspectives, and model team behavior. 
++ Encourages team members to pause and 
+reflect how they are interacting in team 
+coaching sessions 
+Encouraging team members to pause and 
+reflect begins the reflective practice work 
+for a team. The team coach can then follow 
+through with raising awareness of their own 
+actions, subsequent behaviors, and potential 
+improvements in the moment or in future team 
+interactions. 
++ Moves in and out of the team dialogue as 
+appropriate 
+Since one of the objectives of team coaching 
+is for the team to become self-sufficient, the 
+team coach should enter into the dialogue only 
+as necessary to enhance the team process 
+and performance. The team coach should be 
+present for the team as a whole and at the 
+same time for each individual. This can be a 
+challenge at moments of high intensity and 
+when many team members are involved. 
+
+v 13.11 | © 2020 International Coaching Federation 
+Page 14 
+ 
+Integrating the ICF Core and Team Coaching Competencies: 
+Maintains Presence 
+ 
+1. 
+Remains focused, observant, empathetic 
+and responsive to the client 
+2. 
+Demonstrates curiosity during the 
+coaching process 
+3. 
+Manages one’s emotions to stay present 
+with the client 
+4. 
+Demonstrates confidence in 
+working with strong client 
+emotions during the 
+coaching process 
+5. 
+Is comfortable working in a 
+space of not knowing 
+6. 
+Creates or allows space for silence, pause 
+or reflection 
++ Uses one’s full range of sensory and 
+perceptual abilities to focus on what is 
+important to the coaching process 
++ Uses a co-coach when agreed to by the 
+team and sponsors and when doing so will 
+allow the team coach to be more present in 
+the team coaching session 
++ Encourages team members to pause and 
+reflect how they are interacting in team 
+coaching sessions 
++ Moves in and out of the team dialogue as 
+appropriate 
+
+v 13.11 | © 2020 International Coaching Federation 
+Page 15 
+ 
+Competency 6: Listens Actively 
+Definition: Focuses on what the client is and is not saying to fully understand what is being 
+communicated in the context of the client systems and to support client self-expression. 
+ 
+ICF Team Coaching Competency 
+Supplements to the ICF Core 
+Competencies 
+Background 
++ Notices how the perspectives shared by each 
+team member relate to other team members’ 
+views and the team dialogue 
+It is important for team members to listen and 
+communicate well for shared understanding 
+and subsequent high performance. Exploring 
+below the surface of what is being said often 
+allows a deeper meaning and understanding 
+to emerge. This can help to resolve conflict 
+and enhance innovation and problem-solving 
+sessions. 
++ Notices how each team member impacts the 
+collective team energy, engagement, and focus 
+A team coach can greatly enhance team 
+performance by bringing to light individual team 
+member behaviors that add to and take away 
+from team momentum, engagement, creativity, 
+and focus. 
++ Notices verbal and non-verbal communication 
+patterns among team members to identify 
+potential alliances, conflicts, and growth 
+opportunities 
+Observing, understanding, and enhancing 
+team dynamics may be significant factors in 
+improving team performance. Team coaches 
+must be able to observe the subtlety of team 
+dynamics evident from verbal and non-verbal 
+communication. 
++ Models confident, effective communication 
+and collaboration when working with a co- 
+coach or other experts 
+Fluid communication amongst team members is 
+essential for high performance. Team coaches 
+can model this behavior when working with a 
+co-coach and other experts. 
++ Encourages the team to own the dialogue 
+Team members may tend to direct 
+communication to the team coach, especially at 
+the beginning of team coaching engagements. 
+In order to enhance sustainability, team coaches 
+should consistently turn the dialogue inward, 
+back to the team. Making choices as a team 
+can be complex. Data may need to come from 
+many team members, bringing the elements 
+of trust and expertise into play. The team must 
+decide how to process data and how to make 
+decisions. Although helping a team to work 
+through such issues may be more aligned 
+with team facilitation, the process of getting 
+the team to become self-sufficient is a team 
+coaching function. 
+
+v 13.11 | © 2020 International Coaching Federation 
+Page 16 
+ 
+Integrating the ICF Core and Team Coaching Competencies: 
+Listens Actively 
+ 
+ 
+ 
+ 
+ 
+1. 
+Considers the client’s context, identity, 
+environment, experiences, values and beliefs 
+to enhance understanding of what the client 
+is communicating 
+2. 
+Reflects or summarizes what the client 
+communicated to ensure clarity and 
+understanding 
+3. 
+Recognizes and inquires when there is more 
+to what the client is communicating 
+4. 
+Notices, acknowledges and explores the 
+client’s emotions, energy shifts, non-verbal 
+cues or other behaviors 
+5. 
+Integrates the client’s words, tone of voice 
+and body language to determine the full 
+meaning of what is being communicated 
+6. 
+Notices trends in the client’s behaviors and 
+emotions across sessions to discern themes 
+and patterns 
++ Notices how the perspectives shared 
+by each team member relate to other 
+team members’ views and the team 
+dialogue 
++ Notices how each team member 
+impacts the collective team energy, 
+engagement, and focus 
++ Notices verbal and non-verbal 
+communication patterns among team 
+members to identify potential alliances, 
+conflicts, and growth opportunities 
++ Models confident, effective 
+communication and collaboration when 
+working with a co-coach or other experts 
++ Encourages the team to 
+own the dialogue 
+
+v 13.11 | © 2020 International Coaching Federation 
+Page 17 
+ 
+Competency 7: Evokes Awareness 
+Definition: Facilitates client insight and learning by using tools and techniques such as powerful 
+questioning, silence, metaphor or analogy. 
+ 
+ICF Team Coaching Competency 
+Supplements to the ICF Core 
+Competencies 
+Background 
++ Challenges the team’s assumptions, 
+behaviors, and meaning-making processes to 
+enhance their collective awareness or insight 
+A team composed of many individuals brings 
+a multitude of assumptions, experiences, 
+behaviors, and meaning-making processes 
+to the collective effort. The diversity in these 
+factors, if left unchecked, can lead to team 
+dysfunction, but if harnessed properly, they can 
+greatly enhance team performance. 
++ Uses questions and other techniques to foster 
+team development and facilitate the team’s 
+ownership of their collective dialogue 
+Just as in one-to-one coaching, questions and 
+other techniques should be used to enhance 
+team development, but in team coaching the 
+work should also foster internal team dialogue 
+and processing. 
+
+v 13.11 | © 2020 International Coaching Federation 
+Page 18 
+ 
+Integrating the ICF Core and Team Coaching Competencies: 
+Evokes Awareness 
+ 
+1. 
+Considers client experience when deciding what might be 
+most useful 
+2. 
+Challenges the client as a way to evoke awareness 
+or insight 
+3. 
+Asks questions about the client, such as their way of 
+thinking, values, needs, wants and beliefs 
+4. 
+Asks questions that help the client explore beyond 
+current thinking 
+5. 
+Invites the client to share more about 
+their experience in the moment 
+6. 
+Notices what is working to enhance 
+client progress 
+7. 
+Adjusts the coaching approach in 
+response to the client’s needs 
+8. 
+Helps the client identify factors that influence 
+current and future patterns of behavior, 
+thinking or emotion 
+9. 
+Invites the client to generate ideas about how they can 
+move forward and what they are willing or able to do 
+10. Supports the client in reframing perspectives 
+11. 
+Shares observations, insights and feelings, without 
+attachment, that have the potential to create new learning 
+for the client 
+ 
++ Challenges the team’s assumptions, behaviors, and 
+meaning-making processes to enhance their collective 
+awareness or insight 
++ Uses questions and other techniques to foster team 
+development and facilitate the team’s ownership of their 
+collective dialogue 
+
+v 13.11 | © 2020 International Coaching Federation 
+Page 19 
+ 
+Competency 8: Facilitates Client Growth 
+Definition: Partners with the client to transform learning and insight into action. Promotes client 
+autonomy in the coaching process. 
+ 
+ICF Team Coaching Competency 
+Supplements to the ICF Core 
+Competencies 
+Background 
++ Encourages dialogue and reflection to help 
+the team identify their goals and the steps to 
+achieve those goals 
+Team dialogue and reflection is essential 
+in order to take full advantage of all team 
+members’ knowledge and skills. Encouraging 
+full participation helps to identify appropriate 
+goals to maximize team performance. 
+ 
+ 
+ 
+Integrating the ICF Core and Team Coaching Competencies: 
+Facilitates Client Growth 
+ 
+ 
+1. 
+Works with the client to integrate new awareness, 
+insight or learning into their worldview 
+and behaviors 
+2. 
+Partners with the client to design goals, actions 
+and accountability measures that integrate and 
+expand new learning 
+3. 
+Acknowledges and supports client 
+autonomy in the design of goals, 
+actions and methods 
+of accountability 
+4. 
+Supports the client in identifying 
+potential results or learning from 
+identified action steps 
+5. 
+Invites the client to consider how to 
+move forward, including resources, support 
+and potential barriers 
+6. 
+Partners with the client to summarize learning 
+and insight within or between sessions 
+7. 
+Celebrates the client’s progress and successes 
+8. 
+Partners with the client to close the session 
++ Encourages dialogue and reflection to help the 
+team identify their goals and the steps to achieve 
+those goals 
+
+v 13.11 | © 2020 International Coaching Federation 
+ 
+ 
+ 
+ 
+ICF Team Coaching Competencies: 
+Moving Beyond One-to-One Coaching 
+Competency 1: Demonstrates Ethical Practice 
++ Coaches the client team as a single entity 
++ Maintains the distinction between team coaching, team building, team training, team consulting, team 
+mentoring, team facilitation, and other team development modalities 
++ Demonstrates the knowledge and skill needed to practice the specific blend of team development 
+modalities that are being offered 
++ Adopts more directive team development modalities only when needed to help the team achieve 
+their goals 
++ Maintains trust, transparency, and clarity when fulfilling multiple roles related to team coaching 
+Competency 2: Embodies a Coaching Mindset 
++ Engages in coaching supervision for support, development, and accountability when needed 
++ Remains objective and aware of team dynamics and patterns 
+Competency 3: Establishes and Maintains Agreements 
++ Explains what team coaching is and is not, including how it differs from other team development 
+modalities 
++ Partners with all relevant parties, including the team leader, team members, stakeholders, and any co- 
+coaches to collaboratively create clear agreements about the coaching relationship, processes, plans, 
+development modalities, and goals 
++ Partners with the team leader to determine how ownership of the coaching process will be shared 
+among the coach, leader, and team 
+Competency 4: Cultivates Trust and Safety 
++ Creates and maintains a safe space for open and honest team member interaction 
++ Promotes the team viewing itself as a single entity with a common identity 
++ Fosters expression of individual team members’ and the collective team’s feelings, perceptions, 
+concerns, beliefs, hopes, and suggestions 
++ Encourages participation and contribution by all team members 
++ Partners with the team to develop, maintain, and reflect on team rules and norms 
++ Promotes effective communication within the team 
++ Partners with the team to identify and resolve internal conflict 
+
+v 13.11 | © 2020 International Coaching Federation 
+ 
+Competency 5: Maintains Presence 
++ Uses one’s full range of sensory and perceptual abilities to focus on what is important to the 
+coaching process 
++ Uses a co-coach when agreed to by the team and sponsors and when doing so will allow the team 
+coach to be more present in the team coaching session 
++ Encourages team members to pause and reflect how they are interacting in team coaching sessions 
++ Moves in and out of the team dialogue as appropriate 
+Competency 6: Listens Actively 
++ Notices how the perspectives shared by each team member relate to other team members’ views 
+and the team dialogue 
++ Notices how each team member impacts the collective team energy, engagement, and focus 
++ Notices verbal and non-verbal communication patterns among team members to identify potential 
+alliances, conflicts, and growth opportunities 
++ Models confident, effective communication and collaboration when working with a co-coach or other 
+experts 
++ Encourages the team to own the dialogue 
+Competency 7: Evokes Awareness 
++ Challenges the team’s assumptions, behaviors, and meaning-making processes to enhance their 
+collective awareness or insight 
++ Uses questions and other techniques to foster team development and facilitate the team’s ownership 
+of their collective dialogue 
+Competency 8: Facilitates Client Growth 
++ Encourages dialogue and reflection to help the team identify their goals and the steps to achieve 
+those goals 

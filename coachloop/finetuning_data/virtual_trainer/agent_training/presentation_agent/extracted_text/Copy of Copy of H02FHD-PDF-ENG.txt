@@ -1,0 +1,165 @@
+Digital 
+Article
+Analytics and Data 
+Science
+How to Give a Data-Heavy 
+Presentation
+Tell a clear story with your numbers. by Alexandra Samuel
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+How to Give a Data-Heavy 
+Presentation
+Tell a clear story with your numbers. by Alexandra Samuel
+Published on HBR.org  /  October 16, 2015  /  Reprint H02FHD
+Data storytelling has become a powerful part of the communications 
+toolkit, allowing both journalists and marketers to communicate key 
+messages by using data and data visualization to drive articles, blog 
+posts, and reports. But the power of data storytelling isn’t limited to 
+written communication: you can also use data to deliver presentations 
+that are both more credible and more visually compelling.
+Knowing how to develop and deliver a data-driven presentation is now 
+a crucial skill for many professionals, since we often have to tell our 
+colleagues a story about the success of a new initiative, the promise of 
+a new business opportunity, or the imperative of a change in strategy 
+— stories that are much more compelling when they’re backed by 
+numbers.
+In the past four years, data has become a bigger and bigger part of my 
+own presentations, since I frequently speak about data-driven projects 
+like the new rules for the collaborative economy, and what social media 
+analytics can’t tell you about your customers. I’ve enjoyed the luxury 
+of working closely with data analysts, infographic designers, and my 
+own in-house speechwriter, which has helped me pick up some tricks on 
+what it takes to create a successful data-driven presentation.
+As with any communication, start by thinking about your audience. 
+Who are you presenting to, and how much do they know about the 
+HBR  /  Digital Article  /  How to Give a Data-Heavy Presentation
+Copyright © 2015 Harvard Business School Publishing. All rights reserved.
+1
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+topic? If you’re presenting data on three different sales strategies to 
+the sales team that’s been testing those approaches, you can plunge 
+right in and show them what worked. If you’re reporting on that same 
+experiment to another part of the organization, you need to provide a lot 
+of context before you drop the bar charts in their laps; otherwise what 
+looks like a clear story to you may simply confuse them. A good rule of 
+thumb is to look at the legend on your charts: if you can’t count on the 
+audience knowing what each item in the legend actually refers to, you 
+need to spend some time on setup before you get to the numbers.
+It’s easy to let the data overtake your presentation, so be sure you know 
+the overall story you’re trying to tell, and use charts sparingly to support 
+your story. You’re not trying to subdue your enemy through the sheer 
+volume of data you can bring to bear on your argument; you’re using 
+data strategically, when it provides clear and concrete evidence for the 
+story you’re telling. I’ve found that audiences get overwhelmed by back-
+to-back data slides, so I try to intersperse charts with slides that convey 
+my key point using images or a very few words of text. Show a photo of 
+a shopping cart, and tell people that you now know which cash register 
+displays are most likely to yield impulse purchases; then show the chart 
+displaying the sales figures for different items. Follow that chart with an 
+image or a few short bullets that emphasizes the actionable insights and 
+implications of your data.
+It’s rare that anyone will retain all the actual numbers in your 
+presentation, so think about the words that capture the idea, insight, or 
+conclusion you want them to hold onto. Instead of simply throwing up 
+a bar chart that shows levels of employee engagement versus different
+working arrangements, build to that key chart with a story about the 
+impact of working arrangements on employee satisfaction — illustrated 
+by actual human examples, if possible.
+HBR  /  Digital Article  /  How to Give a Data-Heavy Presentation
+Copyright © 2015 Harvard Business School Publishing. All rights reserved.
+2
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+And if there is a single number that really captures your key point — 
+like “employees who work from home 1 day per week are 30% happier 
+than the rest of our workforce” — then make not just that chart, but 
+that specific data point very prominent in your deck. Highlight it in the 
+relevant chart, and consider giving that single data point its own slide or 
+bullet in your conclusion.
+As you present, remember that it takes people some time to digest a 
+chart or data table. Take the time to spell out the story you see in 
+the data so that it’s clear to someone who hasn’t been poring over 
+that dataset for the past six weeks. A simple statement like “in every 
+region except the Southwest, email outperforms phone calls as a way of 
+generating leads; in the Northeast, 5% of emails get a response, versus 
+only 3% of phone calls” will help people understand what they are 
+looking at and how they’re supposed to read your chart. Speak slower 
+than you usually do, and consider pausing for a moment mid-chart, to 
+allow people the time to absorb the data; even if you prefer to wait until 
+the end of your presentation for questions, ask if anyone needs you to 
+clarify the chart.
+While clarifying statements are helpful, that doesn’t mean you can 
+neglect the visuals. If all you do is produce your charts with a 
+tool like Infogr.am or Tableau — both of which will produce charts 
+that look a heck of a lot better than what Excel spits out — you’ll 
+immediately improve your data-driven presentations. You may still 
+need to restructure or reformat your charts to make them work on 
+screen, however. Even if you’ve used shading to differentiate between 
+categories in a printed document, it will be easier for people to 
+distinguish between on-screen categories if they’re shown in different,
+contrasting colors.
+HBR  /  Digital Article  /  How to Give a Data-Heavy Presentation
+Copyright © 2015 Harvard Business School Publishing. All rights reserved.
+3
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+Make sure your legend and data labels are printed in a large, visible 
+font; if you’ve used an infographic design tool like Infogr.am, which 
+generates beautiful charts but doesn’t let you adjust font sizes, you’ll 
+have to add your own, larger labels when you’re producing your final
+deck. (My trick is to create those labels as individual text boxes in the 
+color of my chart columns, so I can drop them on top of my columns and 
+hide the original labels.)
+If you don’t have the support of an infographic designer in creating your 
+charts, get familiar with the very basic rules of good data visualization, 
+like which types of charts to use for different purposes. And make 
+sure that you don’t violate any data visualization principles when you 
+squeeze your data onto a slide: if you simply can’t fit your entire chart 
+onto a single slide in a way that is readable, it’s better to show highlights 
+than to compromise the clarity of your data.  A column chart that shows 
+eight categories of clustered columns is going to be very crowded — but 
+don’t you dare turn it into a set of pie charts instead: if there’s value 
+in comparing categories, you want to keep that as a bar chart where all 
+the categories are aligned on a single base line. Perhaps you don’t really 
+need to show all eight categories — just the five most important ones. Or 
+maybe you will have to break your chart into two successive slides; if so, 
+organize your categories so that the most closely related categories are 
+kept together on each slide.
+Lastly, there is a lot of value in leaving people with a physical (or virtual) 
+copy of your charts, so that they can look at the numbers more closely 
+after your presentation. Since data-driven decks and reports tend to get 
+circulated, make sure that any charts you include can stand on their 
+own, without you speaking to them: note the source of your data, make 
+your legend clear, and annotate your charts with callouts that show 
+people how to make sense of a specific data point (“7 in 10 customers 
+chose the blue package”).
+HBR  /  Digital Article  /  How to Give a Data-Heavy Presentation
+Copyright © 2015 Harvard Business School Publishing. All rights reserved.
+4
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+If this is starting to sound daunting, don’t let a vision of the ideal data-
+driven presentation report keep you from using data to present your 
+work or ideas to colleagues or peers. With data storytelling, excessively 
+high standards can keep us from seizing the opportunity to make a good 
+story better by backing it up with quantitative evidence.
+You don’t have to have the perfect dataset or the world’s most 
+beautiful infographics to make data storytelling a valuable part of your 
+communications toolbox. All you need is to break down the wall that 
+keeps math in one part of your brain, and storytelling in another.
+This article was originally published online on October 16, 2015.
+Alexandra Samuel is a tech speaker and data journalist who 
+creates data-driven reports and workshops for companies around 
+the world. She is the co-author of Remote, Inc.: How to Thrive at 
+Work…Wherever You Are (with Robert C. Pozen) and the author of 
+HBR’s Work Smarter With Social Media. Follow her on LinkedIn.
+HBR  /  Digital Article  /  How to Give a Data-Heavy Presentation
+Copyright © 2015 Harvard Business School Publishing. All rights reserved.
+5
+This document is authorized for use only by Joel Parisipogu (films.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org

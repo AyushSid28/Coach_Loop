@@ -1,0 +1,165 @@
+Digital 
+Article
+Sales and Marketing
+In the Best Sales Teams, 
+About Half of the People 
+Are in Support Roles
+Free your customer-facing staff to do their work. by Michael Viertler, 
+David Sprengel, Sebastian Kuchler, and Jochen Ulrich
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+In the Best Sales Teams, 
+About Half of the People Are 
+in Support Roles
+Free your customer-facing staff to do their work. by Michael Viertler, 
+David Sprengel, Sebastian Kuchler, and Jochen Ulrich
+Published on HBR.org  /  May 25, 2016  /  Reprint H02WUR
+Sales reps are most effective when they have the right amount of 
+support staff, but exactly how much support staff does a company need, 
+and how should it be structured? Call it a Goldilocks quandary: Too little 
+support, and your sales people can’t do their jobs well; too much, and 
+you’re wasting money. But get it just right and your sales efforts can 
+drive productivity and growth.
+By looking at detailed sales data from 40 companies in technology-
+related industries, we have identified guidelines for the optimal amount 
+and type of sales support and management. This includes all non-
+quota-carrying roles in the organization: customer-facing support, sales 
+operations and administration, and sales management.
+Evaluating our sample set of companies in hardware, machinery, 
+industrial equipment, and information and communications 
+technology, we have found a wide disparity in the amount of sales 
+support that organizations employ. The efficiency of their sales 
+departments, as measured by sales ROI (gross margin over total sales 
+cost), also varies widely: The top 25% of companies we analyzed boast a 
+sales ROI that is more than twice that of the bottom 25%. And these top 
+HBR  /  Digital Article  /  In the Best Sales Teams, About Half of the People Are in Suppo…
+Copyright © 2016 Harvard Business School Publishing. All rights reserved.
+1
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+performers have a 30% higher level of sales support than the rest of the 
+companies.
+Getting the structure and ratio of your sales support just right depends 
+on four things:
+Hitting the sweet spot of sales support. We found that devoting 
+50%–60% of sales employees to support functions is optimal. Many 
+companies with low sales ROI devote less than 30% of their sales staff
+to support functions. But having too high a share of sales support 
+has a negative impact on sales ROI, as it simply increases the cost 
+base without adding additional support to the front line. Most of the 
+companies with 60%–80% of sales support are in the bottom 75% of 
+sales ROI.
+HBR  /  Digital Article  /  In the Best Sales Teams, About Half of the People Are in Suppo…
+Copyright © 2016 Harvard Business School Publishing. All rights reserved.
+2
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+Sales efficiency can benefits from high levels of support in two ways. 
+First, support frees up frontline sales employees to be more productive. 
+A typical sales rep at one of the top companies we analyzed generates 
+$5.7 million in gross margin; a typical rep at the other companies 
+generates just $1.7 million. Second, companies in the sweet spot of 
+support have a greater cost efficiency for their entire sales organization, 
+because sales support staff are usually paid less than frontline sales 
+reps. In our analysis, the top companies had a 15% lower average cost 
+per sales employee than their peers.
+HBR  /  Digital Article  /  In the Best Sales Teams, About Half of the People Are in Suppo…
+Copyright © 2016 Harvard Business School Publishing. All rights reserved.
+3
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+Getting the right composition of sales support. The makeup of sales 
+support is just as important as its quantity. We found that the levels 
+of operations and administrative support are what matters most. The 
+top-performing sales organizations have roughly the same share of 
+customer-facing support as their peers (30%) but twice the share of 
+operations and administrative support (27% in top companies versus 
+12% in their peers).
+Sales operations and administrative support are sometimes a victim of 
+overly aspirational cost-saving efforts. Yet they are invaluable because 
+they enable frontline and pre-sales employees to spend more time with 
+customers and to focus on sales and growth.
+Nailing the ratio of nonmanagers to managers. Our analysis shows 
+that the highest-performing companies have a ratio of nonmanagers 
+to managers of around 8:1. Among lower-performing companies in our 
+analysis, the ratio was greater than 10:1 or lower than 5:1.
+When overseeing more than 10 people, a manager’s capacity to 
+effectively supervise the sales staff decreases, dragging down ROI. On 
+the other hand, managing fewer than four people translates into high 
+costs (i.e., paying for more higher-wage managers).
+Using digital to become “lean” across the entire sales process. Our 
+experience has shown that maximizing the benefits of sales support 
+requires companies to focus on building a fast-moving organization 
+where some support activities are automated, streamlined, or cut 
+entirely.
+For example, companies can apply advanced analytic techniques, 
+such as propensity-to-buy modeling and micromarket targeting, to 
+help sales support staff do deal qualification much more efficiently.
+HBR  /  Digital Article  /  In the Best Sales Teams, About Half of the People Are in Suppo…
+Copyright © 2016 Harvard Business School Publishing. All rights reserved.
+4
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+Digitizing sales planning is also a big opportunity to improve processes. 
+One global high technology company digitized its sales planning 
+process and reduced planning costs by 20%–25% in combination 
+with 5% revenue growth through higher accuracy. Digitizing support 
+activities can improve the process of matching sales bids with the right 
+sales reps and reduce the required time spent per bid by up to 50%.
+When a company gets these four things right, the results speak for 
+themselves. The European sales organization of a global electronics 
+brand saw impressive results when it committed to improving sales 
+staffing ratios and digitizing sales support processes. Before the 
+initiative, its sales reps were suffering from a lack of time for real 
+selling. Up to 70% of their efforts were in administrative and back-
+office tasks. Additionally, there was no common sales support and 
+management structure. Most sales support activities were performed 
+independently and inconsistently for each country, resulting in a lack of 
+standardization and repeated bid and proposal activities.
+To change this, the company adjusted its sales support functions and 
+manager oversight to the ideal ratios we’ve outlined. Sales leadership 
+created a European shared service center and consolidated activities 
+such as order handling, credit checking, license registration, receivables 
+management, and invoicing. Other activities that required complex 
+interactions with customers or quick turnaround times — such as lead 
+qualification, disputes management, and credits management — were 
+kept in local sales offices, where they would be closer to the customer. 
+Time spent on customer-facing sales activities increased from 30% to 
+around 50%.
+The payoffs came in additional revenues and reduced costs. The 
+company experienced a 5%–10% increase in win rates through 
+improvements in customer satisfaction, and up to a 40% reduction in 
+HBR  /  Digital Article  /  In the Best Sales Teams, About Half of the People Are in Suppo…
+Copyright © 2016 Harvard Business School Publishing. All rights reserved.
+5
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+the time needed to close deals. Due to the bundling of tasks in the 
+shared service center and the harmonization of tools and IT systems 
+across markets, there was up to a 30% decrease in sales operations 
+costs and a continuous annual productivity improvement of 2%–3%, 
+especially in frontline activities.
+Sales support is critical. Only by putting in place and optimizing the 
+right types and levels of support can companies hope to get the greatest 
+growth from their sales organization.
+This article was originally published online on May 25, 2016.
+Michael Viertler is a senior partner at McKinsey in the Munich office
+and coleads McKinsey’s global Sales & Channel Practice.
+David Sprengel is a partner in McKinsey’s Munich office, where he 
+focuses on commercial capabilities and go-to-market architecture for 
+the Sales & Channel Practice.
+Sebastian Kuchler is an engagement manager in McKinsey’s Sales & 
+Channel Practice in the Munich office.
+Jochen Ulrich is a knowledge expert at McKinsey based in the Vienna 
+office, where he focuses on sales performance in the Sales & Channel 
+Practice.
+HBR  /  Digital Article  /  In the Best Sales Teams, About Half of the People Are in Suppo…
+Copyright © 2016 Harvard Business School Publishing. All rights reserved.
+6
+This document is authorized for use only by Joel Parisipogu (films.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org

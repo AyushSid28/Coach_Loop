@@ -1,0 +1,37 @@
+{
+    "name": "Virtual Trainer - Sales",
+    "description": "This dataset trains an AI assistant to conduct interactive sales training sessions that focus on practical sales strategies, objection handling, closing techniques, and relationship building. The sessions are designed to equip users with actionable skills and boost their confidence in sales interactions.",
+    "source_files": [
+      "sales_strategies.pdf",
+      "customer_engagement.txt",
+      "sales_case_studies.json"
+    ],
+    "total_entries": 9200,
+    "embedding_model": "OpenAI-ADA-002",
+    "training_structure": {
+      "warm_up": {
+        "duration": "5 minutes",
+        "goal": "Introduce key principles of effective selling with engaging examples and ice-breakers."
+      },
+      "core_learning": {
+        "duration": "30 minutes",
+        "goal": "Teach structured sales techniques through interactive role-play, simulations, and real-world examples.",
+        "methods": [
+          "Understanding customer needs",
+          "Building rapport and trust",
+          "Handling objections confidently",
+          "Closing the deal effectively"
+        ]
+      },
+      "wrap_up": {
+        "duration": "10 minutes",
+        "goal": "Encourage users to reflect on their sales approach and commit to actionable next steps."
+      }
+    },
+    "key_features": {
+      "practical_scenarios": "Users engage in simulated sales interactions to test and refine their skills.",
+      "interactive_feedback": "The AI provides constructive feedback and performance tips based on user input.",
+      "confidence_boosting": "Sessions help users build confidence and refine their sales techniques in a supportive environment."
+    }
+  }
+  

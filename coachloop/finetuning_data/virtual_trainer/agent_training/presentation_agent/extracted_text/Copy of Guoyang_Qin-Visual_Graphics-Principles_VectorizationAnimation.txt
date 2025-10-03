@@ -1,0 +1,428 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/346515470
+Visual graphics: Principles, vectorization and animation
+Presentation · June 2019
+DOI: 10.13140/RG.2.2.27138.30408
+CITATIONS
+0
+READS
+425
+1 author:
+Guoyang Qin
+Tongji University
+43 PUBLICATIONS   268 CITATIONS   
+SEE PROFILE
+All content following this page was uploaded by Guoyang Qin on 01 December 2020.
+The user has requested enhancement of the downloaded file.
+
+viz101
+Visual Graphics
+Principles, Vectorization and Animation
+Guoyang Qin
+guoyangqin@foxmail.com
+1
+
+What is Graphic Design?
+about
+Art & Techniques
+Taste & Rules
+Beauty & Functionality
+Me & Audience 
+2
+
+Rules of thumb
+A. Graphic Design Rules of thumb
+3
+
+Outlines
+C.R.A.P.
+#1 Contrast #2 Repetition #3 Alignment #4 Proximity
+based on The Non-designer’s Design Book by Robin Williams
+4
+
+#1 Contrast
+Contrast is one of the most effective ways to add visual interest to your page—a striking interest that 
+makes a reader want to look at the page—and to create an organizational hierarchy among different 
+elements. 
+Contrast is created when two elements are different. 
+If the two elements are sort of different, but not really, then you don’t have contrast, you have conflict. 
+If two items are not exactly the same, then make them different. Really different.
+5
+
+A Man Feeding Swans in the Snow ©Marcin Ryczek
+6
+
+Mama?
+A380 VS A318 @Annie55917614
+7
+
+Reddit: dataisbeautiful
+8
+
+#1 Contrast
+How to create contrast?
+a) Colors
+b) Scale and Size
+c) Visual weight 
+d) Font combination
+e) Textures
+f)
+Spaces
+Sample
+9
+
+#1 Contrast
+a) colors
+Contrast with dark and light colors
+Contrast with color hue
+10
+
+#1 Contrast
+a) colors
+Contrast with color temperature
+Contrast with color intensity
+11
+
+#1 Contrast
+b) scale and size
+12
+
+#1 Contrast
+c) visual weight
+13
+
+#1 Contrast
+d) font combination
+Three common families of typefaces
+Times New Roman
+Arial
+Courier New
+14
+
+#1 Contrast
+d) font combination
+Font weights and styles
+B
+I
+U
+15
+
+#1 Contrast
+d) font combination
+16
+
+#1 Contrast
+e) textures
+17
+
+#1 Contrast
+f) spaces
+18
+
+#1 Contrast
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+Nam posuere malesuada turpis blandit scelerisque.
+•
+Nunc gravida a velit eget ornare. Donec condimentum aliquet lorem eget consequat. Ut vel ipsum dolor.
+Morbi pretium ipsum at ipsum vulputate lacinia.
+Praesent congue est lacus.
+•
+Nunc lectus arcu, congue sed varius quis, suscipit ut metus. Vivamus placerat odio vitae gravida varius.
+Nulla eu sem ligula. Morbi ac molestie enim.
+•
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+Suspendisse at dui quis massa laoreet euismod. Donec vitae mollis felis, sit amet bibendum turpis.
+Praesent ultricies fermentum finibus.
+
+Integer elit ipsum, auctor in elit sit amet, ultricies interdum elit.
+•
+Etiam libero lacus, sagittis et maximus eu, vulputate auctor dolor. Praesent porta, odio nec finibus
+imperdiet, neque mi porttitor augue, at malesuada tortor nisi ut elit.
+
+Sed porta est quis diam pellentesque dignissim.
+•
+Aliquam erat volutpat. Fusce et sollicitudin leo, quis eleifend mi. Fusce vehicula, mi nec mattis vulputate,
+ligula sapien eleifend enim, eget blandit libero ex non sem.
+EXAMPLE 1
+19
+
+#1 Contrast
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Nam posuere malesuada turpis blandit scelerisque.
+Nunc gravida a velit eget ornare. Donec condimentum aliquet lorem eget consequat. Ut vel ipsum dolor. Morbi pretium
+ipsum at ipsum vulputate lacinia.
+Praesent congue est lacus.
+Nunc lectus arcu, congue sed varius quis, suscipit ut metus. Vivamus placerat odio vitae gravida varius.
+Nulla eu sem ligula. Morbi ac molestie enim.
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse at dui quis
+massa laoreet euismod. Donec vitae mollis felis, sit amet bibendum turpis.
+Praesent ultricies fermentum finibus.
+Integer elit ipsum, auctor in elit sit amet, ultricies interdum elit.
+Etiam libero lacus, sagittis et maximus eu, vulputate auctor dolor. Praesent porta, odio nec finibus imperdiet, neque mi
+porttitor augue, at malesuada tortor nisi ut elit.
+Sed porta est quis diam pellentesque dignissim.
+Aliquam erat volutpat. Fusce et sollicitudin leo, quis eleifend mi. Fusce vehicula, mi nec mattis vulputate, ligula sapien
+eleifend enim, eget blandit libero ex non sem.
+20
+
+#2 Repetition 
+Repeat some aspect of the design through out the entire piece. The repetitive element may be a bold 
+font, a thick rule (line), a certain bullet, color, design element, particular format, the spatial 
+relationships, etc. It can be anything that a reader will visually recognize.
+Repetition can be thought of as “consistency.”
+But repetition goes beyond just being naturally consistent—it is a conscious effort to unify all parts of 
+a design.
+21
+
+Pattern Photography
+22
+
+O’Reilly Books
+23
+
+Cloud
+News
+Drive
+Ads
+Maps
+Google Services
+24
+
+#2 Repetition 
+Repeat color schemes, fonts, gradients, transparency, shadows…
+Method
+Method
+25
+
+#3 Alignment
+Nothing should be placed on the page arbitrarily. Every item should have a visual connection with 
+some thing else on the page.” The principle of alignment forces you to be conscious—no longer can 
+you just throw things on the page and see where they stick.
+When items are aligned on the page, the result is a stronger cohesive unit. Even when aligned 
+elements are physically separated from each other, there is an invisible line that connects them, both 
+in your eye and in your mind. 
+26
+
+A slide cover
+27
+
+More about feeling than mathematics
+28
+
+More about feeling than mathematics
+#3 Alignment
+Use alignment tool instead
+Book recommendations
+EXAMPLE 2
+29
+
+#4 Proximity
+Very often in the work of new designers, the words and phrases and graphics are strung out all over 
+the place, filling corners and taking up lots of room so there won’t be any empty space. There seems 
+to be a fear of empty space.
+When pieces of a design are scattered all over, the page appears unorganized and the information 
+may not be instantly accessible to the reader.
+Group related items together, move them physically close to each other so the related items are seen 
+as one cohesive group rather than a bunch of unrelated bits.
+30
+
+USPS Form
+31
+
+Grouping
+32
+
+33
+
+34
+
+Summary
+Contrast - If two items are not exactly the same, then make them different. Really different
+Repetition - Repeat some aspect of the design through out the entire piece
+Alignment - Nothing should be placed on the page arbitrarily. Every item should have a visual 
+connection with some thing else on the page.
+Proximity - Group related items together 
+35
+
+Vectorization
+B. Vectorization
+36
+
+Vector graphics
+Infinitely scalable
+Raster graphics
+Subject to resolutions
+High-quality, professional, easy-to-reuse
+Compatible, printing-friendly
+Vectorization
+PROS
+CONS
+Rendered slowly if complicated
+Pixelated, less professional, hard-to-reuse
+37
+
+Scalable
+Vector graphics are computer graphics images that are defined in terms of 2D points, which are connected 
+by lines and curves to form polygons and other shapes. WIKIPEDIA
+Matrix manipulations
+Affine transformations
+www.vecteezy.com/editor
+However, raster images are just a matrix of colored pixels, cannot be recomputed when scaled.
+38
+
+Programmable and Interactive
+New York Times
+Not just a static image any longer, it is a group of objects you can manipulate to tell great stories. 
+Gapminder.org
+39
+
+Where to get vector graphics?
+#1 By coding
+Plot any figure as you always do with your 
+favorite programming language
+STEP 1
+Save figures as .pdf, .svg, or .eps.
+STEP 2
+Insert the files into your slides or text editors.
+STEP 3
+Animate it!
+Advanced
+•
+Word, PowerPoint 2019 support .svg
+•
+LaTeX supports .pdf and .svg.
+Common formats for vector graphics.
+•
+Python: fig.savefig("name.svg")
+•
+Julia: savefig("name.svg")
+•
+Matlab:  File -> Export Setup -> Export and 
+chooses type .svg.
+•
+Office: export to .pdf
+40
+
+Where to get vector graphics?
+1. Convert to shape
+2. Ungroup
+3. Animation
+Animate it!
+Advanced
+EXAMPLE 3
+#1 By coding
+41
+
+Where to get vector graphics?
+1. Convert to shape
+2. Ungroup
+3. Animation
+Animate it!
+Advanced
+REPRODUCE
+#1 By coding
+42
+
+Where to get vector graphics?
+#2 By downloading
+Source:
+flaticon.com
+freepik.com
+vecteezy.com
+and many…
+43
+
+Where to get vector graphics?
+Vector graphic editors
+EXAMPLE 4
+#2.5 By coding + downloading
+Adobe Illustrator
+Inkscape
+Online editors: Vectr, Boxy SVG Editor
+Modify you exported figures
+44
+
+Where to get vector graphics?
+By drawing
+Design logos, posters, brochures etc.
+Advanced
+Diagrams, infographics
+45
+
+Animation
+C. Animation
+46
+
+Animate
+w/ PowerPoint
+w/ animation programs
+such as Adobe Animate
+w/ programming languages
+Easy-to-use
+Flexible
+Data-driven
+47
+
+Frames and layers: key concepts in animations
+Frames in flip books
+Timeline in animation programs
+ax.plot_trisurf(df['Y'], df['X'], df['Z'])
+for angle in range(70,210,2):
+ax.view_init(30,angle)
+Program it
+Iterate over frames
+Create objects
+Update object status
+48
+
+Animate with coding
+EXAMPLE 5
+fig = plt.figure()
+ax = fig.gca(projection='3d')
+ax.plot_trisurf(df['Y'], df['X'], df['Z'], 
+cmap=plt.cm.viridis, linewidth=0.2)
+for angle in range(70, 210, 2):
+# Make the plot
+ax.view_init(30, angle)
+fig.canvas.draw()
+fig.canvas.flush_events()
+49
+
+Animate with coding
+EXAMPLE 6
+Objects
+Status
+Action
+Relationshi
+p
+Passengers
+Requested
+Assigned
+Appear/dis
+appear
+Connecting 
+if assigned 
+pairs
+Drivers
+Searching
+Deadheadin
+g
+Delivering
+Moving
+Maps
+static
+static
+Key: if you want to control them, get their 
+handles/axes first
+passengers_requested = 
+ax.scatter([], [], 10,...)
+plt.scatter([], [], 10,...)
+50
+
+Visual Graphics
+Principles, Vectorization and Animation
+thank you ⋅谢谢⋅متشکرم⋅merci
+Guoyang Qin
+guoyangqin@foxmail.com
+51
+View publication stats

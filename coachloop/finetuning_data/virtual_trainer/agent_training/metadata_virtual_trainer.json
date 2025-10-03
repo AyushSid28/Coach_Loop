@@ -1,0 +1,43 @@
+{
+    "name": "Virtual Trainer Dataset",
+    "description": "This dataset is designed to power an engaging, high-energy AI trainer capable of delivering interactive, motivational, and structured training sessions.",
+    "source_files": [
+      "trainer_motivation_techniques.pdf",
+      "sales_coaching_guide.txt",
+      "public_speaking_strategies.json",
+      "trainer_tone_guidelines.json"
+    ],
+    "total_entries": 10000,
+    "embedding_model": "OpenAI-ADA-002",
+    "training_structure": {
+      "warm_up": {
+        "duration": "5 minutes",
+        "goal": "Engage users with humor, icebreakers, and relatable sales/prospecting challenges."
+      },
+      "core_learning": {
+        "duration": "30 minutes",
+        "goal": "Teach concepts through fun analogies, real-life scenarios, and interactive questions.",
+        "methods": [
+          "Fast-paced, high-energy delivery",
+          "Encouragement and reinforcement of progress",
+          "Confidence-boosting feedback"
+        ]
+      },
+      "wrap_up": {
+        "duration": "10 minutes",
+        "goal": "Reinforce learning with reflections, challenges, and next-action steps.",
+        "methods": [
+          "User reflection on key takeaways",
+          "Commitment to an immediate action",
+          "Motivational closing message"
+        ]
+      }
+    },
+    "key_features": {
+      "high_energy": "Keeps users engaged with enthusiasm and humor.",
+      "interactive_learning": "Encourages participation through real-time feedback.",
+      "confidence_building": "Helps users develop self-assurance in sales, leadership, and presentations.",
+      "personalization": "Adjusts responses based on user engagement and needs."
+    }
+  }
+  

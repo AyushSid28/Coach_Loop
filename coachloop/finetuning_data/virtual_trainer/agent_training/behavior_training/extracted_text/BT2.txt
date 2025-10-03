@@ -1,0 +1,1378 @@
+A FACILITATOR’S 
+HANDBOOK
+OCTOBER 2021
+
+A FACILITATOR’S HANDBOOK
+2
+Introduction	
+3
+Principles of facilitation	
+4
+The role of the facilitator	
+4
+The facilitator’s mindset	
+5
+Planning, purpose, place and people	
+5
+	
+Planning	
+5
+	 Purpose	
+5
+	 Place	
+6
+	 People	
+6
+Decisions to make about how you will facilitate	
+7
+	
+Structure	
+7
+	 Pace and energy	
+7
+	 Democracy	
+8
+	 Consider the medium of the conversation	
+8
+	 Capturing and harvesting	
+9
+Structure	
+10
+Before the meeting	
+10
+The welcome: creating the environment you want	
+10
+The Diamond of Participation	
+1 1
+	
+Open / Divergence	
+12
+	 Explore / Emergence	
+12
+	 Close / Convergence	
+12 
+	 The Diamond of Participation diagram	
+13
+Activities	
+14
+Check-ins and check-outs	
+14
+	
+Chat waves	
+14
+Creating the container	
+15
+Asking questions	
+15
+Thinking alone, thinking together	
+16
+Question storming	
+16
+Liberating Structures	
+17
+	
+Virtual tips and tools	
+18
+	
+Planning for a virtual meeting	
+18
+	 Using Zoom break-out rooms	
+19
+	 Using online platforms	
+19
+	 The tech host role and co-facilitation	
+19
+	 Expect things to take longer	
+20
+Becoming a better facilitator	
+21
+What to practise	
+21
+How and where to practise	
+21
+Resources	
+22
+	
+Resources on virtual facilitation	
+22
+	 Books	
+22
+ Appendix: Document URLs	
+23
+Credits	
+24
+Curiosity Society	
+24 
+Active Gloucestershire	
+24
+we can move	
+24
+Contents
+
+A FACILITATOR’S HANDBOOK
+3
+Summary
+The ability to facilitate starts with understanding the role of 
+the facilitator and the facilitator’s mindset. The next ingredient 
+is having a clear purpose for a meeting or gathering. This 
+purpose will guide the facilitator’s choices of venue, who to 
+invite, and how they facilitate. The amount of structure, how 
+decisions are made and how a meeting is recorded are all 
+important decisions that should be made with intention.
+The structure of the meeting is likely to follow a pattern of 
+opening, exploring and closing. Understanding this ‘diamond 
+of participation’ and planning for each stage helps a facilitator 
+to ensure a group shares a lot of diverse ideas, can have room 
+for disagreement and improving the ideas, and can make 
+choices between them, with clear next steps. With a clear 
+purpose and structure, it becomes easier to select and  
+adapt activities.
+All of these principles and techniques apply to virtual 
+facilitation as well as in-person. In fact, making intentional 
+decisions ahead of a meeting becomes more important when 
+it is more difficult to adjust on the go. There are additional 
+considerations to take into account such as extra planning, 
+using technology and working with a tech host or co-
+facilitator.
+Finally, facilitation is a skill that can be practised and learnt 
+over time. This is more than having a few more activities under 
+your belt. You might practise asking better questions, giving 
+clear instructions or even trying your hand at improvisation. 
+Finding opportunities to try things out and get feedback  
+helps a lot.
+How to navigate and use this handbook
+You are very welcome to read this handbook from front-to-
+back, but you can also dip into each section for your particular 
+needs. Even if you are a more experienced facilitator, you 
+might be tempted to skip over the Principles of Facilitation 
+section. However, you might find this section helps you  
+understand your facilitation practice in a new light.
+Using supporting links
+Clickable links to related pages and supporting online  
+content are available throughout this handbook. For those 
+using non-digital handbooks, an appendix of URL links are 
+provided on page 23. 
+Introduction	 	
+Facilitation can enable us to have better 
+gatherings and make the most of the 
+collective wisdom of a group.
+For Active Gloucestershire, facilitation is particularly 
+important in catalysing the social movement, we can move. 
+Well-facilitated gatherings can enable schools, employers, 
+religious organisations, neighbourhood groups, social 
+clubs and charities to come together as more than the sum 
+of their parts to increase levels of physical activity across 
+Gloucestershire.
+The handbook builds on a pair of workshops with the Active 
+Gloucestershire team led by the Curiosity Society in early 
+2021. Thank you to everyone who took part.
+
+A FACILITATOR’S HANDBOOK
+4
+The role of the facilitator 
+“We use “facilitation” to describe a style of 
+engaging others toward a goal. We generally 
+assume that goal is learning, which we use 
+in the broadest of ways: learning content 
+knowledge, learning about oneself and others, 
+or unlearning (our favorite type of learning). 
+[...] The facilitator is the person responsible for 
+guiding the learning process.”
+   Unlocking the Magic of Facilitation,  
+Sam Killermann and  Meg Bolger
+“A facilitator is someone trained in the skill 
+of shaping group dynamics and collective 
+conversations.”
+  The Art of Gathering 
+Priya Parker
+Facilitation can involve a wide range of activities – from fun 
+games to emotional conversations. At its heart, facilitation is 
+about good ‘process’ – providing a structure and environment 
+which allow something new to emerge. It can help take a mess 
+of ideas and people to some kind of conclusion in the form of 
+plans and improved ideas.
+A facilitator in the purest sense will be neutral to the outcome 
+of a meeting. They instead focus on creating an environment 
+in which people are comfortable sharing, there is balance in 
+who speaks, they ask questions that move the conversation 
+along, keep track of time and make adjustments to the plan as 
+they read the energy of the room and the changing needs of 
+the group.
+An assumption behind facilitation is that the wisdom of 
+the group is greater than the wisdom of any individual. By 
+having someone to look after the process, attendees can 
+fully immerse themselves in participating, contributing more 
+of their experience and expertise. Done well, this leads to a 
+better, more creative outcome which has the support of more 
+of the group and leads to better relationships amongst  
+the group. 
+However, in practice, facilitators are almost never completely 
+neutral. As well as having their own social and psychological 
+biases, a facilitator may bring content expertise, might have 
+leadership responsibilities or may have called the meeting 
+with a clear sense of what they want to get out of it.
+In this case, rather than pretending to be neutral, the facilitator 
+should acknowledge the multiple ‘hats’ they are wearing and, 
+perhaps, naming the biases they might have. For example, if 
+there is an agenda item where they have subject expertise, 
+they might wear the ‘expert hat’ for that part, asking someone 
+else to facilitate that section. Similarly, a leader might ask 
+for someone else to facilitate if there is an issue they are 
+particularly invested in.
+“The facilitative leader role is the most difficult 
+facilitative role to fill because you need to use 
+facilitative skills at the same time you’re deeply 
+involved in the content of the conversation 
+and the decision-making process. [...] And the 
+more you’re involved in the content and the 
+stronger your views on the content are, the 
+more difficult it is to be curious about others’ 
+views and ask others to identify any gaps or 
+problems in your reasoning.”
+   The Skilled Facilitator,  
+Roger Schwarz
+ 
+One risk of trying to wear multiple hats at the same time is 
+what can be called ‘facipulation’ – a portmanteau of facilitation 
+and manipulation. In this scenario, the so-called facilitator has 
+a very clear outcome in mind for the conversation and guides 
+the conversation to that conclusion. This is one sure-fire way 
+to lose trust in the idea of facilitation!
+“Be selective about when you share your 
+opinion or experiences. Your opinion will often 
+create a climate where the “neutral” is similar 
+to you, disproportionate to other people’s 
+sharing. Know your voice carries this weight 
+every time you decide to weigh in.”
+  Unlocking the Magic of Facilitation,  
+Sam Killermann and  Meg Bolger
+Principles of facilitation
+
+A FACILITATOR’S HANDBOOK
+5
+Principles of Facilitation
+The facilitator’s mindset
+In The Skilled Facilitator, Roger Schwarz claims that “the 
+most challenging part of facilitation is not the group – it’s your 
+mindset and how the group affects it”.  He advocates for 
+operating in the ‘mutual learning mindset’:
+“The mutual learning mindset comprises the 
+core values of transparency, curiosity, informed 
+choice, accountability, and compassion. When 
+you operate from the mutual learning mindset, 
+rather than assuming you understand and 
+are right while others who disagree don’t 
+understand and are wrong, you assume that 
+each of us is missing information and that the 
+differences are opportunities for learning. You 
+recognise that you may be contributing to the 
+very problems you’re complaining about.”
+   The Skilled Facilitator  
+Roger Schwarz
+ 
+While many of us might operate out of this mindset when 
+we’re at our best, it’s when we are challenged, triggered and 
+tired that it is most difficult to maintain this. This is also the 
+most important time to be in this mindset.
+In situations where you find yourself getting worked up, it can 
+be helpful to pause for a moment to recognise this, take a 
+breath and return again to being curious, open and humble. 
+It’s not easy to do this, but it can help the rest of the group a 
+great deal and get things back on track.
+“Listening is key to all good communication.  
+The problem is that we think we are great 
+listeners until we hear something that isn’t 
+consistent with our current thinking. Then we 
+become tense, contracted, and defensive, and 
+the conversation fails to expand into  
+new territory.”
+   Compassionate Conversations 
+Diane Musho Hamilton, Gabriel Menegale 
+Wilson, and Kimberly Myosai Loh
+Planning, purpose, place and people
+Planning
+It is sometimes possible to facilitate a group to a great 
+outcome on the fly. However, for most of us, most of the time, 
+the meeting will go a lot better if we think about the purpose, 
+the structure, the tone, the technology  and more, well ahead 
+of time.
+It can take much longer than the duration of the meeting to 
+prepare for it – especially if the brief changes, the meeting is 
+remote and there are multiple facilitators. While this might feel 
+inefficient, a badly-run meeting is a much worse waste of time 
+when you consider the number of people involved. In fact, 
+it’s very easy for a meeting to make things worse rather than 
+better if it confuses or even upsets participants.
+In the section on Virtual Tips and Tools there is a sample 
+session planning table you can use to capture your plan.
+Purpose
+“The first step in convening people 
+meaningfully: committing to a bold, sharp 
+purpose. 
+[...] 
+Make purpose your bouncer. Let it decide what 
+goes into your gathering and what stays out. 
+When in doubt about any element, even the 
+smallest detail, hark back to that purpose and 
+decide in accordance with it.”
+   The Art of Gathering  
+Priya Parker
+A purpose is not the same as an agenda. A good purpose will 
+tell you not only what you’re trying to achieve, but also what 
+you won’t be discussing.
+Reviewing the purpose of a gathering is especially important 
+when you’re moving online a meeting that normally happens 
+in-person. It may turn out that your meeting means different 
+things to different people. To one colleague it’s about hearing 
+updates, to another it’s a chance to catch up and connect, to 
+another it’s about prioritising next steps.
+The best way to figure out the purpose is to ask people ahead 
+of time what they want to get out of the meeting (yup… it’s not 
+rocket science!). If they say different things, then you can have 
+a conversation about different ways to meet their needs. Can 
+some of it be done on a shared document or an email update? 
+Do you need another meeting, maybe with a smaller group of 
+people? In what order might you tackle the needs of different 
+people? 
+
+A FACILITATOR’S HANDBOOK
+6
+Principles of Facilitation
+If you think about it as a process of offline and online 
+activities instead of a single event, you may stumble on a 
+more effective option. It’s better to consider this openly than to 
+end up spending a couple of hours satisfying nobody.
+One way to get to a more compelling purpose is to keep on 
+asking ‘why?’. You can do this five times to get to the root of 
+why a meeting is happening. It might surprise you!
+Place
+A location can inspire a group to think differently. Are you in 
+a cosy room with cushions and low lighting or an auditorium 
+with stage lighting? Have people had to travel somewhere 
+different? Have you moved the chairs and tables around in 
+your standard meeting room?
+“Switching the configuration of the room 
+can create new energy: swap the seating 
+arrangement (e.g., if you were in a classroom 
+style, change it to an open circle, or small pods) 
+and ask participants to sit by someone new.”
+   Unlocking the Magic of Facilitation,  
+Sam Killermann and  Meg Bolger
+ 
+You can be creative with this even when working remotely 
+– ask participants to light a candle, sit somewhere different 
+or even have a different virtual background. You could send 
+a fancy tea bag in the post for everyone to drink together or 
+suggest that they have a walk around the block in the mid-
+session break.
+Try to look after physical needs of the participants. Work 
+with biology, not against it! If you’re in person, provide good 
+snacks or meals, choosing refreshments to avoid a sugar 
+crash or a carb-induced post-lunch slump. If you’re working 
+virtually, make sure people have had time for refreshments 
+if you’re meeting over lunchtime. And either way, don’t go 
+too long without a break and encourage people to look after 
+themselves, even if that means stepping out of the meeting for 
+a few minutes.
+People
+Who needs to be in the meeting? The more people you 
+have, the more difficult it is for everyone to meaningfully 
+contribute. It can help to do some basic meeting arithmetic 
+and multiplying how many people you expect to come by how 
+long you think each of them should contribute (e.g. 12 people 
+speaking for five minutes each is an hour). Of course, in reality, 
+some people will speak for much longer than others.  It’s no 
+wonder that meetings often run over, with several people still 
+feeling like they didn’t have their say. 
+The rest of this guide will give many ideas for enabling many 
+people to contribute and for this to add up to achieving 
+the purpose of the meeting. However, it’s still a good idea 
+to exercise restraint in who is invited. This is especially true 
+for remote meetings where there is a much lower barrier 
+to joining a Zoom videoconference, and it’s easy to invite 
+everyone just to be polite.
+There are ways around this. Can you record the meeting 
+(or parts of it) to watch back later? Or can you capture it in 
+another way so that those who couldn’t attend can quickly 
+understand what was discussed and decided?
+When preparing, it’s not only the number of people you need 
+to consider but whether there are any difficult dynamics 
+that could surface and the diversity of the group you are 
+assembling. Remember that it is a powerful choice you are 
+making to include or exclude different voices. If you are 
+making the decision to keep a meeting small, consider other 
+ways for the views of a larger group to be heard.
+
+A FACILITATOR’S HANDBOOK
+7
+Principles of Facilitation
+Decisions to make about how you  
+will facilitate
+Facilitators need to be able to make an informed decision 
+on how they will design and facilitate each session. While 
+facilitators tend to have a style they tend towards (e.g. fun and 
+fast, or reflective and deep), it helps to have some range and 
+to be able to adapt to different circumstances.
+The section below describes a few design choices to be made 
+ahead of a session.
+Another way of doing this is to use Daniel Stillman’s 
+Conversation Design Operating System canvas. 
+The nine sections are:
+•	People and diversity
+•	Invitation and initiation
+•	Power and permission
+•	Turn taking and silence
+•	Interface and space
+•	Cadence and rhythm
+•	Threading and narrative
+•	Goals and agreements, and
+•	Error and repair.
+There is a template version of it you can use for free on 
+Mural  (an online whiteboard tool).
+Structure
+The amount of structure chosen should support the intended 
+purpose and tone of the meeting. 
+Structure and process can be liberating and allow a group to 
+improvise within boundaries. If you have a process you trust, 
+you can create a safe container for ideas and conversation to 
+flow.  This is the whole idea of Liberating Structures – that 
+the right kind of structures can invite participation, creativity 
+and wisdom.
+Too much structure can be limiting, especially if the facilitator 
+does not adapt it to changing circumstances. On the other 
+hand, not having enough structure can be frustrating. 
+A conversation that feels nice and open but doesn’t go 
+anywhere can understandably lead to losing trust in the 
+process. A lack of structure can also mean that the same 
+characters talk more.
+Pace and energy
+Choose the pace and level of energy that is appropriate for 
+the purpose of your meeting and the people involved.
+Sometimes a slow, reflective discussion with plenty of space 
+for people to express their feelings and perspectives is helpful. 
+Other times, a rapid-fire meeting with time limits and efficient 
+chairing is what the group needs. Indeed, both of these can be 
+useful within the same meeting.
+If you have a discussion that needs room to breathe, don’t 
+be tempted to cram it into a time box – especially when it is 
+emotionally important. This might feel efficient in the meeting 
+itself, but probably means it won’t be dealt with properly and 
+you’ll need to revisit it. One way of dealing with this is to pick a 
+part of the larger issue to discuss and make progress on. 
+The meeting arithmetic (see the section on People) of how 
+many people are in the meeting will help you decide how 
+much you need to speed up or slow down. For something 
+like a check-in or sharing back from breakout rooms, it can 
+be helpful to explicitly name how much time there is for the 
+section and how many people will be sharing so that the group 
+can self-regulate.
+Consider the energy of the meeting. There is a place for 
+silence – either as a pause to allow people to gather their 
+thoughts or as people are using a virtual whiteboard or typing. 
+This can suit the introverts in the room. A slightly chaotic 
+discussion with post-it notes flying around is more likely to suit 
+extraverts. Try to mix this up in different sections.
+How you act and speak will change the level of energy. For 
+instance, if you slow down your speech and talk gently, the  
+rest of the group will probably mirror you. 
+
+A FACILITATOR’S HANDBOOK
+8
+Principles of Facilitation
+Democracy
+In a status update meeting, a leader might present what has 
+been happening with a short time for questions at the end. In a 
+freewheeling creative conversation, the process itself might be 
+up for discussion and everyone is able to contribute as much 
+as they want. Most facilitated sessions will be somewhere 
+between these extremes. 
+A simple way to be more democratic is to ensure people 
+have an equal opportunity to speak. Going round the room 
+(physical or virtual) and taking turns, perhaps timed, is a 
+simple way to do this. One reason a check-in is a powerful 
+tool is that it means that everyone has spoken at the beginning 
+of the meeting. If there are people who tend to dominate 
+meetings, you might need to speak with them ahead of time to 
+suggest that they need to hold back for the good of the group.
+Other ways to hear from more voices described later in this 
+handbook include:
+•	Breakout groups – it’s easier and safer to share in a 
+smaller group
+•	Thinking alone then thinking – give time for people to 
+formulate their thoughts before speaking so it’s not  
+only the most confident people jumping in first
+•	Voting – reveal the group’s preferences
+•	Checking understanding and reading the room to  
+see who is engaging.
+Also consider what level of agreement you need from the 
+group for a particular decision. Do you need consensus 
+(everyone agreeing) or only consent (nobody has a strong 
+objection)?
+Note that the facilitator is part of the power dynamics of a 
+group. A facilitator can act as a kind of benevolent dictator, 
+wielding their power over the process in order for the group 
+to make the most of its expertise and experience. For that 
+reason, it’s a good idea to ask permission to facilitate from the 
+group up-front. This includes looking after the process and 
+timing, and sometimes cutting them short for the good of the 
+group. Saying this up-front makes it less awkward when you 
+do need to interrupt.
+ “Ask the group check-in questions throughout 
+the workshop. Ask them what they think about 
+things. Ask them how they feel. Ask them to 
+rephrase points you made, or someone else 
+in the room made. Ask them to reflect back 
+on the first half of a workshop aloud. Process 
+the process. Ask them whatever you need to 
+know... just, you know, shut up once you do.”
+   Unlocking the Magic of Facilitation  
+Sam Killermann and  Meg Bolger
+The dark side of the power of the facilitator is that it’s easy to 
+lose track of how the group is doing and fixate on following 
+the process no matter whether it is still useful or not. One way 
+around this is to ask the group at times how they are finding 
+the process. While it is possible to get some impression 
+of how the group is feeling from body language and vocal 
+tone, a simple question like: ‘Would you like to continue this 
+discussion or move on?’ can reveal the preferences of the 
+group.
+Consider the medium of the conversation
+In a normal face-to-face conversation, the medium is air. 
+Sometimes we might write on sticky notes or a whiteboard, 
+which helps us have a common understanding of what 
+ideas are emerging and where we have agreement or 
+disagreement. Often one person will be taking notes that are 
+shared afterwards.
+When we’re on a teleconference it can be more difficult to 
+track where the conversation is going. The medium lacks 
+nuance. We don’t have the visual cues we have in person and 
+it’s difficult to jump in and say you’re confused. This is one 
+reason that it is helpful for people to turn on their cameras 
+during virtual meetings — it helps everyone to read the room 
+(plus, seeing faces makes humans happy!). It also helps to 
+have norms for hand gestures for showing agreement or 
+disagreement (clapping, thumbs up/down, etc.) or for raising 
+hands for a question.
+In a virtual space, we can go further than this by having a 
+shared space to not only record the conversation but to allow 
+contributions from many people in parallel. A simple way to 
+do this is a ‘chat wave’ in the Zoom chat box (see the section 
+on Check-ins and Check-outs). You could also use a virtual 
+whiteboard such as JamBoard, Mural or Miro, or a simple 
+Google Doc. Just watch out for overwhelming people with 
+multiple applications and windows and be really clear about 
+where people should be looking. Keep it simple.
+
+A FACILITATOR’S HANDBOOK
+9
+Principles of Facilitation
+Capturing and harvesting
+Capturing and harvesting the meeting enables you to have a 
+shared sense of what is happening during the meeting and to 
+remember and share this afterwards. There is a good reason 
+why flip-charts and post-it notes are ubiquitous in in-person 
+workshops: they allow us to make the conversation visible to 
+those present in the room and to have an accurate record that 
+can be photographed, written up and shared afterwards. This 
+ensures that the conversation does not stay in the meeting. 
+This, of course, happens with more conventional meetings in 
+the form of minutes.
+If you have been thoughtful about the medium of the 
+conversation, you can make use of this to capture meaning 
+as you go, checking with the group that what you’re writing 
+accurately reflects what they’re saying. This can be most 
+helpful when they point out how you’ve missed the point!
+“As you go, ask the team, “Does this look right?” 
+or “How should I capture that?” And when the 
+conversation starts to stall out, you can nudge 
+it to conclusion by saying, “Is there a good way 
+we can capture this thinking and move on?”
+  Sprint  
+Jake Knapp
+If you’re a visual thinker, you can go beyond written notes to 
+draw diagrams and doodles. Books like Sunni Brown’s Doodle 
+Revolution can teach you how to do this, and you can quickly 
+get better with practice. You don’t need to be an artist for your 
+drawing to help bring out the creativity in a group.
+“A good sketch has just enough information to 
+get an idea across, and no more.”
+  Gamestorming  
+Dave Gray, Sunni Brown, and James Macanufo 
+ 
+
+A FACILITATOR’S HANDBOOK
+10
+Before the meeting
+“A colleague in the conflict-resolution field 
+taught me a principle I have never forgotten: 
+90 percent of what makes a gathering 
+successful is put in place beforehand.”
+  The Art of Gathering  
+Priya Parker
+Remember to think about how people find out about the 
+meeting, how they are invited, what they read or watch 
+beforehand and how they arrive. Does the meeting have a 
+compelling name? Do you need to have a phone call with 
+each person beforehand to check what they are thinking? Do 
+people get invited in an Identikit email or a hand-written note? 
+Do they look at the pre-reading in a scrambled five minutes 
+before the meeting or at their leisure a few days before? Do 
+they have to look back across 17 emails to find the Zoom 
+link, only to discover that the meeting is on Teams and has a 
+password? All of these things will make a big difference to 
+how they feel, think and act on arrival and therefore how they 
+will contribute.
+The welcome: creating the environment 
+you want 
+“Hosts often don’t realize that there tends to 
+be unfilled, unseized time between guests’ 
+arrival and the formal bell-ringing, glass-
+clinking, or other form of opening. Make use 
+of this no-man’s-land.”
+  The Art of Gathering 
+Priya Parker
+What will people find when they arrive at the meeting? The 
+default tends to be awkward small talk but we can do better 
+than this! This is your chance to set the tone. There are all 
+manner of things you can do to signal what kind of meeting 
+this will be.
+If you want an upbeat start, you might play some lively music. 
+If you’re in-person, you might have some tasty snacks on hand 
+(or encourage them to get some in their own home if meeting 
+remotely). To orient people, you might have the agenda 
+written up on a slide or on a wall, perhaps in a visual form like 
+that of a journey. If you’re on Zoom, you could put people into 
+breakout rooms straight away to mingle. 
+Try something different in your next meeting. At the very least 
+it will grab people’s attention and mitigate their  
+meeting fatigue!
+Structure
+
+11
+Structure
+A FACILITATOR’S HANDBOOK
+The Diamond of Participation 
+“Every game is a world which evolves in 
+stages, as follows: imagine the world, create 
+the world, open the world, explore the world, 
+and close the world.”
+   Gamestorming 
+Dave Gray, Sunni Brown and James Macanufo
+While excellent meetings come in all shapes and sizes, a 
+common pattern is of opening at the beginning, exploring 
+in the middle and closing at the end. This creates the shape 
+of a hexagon, but is known as the diamond of participation. 
+Opening, exploring and closing is also something known as 
+divergence, emergence and convergence.
+Each of the three elements is necessary. If you do not open up 
+to a wide set of perspectives and ideas, you’ll be missing out 
+on potential options to choose from later on. If you skip the 
+explore phase, you’ll miss the opportunity to have productive 
+disagreements and improve the ideas. Finally, if you open 
+things up, you should make sure to close, otherwise things feel 
+messy and it leaves the issue and next steps unresolved.
+ 
+“Often the worst thing you can do with a 
+difficult question is to try to answer it too 
+quickly. When the mind is coming up with 
+What If possibilities, these fresh, new ideas 
+can take time to percolate and form.”
+  A Beautiful Question 
+Warren Berger
+When planning a session, think about the balance between 
+opening, exploring and closing. It’s likely that you find yourself 
+drawn more to one than the others. Some people love asking 
+big questions to open up conversations. Some enjoy holding 
+the tension of paradoxical ideas. And others like things to 
+be resolved neatly. If you know which of these you are most 
+drawn to, you can regulate yourself and maybe ask for help 
+from someone with complementary skill sets and preferences.
+Open, explore and close can work at different scales 
+(sometimes simultaneously). You can use it for a five-minute 
+breakout conversation, for a one hour meeting and for a 
+twelve-month strategic planning process.
+A simple version of the Diamond of Participation
+
+12
+Structure
+A FACILITATOR’S HANDBOOK
+Open / Divergence
+At this stage, you want to ask big questions, generate lots of 
+ideas and look at things in a different way. It can be helpful to 
+have a mix of solo working, pairs and trios, and larger group 
+discussions in order to allow both introverts and extraverts to 
+contribute fully.
+“The keyword for opening is “divergent”: 
+you want the widest possible spread of 
+perspectives; you want to populate your world 
+with as many and as diverse a set of ideas as 
+you can.”
+   Gamestorming 
+Dave Gray, Sunni Brown and James Macanufo
+Explore / Emergence
+This is the space for courage, disagreement and improving 
+the options you have. As you can see in the diagram, this can 
+be known as the ‘groan zone’ as it can often be a frustrating 
+experience. As a facilitator, it’s your job to hold the group in 
+this zone for longer than they’d probably like, because the 
+pay-off comes in the form of better ideas than actually address 
+the root cause. In this stage, it’s especially important to create 
+a healthy environment for disagreement and healthy conflict. 
+If you have agreed how you want to work together at the 
+beginning of the meeting, you might want to revisit this. 
+“The keyword for the exploring stage is 
+“emergent”: you want to create the conditions 
+that will allow unexpected, surprising, and 
+delightful things to emerge.”
+   Gamestorming 
+Dave Gray, Sunni Brown and James Macanufo
+Close / Convergence
+The final stage is for synthesis, decisions, prioritisation and 
+next steps. This might mean finding consensus, checking for 
+a group’s consent for what happens next, voting between 
+options or wrapping up with some closing remarks or a  
+check out.
+If you’re opening up a big, contentious issue, you should plan 
+enough time to resolve it to at least some extent.  Closing 
+doesn’t have to mean finding consensus - it could just mean 
+identifying the next questions you need to ask or identifying 
+who is responsible for arranging the next conversation. 
+“The keyword for the closing act is 
+“convergent”: you want to narrow the field in 
+order to select the most promising things for 
+whatever comes next.”
+   Gamestorming 
+Dave Gray, Sunni Brown and James Macanufo
+ 
+
+13
+Structure
+A FACILITATOR’S HANDBOOK
+The Diamond of Participation 
+A more detailed version of the Diamond of Participation. 
+EMERGENCE
+?
+CONVERGENCE
+DIVERGENCE
+BRAINSTORM
+Find new ideas
+Work with new people
+!
+STRENGTHEN 
+GOOD IDEAS
+Make good decisions
+BRAINSTORM
+LEARN
+FEAR
+CONFLICT
+JUDGEMENT
+GROAN  ZONE
+FRUSTRATION
+STUCK
+CONTROLLING
+QUITTING
+EXHAUSTED
+DISCOVER
+MAKE PROPOSALS
+MAKE DECISIONS
+
+A FACILITATOR’S HANDBOOK
+14
+There are thousands of activities that a 
+facilitator can choose from, adapt and 
+combine. Many resources are available 
+online.
+This section is therefore not attempting to be comprehensive, 
+but to give a selection of more general activities that can be 
+used in many meetings and workshops.
+A variety of ways to engage, how would this group like  
+to engage? 
+Check-ins and check-outs
+In a typical check-in, the facilitator will give a prompt question 
+and everyone in the group answers in turn. This might be as 
+simple as sharing their name and role, but there are many 
+possibilities.
+Check-ins and check-outs are deceptively powerful tools to 
+create more inclusive and productive meetings. Check-ins 
+can help participants to ‘arrive’ at the meeting, give everyone 
+the chance to speak straight away (even if briefly), help the 
+group to hear everyone and see patterns, and start to get 
+people thinking about the subject matter of the meeting. A 
+check-in is also useful for giving the facilitator an indication 
+of what the group is thinking and feeling, and whether the 
+meeting plan might need to change with this in mind.
+As with all parts of a meeting, it helps to have a clear purpose 
+in mind for the check-in when deciding how to run it. This will 
+help with the choice of tone (fun or reflective), length (one 
+word each or five minutes), prompting question (related or 
+unrelated to the agenda), and whether to keep everyone 
+together or put people in pairs or breakout groups. 
+‘Check-in Success’ have a very long list of questions that 
+can be used for check-ins as well as giving guidance on what, 
+why, when and how.
+You can be creative with check-ins. For example, instead 
+of asking people how they are feeling, you can ask people 
+to draw, share a movement or dance move, or an object in 
+the room, or share a metaphor or image. It can help to give 
+everyone 30 seconds to reflect on their answer and write 
+it down before anyone starts sharing. That way, they are not 
+scrambling to come up with a profound answer instead of 
+listening.
+An alternative to a whole group check-in is to put people in 
+pairs or trios and ask them to discuss a prompt question. This 
+can give each person longer to speak without the check-in 
+taking longer. It can also help build relationships, especially in 
+a newly forming group. The Liberating Structure Impromptu 
+Networking is one way to do this.
+Check-outs work on a similar principle at the end of a 
+meeting. Having been through a shared experience, each 
+person can share what they are taking away, what they have 
+learnt or whatever else serves the purpose of closing the 
+gathering. This can also be an opportunity to get feedback on 
+the meeting and for people to commit to next steps. The Fun 
+Retrospectives website has several creative ideas for check-
+out activities.
+Chat waves
+One way of doing a check-in or check-out online is a  
+chat wave.
+Pose a question to participants and give them less than a 
+minute to write an answer in the chatbox (it could be only a 
+few seconds). Tell them to hold off pressing ‘send’ until you 
+give the instruction. You’ll see a wonderful flurry of messages 
+emerge all at once. You can repeat this with a few questions in 
+a row to make the most of momentum.
+A chat wave works especially well at the beginning or end of 
+a session — for example, to get people warmed up or to get 
+feedback. You can see some fascinating patterns emerge. If 
+you were in person, it would be impossible to get input from 
+everyone at once in a way that everyone can go back and 
+review straight afterwards.
+Activities
+
+15
+Activities
+A FACILITATOR’S HANDBOOK
+Creating the container
+When a group is coming together for the first time, starting 
+a new project or embarking on a more contentious 
+conversation, it can help to identify from the beginning how 
+they would like to work together. This is sometimes known as 
+‘creating the container’ for open, honest conversations, or in 
+coaching as ‘designing the team alliance’.
+Some questions to guide this discussion include:
+•	How do we want to be together in this space?
+•	What is the culture / atmosphere you want to  
+create together?
+•	How do we want to be together when things  
+get difficult? 
+•	What conversation superpowers do you have?  
+What will you take responsibility for?
+You can cover these questions one by one and ask people to 
+write on post-its or just name what is top of their mind. The 
+aim is to have a short list of behaviours and principles that the 
+group agrees on and commits to. This should be displayed 
+somewhere the group can see and refer back to throughout 
+the meeting and in future meetings. The facilitator can ask 
+the group at different stages to what extent they see the 
+agreement in action and what might need to change.
+Asking questions
+While questions don’t quite count as an activity, there is 
+a good reason why many books on facilitation include a 
+section on them. They are an essential part of the facilitator’s 
+toolkit. There is a skill to choosing the right question and 
+asking it in a way that has the desired effect, whether that is 
+to help the group to learn, to see more clearly, to open up the 
+conversation, to see things from a different angle or to make a 
+difficult choice.
+“A beautiful question is an ambitious yet 
+actionable question that can begin to shift the 
+way we perceive or think about something—
+and that might serve as a catalyst to bring 
+about change.”
+  A Beautiful Question 
+Warren Berger
+“Ask obvious questions: 
+The Facilitator needs to say “Why?” a lot and 
+ask questions to which everybody already 
+knows the answer. Covering the obvious 
+ensures there’s no misinterpretation, and it 
+often draws out important details that not 
+everyone knows about.”
+  Sprint 
+Jake Knapp
+“When people are getting too caught up in 
+the details, spark the imagination and bring 
+them up a level with some experimental 
+questions. If they are up in the clouds and 
+need a bit of grounding, bring them down 
+with some examining questions.”
+   Gamestorming 
+Dave Gray, Sunni Brown and James Macanufo
+One of the most difficult skills to learn is to not answer your 
+own questions! It takes practice to get comfortable with 
+awkward silences and avoid filling the space by talking. A few 
+extra awkward seconds give the group time to think. If you 
+can’t hold back, you can ask the question again and wait a 
+bit longer. If you are working remotely, it can help to put the 
+question in the chat box as you ask it.
+“Used after a facilitator asked a question 
+of the group, W.H.A.L.E. (which stood for 
+[...] Wait, Hesitate, Ask [again], Listen, 
+then Explain) was to prevent facilitators 
+from answering their own questions, and 
+subsequently dominating the discussion they 
+were there to lead.
+   Unlocking the Magic of Facilitation  
+Sam Killermann and  Meg Bolger
+
+16
+Activities
+A FACILITATOR’S HANDBOOK
+Thinking alone, thinking together
+One of the simplest but most helpful patterns you can help 
+when facilitating is to give people the chance to think alone 
+and think together. 
+Who speaks first  in a group matters. It sets the tone for the 
+rest of a conversation. Even where others disagree, they are 
+still responding to the original idea. When people are given 
+time to think individually before sharing, it becomes less likely 
+that brainstorming is dominated by the typically loud voices 
+who always speak first. 
+Even better, you can add one or two extra stages between 
+thinking alone and sharing with the whole group. 1-2-4-all is a 
+Liberating Structure where:
+•	People reflect individually on a question for one minute
+•	They discuss in pairs for two minutes, building on ideas 
+from self-reflection
+•	They discuss in fours (a pair of pairs) for four minutes, 
+building on the ideas from the pairs, noticing similarities 
+and differences
+•	Each group shares one idea that stood out from their 
+conversation (i.e. not a report back of the whole 
+conversation!). Five minutes is given for this.
+This simple pattern allows for individual and group thinking to 
+be shared with the whole group in just twelve minutes.
+This is a bit more fiddly for virtual meetings as it requires 
+manually moving pairs together in breakout rooms, but it’s 
+very much possible. One option to simplify is ‘think, pair, 
+share’, removing the ‘fours’ stage.
+Question storming
+Question storming is a particular form of brainstorming where, 
+instead of ideas, you generate questions together. This can be 
+especially useful in the opening, divergent stage of a meeting. 
+By generating a large number of questions, combining them 
+and choosing which are the most important to answer, or 
+identifying which need to be answered first, you can set an 
+agenda for the rest of a workshop
+There is no set way of doing this but typically, the facilitator 
+will set a topic and then the participants will have some time 
+to individually come up with a lot of questions about the topic, 
+often on post-it notes. These are then clustered together to 
+reveal common themes and some of the questions are then 
+combined and improved. A final stage might be voting on 
+which questions to answer next, or ordering questions by what 
+stage of a process they might be answered.
+
+17
+Activities
+A FACILITATOR’S HANDBOOK
+Liberating Structures
+Liberating Structures are 33 structures for meetings and 
+gatherings that enable high levels of participation, unleash 
+creativity and help a group work towards an outcome. Several 
+of them feature elsewhere in this handbook. They can help 
+with everything from peer learning to crowdsourcing and 
+choosing between ideas. They can last anywhere from ten 
+minutes to multiple days and are designed to work well with 
+each other in a sequence.
+They are open source and instructions for each of them are 
+available on the website. They are therefore an excellent way 
+to learn to be a better facilitator. 
+
+A FACILITATOR’S HANDBOOK
+18
+Facilitating virtually presents some extra challenges. 
+For example, without the additional visual, bodily and 
+environmental cues, it’s harder to pick up on what is unsaid 
+and unasked. And the addition of having to worry about 
+technology means even more multi-tasking.
+This means that a good meeting takes more preparation 
+because it’s more difficult to adjust on the fly. We have to think 
+through and prepare for multiple scenarios. We need multiple 
+people to facilitate and do technical support.
+However, there are also opportunities from more people 
+being able to participate – both due to not having to travel and 
+by being able to share simultaneously through technology.
+Planning for a virtual meeting
+As seen in the example table, as well as the normal planning 
+for the timing, content and purpose of each section, we need 
+to think about the technical host role in advance. Doing this 
+enables a much smoother experience for participants.
+Time 
+Content
+Purpose
+Tech Host
+12:00
+(x mins)
+Section title (name of person 
+leading this section)
+Plan for the section including:
+•	Content to share
+•	Questions to ask
+•	Relevant timings
+•	Precise instructions for  
+any activities.
+You should be able to name the 
+purpose of each section. This will 
+help you see the flow across the 
+session.	
+E.g. what break-out rooms, how 
+many, # people, # minutes
+What to paste into the chat
+Links to share - e.g. to Mural, 
+Google Docs
+Virtual tips and tools
+
+19
+Virtual Tips and Tools
+A FACILITATOR’S HANDBOOK
+Using Zoom break-out rooms
+Breakout rooms are an important part of many online 
+meetings and workshops. Here are some resources to get you 
+started:
+•	An essential first step is to switch on the breakout rooms 
+feature on in your Zoom settings.
+•	Zoom has a quite comprehensive guide to breakout 
+rooms including more recent features.
+You can use breakout rooms in many ways including:
+•	At the beginning of a session, split people into pairs for a 
+few minutes to respond to a prompt together.  
+Then repeat with different pairs. This is the essence of 
+impromptu networking and gets people used to being 
+whisked away to breakout rooms.
+•	Give a group of 4–6 people longer to talk and go 
+deeper into a topic in a Conversation Cafe format.  
+For this one, you’ll need to give clear instructions in 
+advance in the chat and/or on a slide.
+•	Give groups a task to do together and ask them to 
+record their ideas on a slide.
+•	You can even replicate an Open Space session (or a 
+party) by enabling people to move themselves between 
+breakout rooms.
+It’s highly recommended to paste questions and exercises into 
+the chat before you send people into breakout rooms. That 
+way, they don’t have to remember what you just said. In fact, 
+this is helpful even if people aren’t going into breakout rooms.
+Note that you may need to update your Zoom to the latest 
+version in order to make the most of the new features.
+Using online platforms
+There are many choices for places to write together including 
+(roughly in order of speed of set-up) Google JamBoards 
+(great for sticky notes), Google Slides and bespoke tools like 
+Miro and Mural.
+When choosing between tools, consider how easy it is for 
+people to get started — do they need to sign up for an account 
+or learn a whole new interface? — as well as the features you 
+need. This blog post is a helpful guide for choosing tools.
+Make sure to give yourself time to set things up in advance 
+if you’re using slides. Make sure the document is shared (for 
+viewing and/or editing) and has a title that makes it obvious 
+what it is. Clearly label where people should be writing. 
+If you’ve got 50 break-out groups, you’ll need 50 places 
+to write. And beware of exceeding participants’ technical 
+capability: Zoom video, chat and breakout rooms plus writing 
+in another window is a lot to handle all at once.
+Platforms like Mural and Miro have a host of guides online 
+to get you started. However, giving yourself 20-30 minutes 
+to just go on the platform, maybe with a colleague, and click 
+around on all the buttons will help you learn quickly. It’s highly 
+unlikely that you’ll break the internet!
+The tech host role and co-facilitation
+It works so much better to work as a pair (or more) when 
+hosting a virtual meeting. It’s impossible for you to be looking 
+at people’s faces, checking for questions in the chat, preparing 
+the next set of breakout rooms and sharing links for slides, all 
+while giving the next set of instructions and listening intently. 
+When facilitating alone, it’s easy to miss what someone has 
+said because you’re fiddling with some settings or copying 
+and pasting some text. With co-hosts, you can plan in advance 
+who will be speaking in different parts of a meeting and who 
+will be the technical producer.
+The real value of working with someone else, though, is that 
+they see your blind spots and together you’ll come up with a 
+much better meeting plan than you would by yourself.
+If you are facilitating on your own, you can still spread out the 
+work by asking others to take responsibility for timekeeping, 
+note-taking and being the rabbit hole monitor.
+
+A FACILITATOR’S HANDBOOK
+20
+Expect things to take longer
+A delay while someone installs Zoom. A poor internet 
+connection when housemates are watching Netflix. 
+Confusion from instructions not quite being clear. There are 
+all sorts of reasons for delays in virtual meetings. Rather than 
+feeling anxious that the time you’re spending together isn’t 
+‘productive’, remember that there is plenty of slack in in-
+person meetings too.
+Often, we need to go slow to go fast. It’s tempting to skip over 
+a check-in at the beginning of the meeting or to shorten the 
+break from ten to five minutes but it’ll catch up with us later 
+when it hasn’t been made clear from the start that everyone 
+should be participating or we run out of steam. It is also 
+important to make time for introducing the technology if you 
+are using something like Mural or Miro.
+We need to plan for things to take longer than they would in 
+person and be patient in the moment. Keep it human. Take 
+time to breathe and for people to reflect by themselves. Allow 
+for moments of levity and connection. Notice where there’s 
+disagreement and lean into it; it might not be the conversation 
+you expected to happen, but it might be the conversation that 
+needs to happen for things to move forward.
+We may prefer to connect with others and have difficult 
+conversations face-to-face but while that’s not an option, we 
+need to get good at doing this virtually.
+Splitting up long meetings into shorter chunks can help 
+us better work with the energy of the participants; virtual 
+meetings can be exhausting! Instead of a half-day workshop, 
+have three 90-minute sessions. When people have to travel, it 
+makes sense to lump a whole process together for the sake of 
+efficiency. This constraint is absent for virtual meetings.
+
+21
+Becoming a better facilitator
+A FACILITATOR’S HANDBOOK
+What to practise
+The best ways to learn to facilitate are to experience, 
+experiment, get feedback, reflect, learn and repeat.
+Being a good facilitator isn’t about having an arsenal of 
+activities or flurry of frameworks. Facilitation is a skill that 
+can be learned and practised. Like getting better at playing 
+an instrument or a sport, it helps to break things down into 
+elements that can be practised more deliberately.
+Here are some ideas for what to practise:
+•	Giving clear instructions. Write them out and practise 
+saying them. Maybe test them with someone else.
+•	Asking effective and creative questions. Try this in 
+conversation and in meetings. Notice how people 
+respond and what happens as a result.
+•	Thinking through scenarios. Come up with a few 
+different ways a meeting could unfold. It might help to 
+consider how you could close the session well so there 
+are some next steps even if you haven’t got to the place 
+you intended.
+•	Judging how much time is needed and adjusting to 
+changing circumstances. Reflect back on meetings 
+where you are facilitating and also those where you 
+are a participant. Where did the agenda slip? Did the 
+agenda go as planned? Should there have been more 
+of an adjustment? What could have been shortened 
+or dropped? Trying improvisational acting or comedy 
+(known as ‘improv’) can also help you to respond 
+creatively in the moment.
+•	Listening and observation skills. Listen right to the end of 
+what people are saying rather than auto-completing while 
+you think about how you will respond. Ask yourself during 
+a meeting, what’s the emotional field? How’s the energy of 
+the room?
+•	Working with emotion and conflict. Use mindfulness to 
+recognise when you are getting caught up in a wave of 
+emotion. It can help to have a trusted co-facilitator for 
+these moments. It can help to take a breath, maybe give 
+the group a break to cool down, go for a walk and/or have 
+a stretch.
+How and where to practise 
+“You won’t discover and invent anything 
+unless you get used to taking risks and trying 
+new things on a regular basis. Make it a 
+practice to try at least one new thing every 
+time you gamestorm.”
+   Gamestorming 
+Dave Gray, Sunni Brown and James Macanufo
+Find opportunities to try stuff out in a safe space. This could be 
+in a small internal meeting with trusted colleagues. Testing out 
+ideas in this low-stakes context gives you the space to make 
+mistakes and also to give you the confidence to try things out 
+elsewhere.
+Ask for feedback at the end of each session you facilitate 
+about what people appreciated and what they would like to be 
+different. You could ask a colleague ahead of the meeting that 
+you would like them to give you feedback afterwards.
+Finally, find opportunities to be well-facilitated. For 
+example, you can find virtual workshops that promise to be 
+participatory. Notice how it feels to be a participant in this  
+sort of space.
+Becoming a better  
+facilitator
+
+22
+Becoming a better facilitator
+A FACILITATOR’S HANDBOOK
+Resources
+If you are stuck with a facilitation problem, Google is your 
+friend! There are many facilitation resources online such as 
+this website dedicated to check-ins.
+The The Liberating Structures community organises a bunch 
+of workshops that are free to join. This includes opportunities 
+to learn how to apply different structures online. You can join 
+the Slack group to meet people offering their expertise for 
+free, and look at this guide to using Liberating Structures 
+virtually.
+The Rees McCann website offers a lot of advice on virtual 
+facilitation, including free guides, a helpful newsletter and 
+some free workshops.
+If you prefer listening to reading, the Conversation Factory 
+podcast hosted by Daniel Stillman can provide a lot of 
+inspiration.
+Books on facilitation
+•	The Art of Gathering: How We Meet and Why is 
+Matters by Priya Parker
+•	A Beautiful Question: The Power of Inquiry to 
+Spark Breakthrough Ideas by Warren Berger
+•	Compassionate Conversations: How to Speak and 
+Listen from the Heart by Diane Musho Hamilton, 
+Gabriel Menegale Wilson, and Kimberly Myosai Loh
+•	The Doodle Revolution: Unlock the Power to Think 
+Differently by Sunni Brown
+•	Gamestorming: A Playbook for Innovators, 
+Rulebreakers, and Changemakers by Dave Gray, 
+Sunni Brown, and James Macanufo
+•	Good Talk: How to Design Conversations that 
+Matter by Daniel Stillman
+•	The Skilled Facilitator by Roger Schwarz
+•	Sprint: How to Solve Big Problems and Test New 
+Ideas in Just Five Days by Jake Knapp
+•	Unlocking the Magic of Facilitation: 11 Key 
+Concepts You Didn’t Know You Didn’t Know by Sam 
+Killermann and  Meg Bolger
+Guides to virtual facilitation
+•	Online Learning – What we’ve learnt so far.  
+Nicole Barling-Luke 
+•	Five Ways to be More Intentional with Virtual Meetings 
+- Jamie Pett
+•	A how-to guide for virtual facilitation and collaboration 
+with remote groups - Collective Mind
+•	The Definitive Guide to Facilitating Remote Workshops 
+- Mural
+
+23
+Becoming a better facilitator
+A FACILITATOR’S HANDBOOK
+APPENDIX: Document URLs
+For use with non-digital versions of this handbook.
+page
+content
+URL
+6
+A how-to guide for virtual facilitation 
+and collaboration with remote groups
+https://bit.ly/remote-groups
+7
+Conversation Design template
+www.mural.co/templates/conversation-design
+Liberating Structures website
+www.liberatingstructures.com
+14
+Check-in questions
+https://checkinsuccess.com/question-archive/
+Fun Retrospectives: check-out activities
+www.funretrospectives.com/category/check-out/
+16
+Liberating Structures: 1-1-2-4-all
+www.liberatingstructures.com/1-1-2-4-all/
+Question storming: A guide for 
+brainstorming questions
+www.maxjoles.com/blog/question-storming
+17
+Liberating Structures
+www.liberatingstructures.com
+Liberating Structures instructions
+www.liberatingstructures.com/ls/
+19
+Zoom: Getting started with  
+breakout rooms
+https://bit.ly/zoom-breakoutrooms
+All you need to know about using Zoom 
+breakout rooms
+https://blog.zoom.us/using-zoom-breakout-rooms/
+Liberating Structures:  
+Conversation Café
+www.liberatingstructures.com/17-conversation-cafe/
+Choosing tools
+https://bit.ly/choose-tools
+Mural: getting started
+https://bit.ly/Mural-gettingstarted
+Miro: getting started
+https://bit.ly/Miro-gettingstarted
+Rabbit-hole monitor: Beth Kanter
+https://bethkanter.org/elmo-technique/
+22
+Liberating Structures community
+www.liberatingstructures.com
+Slack Group  
+(create acount / sign-in required)
+https://liberatingstructures.slack.com/
+Guide to using Liberating Structures 
+virtually
+https://virtual-liberating-structures.gdes.app/virtual-ls
+Rees McCann website
+https://reesmccann.com
+The Conversation Factory podcast
+https://theconversationfactory.com/podcast
+Online learning — what we’ve learnt so 
+far: Nichole Barling Luke
+https://bit.ly/online-learning-sofar
+Five ways to be more intentional with 
+virtual meetings: Jamie Pett
+https://bit.ly/five-ways-virtual
+A how-to guide for virtual facilitation 
+and collaboration with remote groups: 
+Collective Mind
+https://bit.ly/remote-groups
+The definitive guide to facilitating 
+remote workshops: Mural
+www.suddenlyremote.co
+
+A FACILITATOR’S HANDBOOK
+24
+Principles of Facilitation
+in partnership with
+Produced by
+Curiosity Society
+We help organisations make a better world, by using learning 
+and design to change systems. 
+We have a new imagination of the world. One in which the 
+impact on people and the planet is re-connected into the way 
+organisations make their decisions. One in which positive 
+conversations between funders and change-makers mean 
+that money is aligned with the mission of organisations and 
+their values. And one in which everyone understands how 
+their contributions influence the systems we collectively  
+seek to change.
+Come and see us at www.curiositysociety.org
+Jamie Pett 
+Jamie Pett is an Associate at the Curiosity Society. He aims 
+to create the conditions for equitable change to happen in 
+complex systems through facilitation, research, coaching 
+and network weaving. Jamie is also a freelance consultant, 
+Co-Chair of the board of RESULTS UK, and founder of 
+the London International Development Network. He has 
+previously worked with the Overseas Development Institute, 
+the Zanzibar Planning Commission and the Foreign, 
+Commonwealth and Development Office.
+Active Gloucestershire
+We believe that physical activity can have a transformative 
+impact on the lives of people and their communities and we 
+have a vision for everyone in Gloucestershire to be active 
+every day.
+We are part of a national network of Active Partnerships 
+operating across England and we are the co-ordinating 
+charity behind the county-owned movement we can move.   
+At our essence we are about driving positive change.
+www.activegloucestershire.org
+we can move
+Join we can move and our approach to being physically 
+active. We’re people, influencers and leaders across our 
+communities. Collectively working together to encourage 
+more people to lead more active and healthier lives.
+https://wecanmove.net

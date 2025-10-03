@@ -1,0 +1,68 @@
+REPRINT H00ADT
+PUBLISHED ON HBR.ORG
+MARCH 28, 2013
+ARTICLE
+PRESENTATIONS
+When Presenting Your
+Data, Get to the Point
+Fast
+by Nancy Duarte
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+PRESENTATIONS
+When Presenting Your
+Data, Get to the Point Fast
+by Nancy Duarte
+MARCH 28, 2013
+Projecting your data on slides puts you at an immediate disadvantage: When you’re giving a
+presentation, people can’t pull the numbers in for a closer look or take as much time to examine them
+as they can with a report or a white paper. That’s why you need to direct their attention. What do you
+want people to get from your data? What’s the message you want them to take away?
+Data slides aren’t really about the data. They’re about the meaning of the data. And it’s up to you to
+make that meaning clear before you click away. Otherwise, the audience won’t process — let alone
+buy — your argument.
+Take this table, for instance:
+2
+COPYRIGHT © 2013 HARVARD BUSINESS SCHOOL PUBLISHING CORPORATION. ALL RIGHTS RESERVED.
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+It’s confusing — especially if you project it for five seconds and then move on. And even if you leave
+it up for five minutes while you talk, anyone who’s struggling to derive meaning from it won’t be
+paying much attention to what you have to say. They’ll be too busy squinting from their seats, trying
+to navigate all those heavy grid lines that give every single cell equal weight. It’s not at all clear where
+the eye should go. Your audience won’t know what direction to read — horizontally or vertically — or
+what conclusions to draw. Though the Grand Total line is emphasized, is that really the main point
+you want to convey?
+Now let’s look at the data presented more simply. Say you’ve identified three business units with
+potential for sustained growth in Europe. By eliminating the dense matrix and connecting only key
+numbers to a pie with leader lines, you remove clutter that distracts from your message. And notice
+the clear hierarchy of information: You can highlight important pieces of the pie by rendering them in
+color and their corresponding annotations in large, blue type. Other sections recede to the
+background, where they belong, with their neutral shades and small, gray labels.
+3
+COPYRIGHT © 2013 HARVARD BUSINESS SCHOOL PUBLISHING CORPORATION. ALL RIGHTS RESERVED.
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+But pie charts can be tricky for an audience to process when segments are similar in size — it’s hard to
+distinguish between them at a glance. If you’re running into that problem, consider displaying the
+same data in a linear way. In this bar chart, for example, you draw attention to the poorest-
+performing unit, a point that got lost in the pie:
+4
+COPYRIGHT © 2013 HARVARD BUSINESS SCHOOL PUBLISHING CORPORATION. ALL RIGHTS RESERVED.
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+These few tricks will help audiences see what you want them to see in your data. By focusing their
+attention on the message behind the numbers, not on the numbers themselves, you can create
+presentations that resonate with them and compel them to act.
+Nancy Duarte is a best-selling author with thirty years of CEO-ing under her belt. She’s driven her firm, Duarte, Inc., to
+be the global leader behind some of the most influential messages and visuals in business and culture. Duarte, Inc., is
+the largest design firm in Silicon Valley, as well as one of the top woman-owned businesses in the area. Nancy has
+written six best-selling books, four have won awards, and her new book, DataStory: Explain Data and Inspire Action
+Through Story, is available now. Follow Duarte on Twitter: @nancyduarte or LinkedIn.
+5
+COPYRIGHT © 2013 HARVARD BUSINESS SCHOOL PUBLISHING CORPORATION. ALL RIGHTS RESERVED.
+This document is authorized for use only by Joel Parisipogu (films.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org

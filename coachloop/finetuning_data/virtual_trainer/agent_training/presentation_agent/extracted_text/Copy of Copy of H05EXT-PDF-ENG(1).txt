@@ -1,0 +1,170 @@
+Digital 
+Article
+Analytics and Data 
+Science
+Present Your Data Like a 
+Pro
+Demystify the numbers. Your audience will thank you. 
+by Joel Schwartzberg
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+Present Your Data Like a Pro
+Demystify the numbers. Your audience will thank you. 
+by Joel Schwartzberg
+Published on HBR.org  /  February 14, 2020  /  Reprint H05EXT
+HBR Staff/CAP53/Getty Images
+With so many ways to spin and distort information these days, a 
+presentation needs to do more than simply share great ideas — it needs 
+to support those ideas with credible data. That’s true whether you’re an 
+executive pitching new business clients, a vendor selling her services, or 
+a CEO making a case for change.
+“Knowing how to develop and deliver a data-driven presentation is now 
+a crucial skill for many professionals, since we often have to tell our 
+colleagues stories that are much more compelling when they’re backed 
+by numbers,” says researcher and consultant Alexandra Samuel.
+HBR  /  Digital Article  /  Present Your Data Like a Pro
+Copyright © 2020 Harvard Business School Publishing. All rights reserved.
+1
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+No problem, you may say. A bar graph here, and a pie chart there, and 
+you’re off to the races, right?
+Not so fast. Because while a good presentation includes data, data alone 
+doesn’t guarantee a good presentation. It’s not the mere presence of 
+data that gives the presenter power. It’s how that data is presented.
+Showcasing data may seem simple in the age of PowerPoint, 
+Prezi, Canva, Visme, Haiku Deck, and other nonsensically named 
+technological platforms. But raise your hand if you’ve ever been 
+confused by a chart you saw at a conference or ever heard a presenter 
+say, “You probably can’t see this diagram well but what it’s showing 
+is…”? What could be a bigger chart fail than the chart itself being 
+rendered useless?
+How you present data can double — or decimate — its impact, so take 
+note of these seven ways to ensure that your data is doing its job.
+1) Make sure your data can be seen
+This may sound obvious but sometimes you’re too close to your 
+presentation — literally. What is readable on your laptop may be far 
+less so when projected on a screen. Your audience won’t learn what 
+it can’t see. To avoid the debacle of sheepishly translating hard-to-see 
+numbers and labels, rehearse your presentation with colleagues sitting 
+as far away as the actual audience would. Ask them, “Can you see this 
+chart clearly?” If the answer is anything but a firm “yes,” redesign it to 
+be easier on the eyes.
+2) Focus most on the points your data illustrates
+In comic book terms, you are Wonder Woman, and data is your magic 
+lasso — a tool that strengthens your impact but has no value until you 
+apply it purposefully. Don’t leave the burden of decoding your data to 
+HBR  /  Digital Article  /  Present Your Data Like a Pro
+Copyright © 2020 Harvard Business School Publishing. All rights reserved.
+2
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+your audience. It’s your job to explain how the data supports your major 
+points.
+“Data slides aren’t really about the data. They’re about the meaning of 
+the data,” explains presentation design expert Nancy Duarte. “It’s up to 
+you to make that meaning clear before you click away. Otherwise, the 
+audience won’t process — let alone buy — your argument.”
+When you connect data to the essential points it supports, the transition 
+should be explicit and sound like this:
+“This data shows…”
+“This chart illustrates…”
+“These numbers prove…”
+These transitions can be as important as the conclusions themselves, 
+because you’re drawing the audience’s attention to those conclusions.
+3) Share one — and only one — major point from each chart 
+The quickest way to confuse your audience is by sharing too many 
+details at once. The only data points you should share are those 
+that significantly support your point — and ideally, one point per 
+chart. To keep your charts in check, ask yourself, “What’s the single 
+most important learning I want my audience to extract from this 
+data?” That’s the one learning you should convey. If you have several 
+significant points to make, consider demonstrating each with a new 
+visualization.
+The mistake many presenters make is thinking they’re constitutionally 
+required to share every bullet, idea, and data point on a slide. But if 
+you’re sharing a pivotal trend that grew dramatically between 2014 and 
+HBR  /  Digital Article  /  Present Your Data Like a Pro
+Copyright © 2020 Harvard Business School Publishing. All rights reserved.
+3
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+2017, what happened in 2013 may be pointless. If 77% of respondents 
+prefer one product and 21% prefer another, what the remaining 2% 
+prefer may also be too insignificant to justify mentioning.
+Data-presentation guru Scott Berinato says, “The impulse is to include 
+everything you know, [but] busy charts communicate the idea that 
+you’ve been just that — busy, as in: ‘Look at all the data I have and 
+the work I’ve done.’”
+4) Label chart components clearly
+While you’ve been working with the same chart for weeks or months, 
+your audience will be exposed to it for mere seconds. Give them the 
+best chance of comprehending your data by using simple, clear, and 
+complete language to identify X and Y axes, pie pieces, bars, and other 
+diagrammatic elements. Try to avoid abbreviations that aren’t obvious, 
+and don’t assume labeled components on one slide will be remembered 
+on subsequent slides.
+Some members of your audience are visual learners (like me!) who 
+process what they see much better than what they hear, so your chart’s 
+visual intuitiveness and clarity are crucial.
+5) Visually highlight “Aha!” zones
+Every valuable chart or pie graph has an “Aha!” zone — a number or 
+range of data that reveals something crucial to your point.
+Smart presenters explain the relevance of the “Aha!” zone orally, sharing 
+the learning, trend, or story the data is telling.
+Better presenters explain it out loud, but also write it on the slide as a 
+bullet.
+HBR  /  Digital Article  /  Present Your Data Like a Pro
+Copyright © 2020 Harvard Business School Publishing. All rights reserved.
+4
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+But the best presenters do all of the above AND visually highlight the 
+“Aha!” zone itself with a circle or shading to reach the differentiated
+(aural, verbal, visual) learners in their audience, as well as to triple-
+reinforce the most important data takeaways.
+6) Write a slide title that reinforces the data’s point
+Even when data is presented effectively on a slide, the most valuable 
+real estate is the page’s title because that’s the first item the audience 
+will notice and process. But all too often, presenters use generic words 
+and phrases like “Statistics” and “By the Numbers” that serve no 
+functional purpose.
+Even when the titles are specific, like “Millennial Preferences” or 
+“Campaign Awareness,” they can still be elevated with more point-
+specific titles like “Millennials Prefer Mobile” or “Campaign Awareness 
+is Increasing.”
+7) Present to your audience, not to your data
+Many presenters look at their slides while they share data as if the 
+PowerPoint is their audience. But only your audience is your audience, 
+and, as fellow human beings, they receive your points best when you 
+look them in the eye. This doesn’t mean that you should never look at 
+your data — just don’t have a conversation with it. Glance at your slides 
+for reference, but make critical points directly to your audience.
+When presented clearly and pointedly, data can elevate your point’s 
+credibility and trustworthiness. Presenting data poorly not only 
+squanders that opportunity but can damage your reputation as a 
+presenter. Like Wonder Woman’s lasso, it’s a powerful tool to draw out 
+compelling truths — wield it wisely.
+This article was originally published online on February 14, 2020.
+HBR  /  Digital Article  /  Present Your Data Like a Pro
+Copyright © 2020 Harvard Business School Publishing. All rights reserved.
+5
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+JS
+Joel Schwartzberg oversees executive communications for a major 
+national nonprofit, is a professional presentation coach, and is the 
+author of Get to the Point! Sharpen Your Message and Make Your 
+Words Matter and The Language of Leadership: How to Engage and 
+Inspire Your Team. You can find him on LinkedIn and X.
+@TheJoelTruth
+HBR  /  Digital Article  /  Present Your Data Like a Pro
+Copyright © 2020 Harvard Business School Publishing. All rights reserved.
+6
+This document is authorized for use only by Joel Parisipogu (films.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org

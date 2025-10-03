@@ -1,0 +1,114 @@
+The Value of a Good Visual:
+Immediacy
+by Bill Franks
+March 21, 2013
+Our brains are meant to see in pictures. Grids and columns of
+data, while ubiquitous, make it very difficult to see trends or
+patterns. Additionally, a lot of the new data sources available
+today, such as genetic data or social network data, don’t lend
+themselves to traditional spreadsheets and graphs. These data
+types require a different way of displaying them to allow us to see
+the underlying patterns and stories in the data.
+I’d like to walk you through an exercise to illustrate how effective
+visualizations allow you to immediately comprehend a complex
+set of relationships. Consider a standard map, such as the map of
+the United States below. If I show you the map and ask you to
+describe how a few states are related to one another, you can
+immediately visualize and verbalize an answer. New York is up
+and to the right of Virginia while Texas is down and to the left.
+There are several states in between the two and Texas borders
+fewer states than Virginia does. Simple, right?
+2/12/25, 11:41 PM
+The Value of a Good Visual: Immediacy
+https://hbr.org/2013/03/the-value-of-a-good-visual-imm
+1/5
+
+Next, I take away the map and give you a set of data that gives
+relative location, size, spatial border details, and other
+information about the states. Could you describe the same
+relationships in just a few seconds based on the data alone? I’ll bet
+you’d throw your hands up in the air — just like me. I have never
+been able to find a remotely reasonable way to explain the
+information immediately visible to me in a map without making
+use of a map.
+You might not immediately grasp the importance of the above
+example because it seems self-evident that maps are important.
+I’d like to suggest to you that the reason for that is that you are
+2/12/25, 11:41 PM
+The Value of a Good Visual: Immediacy
+https://hbr.org/2013/03/the-value-of-a-good-visual-imm
+2/5
+
+aware that maps exist in the first place. Had you never seen a
+map, you’d be struggling to explain the information that a map
+conveys in some other way.
+This is the key to the value proposition of data visualization. It
+could be that you are struggling to convey information without
+being aware that there is a visual that can have the same type of
+impact as a map. Or there may be connections among all that data
+that you’d never make without a visualization. Until you see the
+visual for the first time, however, you won’t appreciate the value it
+offers. Take a look at the social network graph below: it shows is
+that there are several distinct groups of people who interact a lot
+among their own group and they don’t really interact outside of
+their group. However, there is a single person who has contact
+with each group and connects them. That person would be the
+critical one to reach if you want to influence those groups easily.
+See how easy it is to understand the connections between people
+and groups?
+As the map example illustrates, data visualizations can make it
+easy to rapidly understand relationships, patterns, and stories
+that are contained within a complex data set. This is the reason
+they are so powerful. There is a reason for the saying “a picture is
+worth 1000 words.” It also holds for data points.
+2/12/25, 11:41 PM
+The Value of a Good Visual: Immediacy
+https://hbr.org/2013/03/the-value-of-a-good-visual-imm
+3/5
+
+One of the best features of modern visualization tools is that they
+permit interactivity with the underlying data. In other words, a
+visual isn’t static. You can click on various parts of a visual to drill
+into different views of your data on the fly. While many business
+intelligence tools have enabled drill down reports for years, they
+typically contain only common visuals and also typically
+constrain users to predetermined paths. Visualization tools today
+don’t apply many limits on what users can do, which opens up a
+lot more options for analyzing data.
+A few years ago, we put a popular visualization tool on my team’s
+laptops. It was a huge hit. Over time, several members of my team
+stopped using traditional spreadsheet and presentation tools
+altogether in favor of the visualization tool. Even if all they need
+to show a client are some fairly standard bar and pie charts, the
+interactivity of the tool is a huge plus. When the chart is up on the
+screen and a client asks a question that requires a different view
+of the data, it is easy to drill into that view on the fly. No more
+sending an email later in the day with another chart. The data in
+the charts can also be automatically updated with the latest data.
+That adds a lot of value on top of the visualizations themselves.
+Don’t underestimate how much an appropriate visual can help
+you get your point across. You have to see the power of high-
+impact visualizations in order to fully grasp what is possible. The
+good news is that modern visualization tools can help users at any
+skill level do a better job of analyzing, comprehending, and
+presenting information. Give it a shot.
+Visualizing Data
+An HBR Insight Center
+Your Business Needs Insight, Not Just Pretty Pictures
+It’s Time to Retire “Crap Circles”
+The Power of Visualization’s “Aha!” Moments
+We’ve Reached Peak Infographic, and We’re No Smarter for It
+2/12/25, 11:41 PM
+The Value of a Good Visual: Immediacy
+https://hbr.org/2013/03/the-value-of-a-good-visual-imm
+4/5
+
+Bill Franks is Chief Analytics Officer at Teradata and a
+faculty member at the International Institute For Analytics.
+He is also author of Taming The Big Data Tidal Wave and
+The Analytics Revolution.    
+BF
+2/12/25, 11:41 PM
+The Value of a Good Visual: Immediacy
+https://hbr.org/2013/03/the-value-of-a-good-visual-imm
+5/5

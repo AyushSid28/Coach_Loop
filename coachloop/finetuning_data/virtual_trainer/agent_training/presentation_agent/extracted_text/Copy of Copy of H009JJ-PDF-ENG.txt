@@ -1,0 +1,134 @@
+Digital Article / Business Communication
+Do Your Slides Pass the Glance 
+Test?
+ZargonDesign/Getty Images An audience can’t listen to your presentation and 
+read detailed, text-heavy slides at the same time (not without missing key 
+parts of your message, anyway). So make sure your slides pass what I call the 
+glance test: People should be able to comprehend each one in about three 
+seconds. Think of your slides […] by Nancy Duarte
+Published on HBR.org  /  October 22, 2012  /  Reprint H009JJ
+ZargonDesign/Getty Images
+An audience can’t listen to your presentation and read detailed, text-
+heavy slides at the same time (not without missing key parts of your 
+message, anyway). So make sure your slides pass what I call the glance 
+test: People should be able to comprehend each one in about three 
+seconds.
+Copyright © 2012 Harvard Business School Publishing. All rights reserved.
+1
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+Think of your slides as billboards. When people drive, they only briefly
+take their eyes off their main focus — the road — to process billboard 
+information. Similarly, your audience should focus intently on what 
+you’re saying, looking only briefly at your slides when you display them.
+Keep It Simple 
+Research shows that people learn more effectively from multimedia 
+messages when they’re stripped of extraneous words, graphics, 
+animation, and sounds. Lots of extras actually take away meaning 
+because they become a distraction. They overtax the audience’s 
+cognitive resources.
+So when adding elements to your slides, have a good reason: Does the 
+audience need to see your logo on each slide to remember who you work 
+for? Does that blue swoosh add meaning? If not, leave it off. The same 
+goes for text. Keep it short and easy to skim. Scale the type as large as 
+possible so the people in the back of the room can see it.
+It’s also important to stick to a consistent visual style in your slide 
+deck. Select one typeface — two at most. Use the same color palette 
+throughout (limit yourself to three complementary colors, plus a couple 
+of neutral shades, like gray and pale blue). Photos should be taken by 
+the same photographer or look as if they are. Illustrations should be 
+done in the same style.
+Consider the “before” slide below. It fails the glance test because it’s 
+packed with text. It’s functioning like a teleprompter — which may help 
+you remember what to cover but won’t make it easier for the audience to 
+digest it.
+HBR  /  Digital Article  /  Do Your Slides Pass the Glance Test?
+Copyright © 2012 Harvard Business School Publishing. All rights reserved.
+2
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+Instead, streamline the text and incorporate simple visual elements 
+(and save teleprompter text for the “notes” field, which the audience 
+can’t see). You’ll reinforce your message and make it easier for people to 
+get what you’re saying. Here’s an “after” slide to illustrate:
+Arrange Slide Elements with Care
+Another way to help people process your visuals more quickly: Think 
+like a designer when you arrange slide elements.
+These five design principles will help you simplify your slides so they’ll 
+pass the glance test:
+HBR  /  Digital Article  /  Do Your Slides Pass the Glance Test?
+Copyright © 2012 Harvard Business School Publishing. All rights reserved.
+3
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+Flow. You can direct people’s eyes to certain areas of a slide to 
+emphasize important points. Here, for example, your eye takes in the 
+cluster of grapes, then moves to the message about quality, and then 
+focuses on one beautiful grape from the “yield”:
+Contrast. Our eyes are drawn to things that stand out, so designers 
+use contrast to focus attention. Create contrast through your elements’ 
+size, shape, color, and proximity. In this example, a presenter compared 
+cross-sections of skin and soil to show that tending to both requires an 
+understanding of the microbiological activity beneath the surface. The 
+blurred backgrounds set off the stark white illustrations for quick visual 
+processing:
+HBR  /  Digital Article  /  Do Your Slides Pass the Glance Test?
+Copyright © 2012 Harvard Business School Publishing. All rights reserved.
+4
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+White space. White space is the open space surrounding items of 
+interest. Presenters are often tempted to fill it up with additional 
+content that competes for attention. But including a healthy amount 
+of white space sharpens viewers’ focus by isolating elements. In this 
+example, if we’d paired the text with a larger or more detailed image, 
+your eye wouldn’t know where to begin, and the quote would have lost 
+its power:
+Hierarchy. A clear visual hierarchy allows viewers to quickly ascertain a 
+slide’s most important elements:
+HBR  /  Digital Article  /  Do Your Slides Pass the Glance Test?
+Copyright © 2012 Harvard Business School Publishing. All rights reserved.
+5
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+Unity. Slides with visual unity look as though the same person created 
+them and make your message feel cohesive. You can achieve this 
+through consistent type styles, color, image treatment, and element 
+placement throughout the slide deck. Here’s a pair of slides to illustrate:
+Presentation software gives us many shiny, seductive elements to work 
+with. But there’s beauty and clarity in restraint. Use simple visuals that 
+support your message, and you’ll free people up to really hear — and 
+adopt — your ideas.
+This is the third post in Nancy Duarte’s blog series on creating and 
+delivering presentations, based on tips from her new book, the HBR Guide 
+to Persuasive Presentations.
+HBR  /  Digital Article  /  Do Your Slides Pass the Glance Test?
+Copyright © 2012 Harvard Business School Publishing. All rights reserved.
+6
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+Read the other posts here:
+Post #1: How to Present to Senior Executives
+Post #2: Create a Presentation Your Audience Will Care About
+Post #4: Structure Your Presentation Like a Story
+This article was originally published online on October 22, 2012.
+ND
+Nancy Duarte is a best-selling author with thirty years of CEO-ing 
+under her belt. She’s driven her firm, Duarte, Inc., to be the global 
+leader behind some of the most influential messages and visuals in 
+business and culture. Duarte, Inc., is the largest design firm in Silicon 
+Valley, as well as one of the top woman-owned businesses in the area. 
+Nancy has written six best-selling books, four have won awards, and 
+her new book, DataStory: Explain Data and Inspire Action Through 
+Story, is available now. Follow Duarte on Twitter: @nancyduarte or 
+LinkedIn.
+HBR  /  Digital Article  /  Do Your Slides Pass the Glance Test?
+Copyright © 2012 Harvard Business School Publishing. All rights reserved.
+7
+This document is authorized for use only by Joel Parisipogu (films.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org

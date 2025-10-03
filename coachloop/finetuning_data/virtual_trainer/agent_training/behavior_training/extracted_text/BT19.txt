@@ -1,0 +1,376 @@
+The Accidental Instructional Designer, 2nd Edition	
+1
+BOOK  
+SUMMARY
+THE ACCIDENTAL INSTRUCTIONAL 
+DESIGNER, 2ND EDITION
+Learning Design for the Digital Age 
+By Cammy Bean
+Summary by Pamela S. Hogle
+5 KEY TAKEAWAYS
+1. The Intentional Instructional Designer: Like many who design e-learning, 
+you might have become an instructional designer “by accident.” But you 
+can become intentional about designing effective, engaging e-learning.
+2. Become a Learning Mixologist: Just as a mixologist goes beyond tending 
+bar to apply the art and science of beverage-making to creating innovative 
+new cocktails, a learning mixologist goes beyond text-filled screens and 
+next buttons to design an array of innovative learning tools.
+3. Stories Form the Heart of Memorable Learning: A great story provides 
+mental hooks to content, making the story and the content more likely 
+to stick with learners.
+4. Strong Writing Skills Make or Break E-Learning: Well-written content 
+makes the difference between boring e-learning and a compelling 
+experience. Write for real people—the ones in your learner population— 
+and keep it brief, approachable, and relevant.
+5. You Don’t Have to Do Everything Yourself: Accidental instructional 
+designers have varied backgrounds and skills. Know your strengths and 
+when to find the right partner. That could mean calling in a graphics 
+professional for visual design assistance or purchasing high-quality 
+templates and images.
+People become e-learning professionals via many paths. 
+They might be good at explaining technical concepts or 
+have a way with PowerPoint. Skills needed range from 
+having the ability to analyze a problem to being able to 
+write cogent assessment questions, with some desktop 
+publishing, graphics design, and technical skills thrown 
+in, along with a heavy dose of adult learning theory. 
+“Accidental” instructional designers (IDs) may  
+start out as specialists in any (or none) of these areas. 
+IDs’ skills fit into four broad categories or “slices” of  
+a large pie:
+•	 Learning
+•	 Creativity
+This book summary is an ATD member benefit. Interested in reading the full book?  
+Purchase The Accidental Instructional Designer, 2nd Edition here.
+MEMBER BENEFITS
+LEARNING PIE: YOU’LL NEED FOUR SLICES
+•	 Technology
+•	 Business
+
+The Accidental Instructional Designer, 2nd Edition	
+2
+A “Pinch” of Theory
+Effective IDs must know how adults learn and remember 
+new information, as well as how to assess whether 
+someone has learned. You’ll also need to know what is 
+and is not effective at changing behavior, the definition 
+of a learning objective, and how to structure content to 
+achieve learning goals.
+A “little pinch” of theory can help the accidental ID learn 
+the “secret handshakes” of the profession by gaining 
+insight into:
+•	 Adult learning 
+•	 Instructional design 
+•	 Cognitive science
+•	 Behavior change
+ While most practicing IDs do not have degrees in 
+instructional design—in 2022, more than half lacked an 
+advanced ID degree—an intentional ID should do some 
+reading on these topics. 
+Design Great Learning Experiences
+Even instructionally sound content won’t be effective 
+if it puts learners to sleep. The writing, graphics, 
+visual design, videos, and interactivity like games and 
+scenarios—the elements that enable the ID to deliver 
+content in an engaging and memorable way—rely  
+on creativity.
+Technology Pulls It All Together
+IDs rely on technology to create and deliver e-learning. 
+That’s why an ID’s technical skill set includes proficiency 
+with one or more authoring tools as well as a basic 
+understanding of:
+•	 Standards like SCORM and xAPI
+•	 How a learning management system works
+•	 How to track and analyze key learning metrics
+•	 Simple coding such as HTML5, JavaScript, 
+and cmi5
+•	 The technology learners will be using and any 
+limitations (for example, low bandwidth)
+An intentional ID also knows when to call in a  
+technology expert. 
+Align With Business Goals
+Ultimately, e-learning should solve a business problem. 
+The ID must consider the strategic goals and vision of 
+the company purchasing and using the training while 
+also delivering a project that is on time and within 
+budget, is consistent with the company’s culture and 
+values, and meets business needs.
+DESIGN WITH PURPOSE
+A design has a purpose and intention. Every element is 
+necessary and relevant. The e-learning content—what 
+the ID is communicating—supports the purpose and 
+informs the intention.
+A good design answers:
+•	 How does it look?
+•	 How does it feel?
+•	 How does it make you feel?
+•	 What can you do with it?
+•	 Does it solve a problem?
+Well-designed e-learning looks inviting and pulls in 
+learners. It may evoke a pleasing tactile experience. The  
+ID wants the e-learning to make learners feel a particular 
+way and respond by doing something specific: feel 
+inspired or motivated to perform better, improve safety 
+compliance, or avoid terrible consequences; and feel 
+eager to try new skills. E-learning should solve a problem 
+or fill a need, and learners should be able to figure out 
+how to use e-learning and why. 
+“Without having any creative talent in 
+our learning design process, we might 
+just end up with lists of really boring 
+learning objectives.” p. 26
+“Think about the purpose of the 
+program and approach the content 
+with that in mind. How do you want 
+people to feel after completing your 
+program, and what do you want them 
+to do with that emotion?” p. 44 
+The Accidental Instructional Designer, 2nd Edition	
+2
+
+The Accidental Instructional Designer, 2nd Edition	
+3
+CHOOSE A DESIGN MODEL
+A learning pattern or design model guides the creation 
+of e-learning. This pattern of interactions and activities 
+provides structure and helps you create effective 
+e-learning. Using a set of learning models also helps 
+your team explain your approach to clients or e-learning 
+stakeholders, show them examples, and explain how the 
+model applies to their content.
+Depending on the learning goals, your model may focus on:
+•	 Sharing or communicating information, making  
+it easy for learners to explore a topic to the depth  
+they want or need
+•	 Building skills and knowledge, including offering 
+opportunities for learners to apply knowledge  
+and practice skills
+•	 Solving problems or changing behavior. By  
+veering into more complex problem-solving skills, 
+this e-learning may feature branching scenarios  
+or simulations
+Potential models include:
+•	 Search and Find: Curate the best content available 
+on your topic and allow learners to search for  
+and access the resources they need from within  
+that collection.
+•	 Explore the Process: Create awareness of or share 
+information about a new or changed workflow or 
+process. This permits learners to the jump around 
+rather than requires them to go through content  
+in a linear fashion.
+•	 Guided Stories: Build an entire e-learning course 
+around a story to reveal information in the context 
+of that story.
+•	 See It in Action: A demonstration that may model 
+poor performance as well as desired performance 
+and teaches learners to avoid common mistakes.
+•	 Sharing Expert Views: Podcast or video of an 
+interview with an expert or with multiple peers 
+who share tips or explain how they solved  
+a problem.
+•	 Goal-Based Scenarios (Branching Scenarios): 
+Allow learners to fully explore a topic by trying 
+various options at each decision point and 
+experiencing the consequences.
+These models are far from an exhaustive list. IDs can 
+develop their own and network with peers to come up 
+with additional models.
+THE ELEMENTS OF  
+WELL-DESIGNED E-LEARNING
+Effective e-learning requires:
+•	 A strong hook
+•	 Relevant interactivity 
+•	 Well-written content
+•	 A compelling story
+•	 Strong visual design
+Grab Learners’ Attention
+A strong hook grabs learners’ attention and pulls them 
+in. It answers the question, “What’s in it for me?” and taps 
+into their motivation. Your hook may:
+•	 Use learners’ fear of consequences if they 
+make a mistake or share the story of other  
+people’s failures. 
+•	 Offer a startling fact or attention- 
+grabbing statistic.
+•	 Connect the content to the learner’s experience, 
+job, or something they’ve struggled with.
+Once you’ve got them interested, you must hold onto 
+learners’ attention. Varying the content presentation  
+can help—drop in an exercise or mix up the media by 
+adding audio,  video, or animations. Don’t present 
+identical page after identical page filled with text, bullets, 
+and a next button.
+ 
+“When you attract and sustain 
+someone’s attention, you get very 
+different results than when you force 
+them to sit in front of your screen with 
+their eyes peeled open A Clockwork 
+Orange style. If you attract someone’s 
+attention, they’re going to want to 
+stick around to see what you have 
+to say; their curiosity is piqued, their 
+radars are up, and they want to know 
+what’s going to happen next.” p. 135
+
+The Accidental Instructional Designer, 2nd Edition	
+4
+The Dangers of Clicky-Clicky-Bling-Bling
+Adding flashy interactives and graphics does not equate 
+to creating engaging and interactive e-learning that will  
+be effective. 
+Interactivities in your e-learning are about making things 
+happen: Interactive e-learning enables learners to search 
+and discover, watch videos, read text, and make choices 
+and see the consequences. Gratuitous interactivity and 
+flashing bells and whistles—clicky-clicky-bling-bling or 
+CCBB—is not meaningful and does not enhance learning. 
+Relevant interactivities engage learners’ minds and make 
+them think, feel, do, reflect, or connect. It promotes 
+cognitive interactivity.
+It’s All About the People, Man
+Good writing is approachable and human. It uses active 
+voice and avoids jargon. Good e-learning sounds like  
+a conversation between real people. Depending on  
+the topic and the company culture, it may include a 
+bit of levity. Even where humor isn’t appropriate, the 
+tone and voice can be light and avoid legalese and 
+regulatory mumbo-jumbo.
+Good e-learning is concise and leaves the deep details to 
+additional resources. It’s presented in simple, digestible 
+chunks. And it does not patronize the learner. Write as an 
+adult addressing other adults, and respect learners’ time 
+and intelligence.
+Finally, good writing has a coherent underlying structure 
+that makes the content flow. Earlier slides or activities 
+build a foundation; later content uses the foundational 
+material to build an understanding of complex ideas  
+or processes.
+Storytelling Enhances Learning
+Humans are primed for stories. Throughout human 
+history, we’ve enjoyed and learned from stories.
+Seeing how a process works through the eyes and 
+experience of a relatable character makes it relevant, 
+engaging, and sticky. The right story is memorable. It 
+instructs as well as entertains.
+You’ll find the right stories by asking the right questions. 
+The subject matter experts (SMEs) may provide you all the 
+factual information you need in a manual or PowerPoint. 
+But you need to dig for the stories: The right questions 
+can reveal the reasons behind a particular way of doing 
+things, common mistakes and their consequences, and 
+where gaps in understanding or performance typically 
+crop up.
+Don’t Design Ugly Courses
+First impressions matter. If learners reject e-learning 
+because the user interface is confusing or unattractive, 
+they’ll never get to the content or decide whether  
+it’s credible.
+Your company’s or client’s brand plays a significant role in 
+the visual design of e-learning. It may determine the color 
+“Good writing is the single biggest 
+factor that can make the difference 
+between a learning program that 
+bores people to death and one that 
+gets them to pay attention. It’s all in 
+the delivery and how you present the 
+information.” p. 171
+“Good stories stick us with context and 
+ooze with humanity. When we immerse 
+ourselves in stories, we empathize with 
+the characters, we visualize the scene, 
+and we often put ourselves right into 
+the action. As a learning vehicle, stories 
+add context and details that make the 
+content relevant and relatable.” p. 186
+ “What is clicky-clicky bling-bling? 
+It’s an experience with lots of whiz, 
+lots of bang, lots of clicky-clicky in 
+a sad attempt to add pizzazz to dry 
+content and make it more engaging. 
+Once you unwrap the sparkle, sadly, 
+all you’re left with is a load of junk. 
+Just because your learning sparkles 
+and shimmers and gets the learner 
+clicking on lots of fancy hotspots 
+and dragging things all over the 
+screen does not mean that you have 
+engaged anyone.” p.53
+
+The Accidental Instructional Designer, 2nd Edition	
+5
+This book summary is an ATD member benefit. Interested in reading the full book?  
+Purchase The Accidental Instructional Designer, 2nd Edition here.
+1092894069
+“Remember, looks matter. Spend some 
+time and energy to give your program 
+some intentional and meaningful zing.” 
+p. 205
+“A learning mixologist looks for the 
+right blends to support the needs of the 
+organization, choosing from a wide array of 
+ingredients and techniques: social learning, 
+collaborative tools, performance support 
+using mobile devices, self-paced programs, 
+augmented reality, virtual instructor-led 
+classes, webinars, video, live classroom 
+sessions, immersive digital experiences, 
+serious games, formal and informal 
+programs, coaching, and mentoring.” p. 154
+palette, for example, and influence the personality, key 
+messaging, and tone of your e-learning. 
+Working within the branding, the visual design must 
+be clear and coherent. Visuals should guide learners’ eyes 
+to the essential information and convey the hierarchy of  
+the content.
+Every image should be relevant and add meaning, not 
+simply decorate the screens. Motion draws the learners’ 
+eyes; animations need purpose and meaning and should 
+not pull learners away from key content.
+Use caution when choosing templates and images. Avoid 
+clichés and cheesy stock images. Use professional 
+networks and follow L&D bloggers to find effective 
+sources of templates and graphics, and always follow 
+proper licensing and respect copyright. Call on a 
+professional designer if graphical or visual design is not 
+your strong suit.
+BECOME A LEARNING 
+MIXOLOGIST
+Self-paced e-learning is but one tool in the ID’s toolbox. 
+To provide learners with access to information, offer 
+opportunities for them to build and practice skills; enable 
+them to reflect on and improve performance; encourage 
+collaborative learning; and facilitate independent 
+problem-solving. Simple training is not enough.
+Delivering the same content year after year doesn’t work.  
+A learning mixologist keeps up with technological progress, 
+tries out new approaches, and finds innovative learning 
+solutions to address business goals and solve problems. 
+That mixologist recognizes that learning is continuous 
+and social. They use cognitive science to their advantage, 
+adopting approaches like spaced learning and 
+personalization to boost the effectiveness and stickiness 
+of their e-learning. They move learning beyond the LMS 
+to mobile devices and other learning portals and shared 
+resources that allow learners to interact and solve problems.
+You may have become an instructional designer by 
+accident, having been tapped to turn a PowerPoint into 
+e-learning or evolved from classroom teaching to  
+online instruction. But your ID journey doesn’t have to  
+stay accidental.
+To bring intention to your instructional design practice, 
+network with peers, read books and blogs, attend 
+conferences, and learn from colleagues whose experience 
+and background complement your own. Mine the 
+resources in this book and online to build a network and 
+deepen your knowledge. Above all, never stop learning. 
+“We may have gotten here by accident, 
+but it turns out we like it here. We like 
+learning and development, we like 
+instructional design, and we like helping 
+people perform better. We think we 
+make a difference . . . Let this book be a 
+gateway—a first step on your journey from 
+an accidental instructional designer to an 
+intentional one.” p. 240

@@ -1,0 +1,596 @@
+215
+8
+There are two main types of motivation that we concern ourselves 
+with as learning designers:
+• Motivation to learn
+• Motivation to do
+We’ve already spent a lot of time looking at motivation to learn 
+(remember the elephant?), so this chapter is going to concern itself 
+with motivation to do.
+Motivation To Do
+Numerous studies have come out in the last few years that say texting 
+while driving is a very very dangerous thing to do.
+Shocking.
+That texting while driving is dangerous probably isn’t a surprise to the 
+vast majority of the population. So why do people continue to do it? 
+I don’t know exactly, but I suspect it’s because people have one, or a 
+mix, of the following thoughts and responses:
+• “I know it’s a bad idea, and I never do it (except when I do, and  
+then I feel guilty).”
+• “I know it’s a bad idea, but I only do it once in a while, and I’m  
+very careful.”
+Design for  
+Motivation
+Design for 
+Motivation
+(In which we learn that we don’t always learn  
+the right thing when we learn from experience,  
+and that the elephant is a creature of habit)
+Excerpted from Design For How People Learn by Julie Dirksen.  
+Copyright © 2012. Used with permission of Pearson Education, Inc. and New Riders.
+
+216
+chapter 8  DESIGN FOR MOTIVATION
+• “I know it’s a bad idea for other people, but I can do it because I’m really good  
+at it.”
+• “Huh? What’s the big deal?”
+Most of the responses above indicate that this is not a knowledge problem, and 
+that an intervention that focuses on knowledge isn’t going to change anything, 
+because it’s not the “know” part but rather the “do” part of the sentence that’s 
+the problem.
+So why do people do things they know are a bad idea? It’s not because they 
+aren’t smart people.
+A big part of this goes back to our elephant and rider. Frequently, the rider 
+knows, but the elephant still does.
+We learn from experience
+Part of the reason for “I know, but…” is that people learn from experience, which 
+is a great thing (we wouldn’t want to live in a world where people didn’t), but 
+it can cause some problems. The elephant in particular can be far more influ-
+enced by experience than by abstract knowledge.
+Here’s an example. Let’s say that 1 in 10 instances of texting while driving 
+results in an accident (this isn’t a real statistic; I don’t think that exact data is 
+known—this is just for purposes of argument). Let’s take a look at the experi-
+ence of two different drivers:
+Excerpted from Design For How People Learn by Julie Dirksen.  
+Copyright © 2012. Used with permission of Pearson Education, Inc. and New Riders.
+(Haidt, 2006)
+
+217
+MOTIVATION TO DO
+Texting while driving
+Driver 1
+Driver 2
+1st Time 
+OK
+OK
+2nd Time
+Has nasty fender bender
+OK
+3rd Time
+Doesn’t text
+OK
+4th Time
+Doesn’t text
+OK
+5th Time
+Doesn’t text
+OK
+6th Time
+Doesn’t text
+OK
+7th Time
+Doesn’t text
+OK
+8th Time
+Doesn’t text
+OK
+9th Time
+Doesn’t text
+OK
+10th Time
+Doesn’t text
+Has an accident
+Both drivers are learning from experience, but the lesson Driver 2 is learning 
+from experience is that texting while driving is fine—see, look at all the experi-
+ence that confirms that! Until it isn’t fine, of course.
+This is why people have a really hard time with activities where the action is 
+now but the consequence is later. The elephant is a creature of immediacy. Take 
+a look at these classic “I know, but...” activities. 
+Classic “I know, but…” activities
+Activity
+Immediate Consequence
+Delayed Consequence
+Smoking
+Nice nicotine hit
+Lung cancer
+Saving for retirement
+Less money
+More money
+Exercise
+Ouch
+Nice abs!
+Doughnuts
+Mmm…
+I’m not getting on that scale…
+In these activities, the elephant is being asked to sacrifice in the present for 
+some future gain, but the elephant is only really persuaded by what’s happening 
+now, and by the experience of the immediate consequences. The rider knows 
+that there’s an association with the future consequence, but whatever that 
+future consequence is, it’s too abstract to influence the elephant.
+Excerpted from Design For How People Learn by Julie Dirksen.  
+Copyright © 2012. Used with permission of Pearson Education, Inc. and New Riders.
+
+218
+chapter 8  DESIGN FOR MOTIVATION
+Remember, change is hard
+Now, you might not be trying to fix behaviors as difficult as smoking, but any-
+thing that involves extra effort is going to be a lot easier if the elephant is on 
+board with the program.
+In particular, changing an existing pattern of behavior can require effort for the 
+elephant. The elephant is a creature of habit, which means that if the elephant 
+is used to going left, it’s going to require a fair bit of conscious effort to get it to 
+go right instead.
+Before we look at ways to influence learner behavior, and while this word “change” 
+keeps popping up, let’s be clear on one thing: none of this is about controlling  
+the learner. It’s not about tricking your learners into compliance. Instead, it’s  
+about designing environments that make it easier for those learners to succeed.
+The experience they have when they are learning about something can make a 
+difference in the decisions they make later.
+Designing for behavior
+Let’s take a look at some methods to design for behavior change or 
+reinforcement.
+Excerpted from Design For How People Learn by Julie Dirksen.  
+Copyright © 2012. Used with permission of Pearson Education, Inc. and New Riders.
+
+219
+DESIGNING FOR BEHAVIOR
+The Technology Acceptance Model (TAM)
+The technology acceptance model (Davis 1989) is an information systems 
+model that looks at what variables affect whether or not someone adopts a new 
+technology. It’s been fairly well researched, and although it isn’t without its crit-
+ics, I find it to be a useful frame. At the heart of the model are two variables:
+Perceived Usefulness
+Perceived Ease of Use
+Does the learner see this change as 
+something that will be useful to them?
+Does the learner see this change as something 
+that will be easy to use or implement?
+It’s not a complicated idea—if you want someone to use something, they need 
+to believe that it’s actually useful, and that it won’t be a major pain in the ass  
+to use.
+TAM specifically addresses technology adoption, but those variables make 
+sense in a lot of other areas as well. You want someone to use a new method 
+of coaching employees? Or maybe a new safety procedure? If your audience 
+believes that it’s pointless (i.e., not useful) or it’s going to be a major pain (i.e., 
+not easy to use), they will probably figure out ways around it. Then it either fails 
+to get adopted or you get into all sorts of issues around punishments or incen-
+tives to try to force the change to happen.
+I keep TAM in mind when I design anything that requires adopting a new tech-
+nology or system or practice (which is almost everything I do). Some of the 
+questions I ask are:
+•	 Is the new behavior genuinely useful? Sometimes it’s not useful for the 
+learner, but it is useful for the organization, or it’s a compliance necessity. 
+In those cases, it can be a good idea to acknowledge it and make sure the 
+learner understands why the change is being made—that it isn’t just the 
+organization messing with their workflow, but that it’s a necessary change for 
+other reasons.
+•	 If it is useful, how will the learner know that? You can cite case studies, 
+examples, people talking about how it’s helped them, or give the learner the 
+experience of it being useful through simulations. Show Don’t Tell becomes 
+particularly important here. You can assert usefulness until you’re blue in 
+the face, and you won’t get nearly as much buy-in as you will if learners are 
+able to try it, or to hear positive endorsements from trusted peers. Can you 
+involve learners in planning the change so they can have input and can help 
+make sure that the change will be effective?
+Excerpted from Design For How People Learn by Julie Dirksen.  
+Copyright © 2012. Used with permission of Pearson Education, Inc. and New Riders.
+
+220
+chapter 8  DESIGN FOR MOTIVATION
+•	 Is the new behavior easy to use? If not, why not? Is it too complex? Is it 
+because people are too used to their current system? People will learn to  
+use even the most hideous system by mentally automating tasks, but then 
+when you ask them to change, it’s really difficult because they can no longer 
+use those mental shortcuts, and the new system feels uncomfortably 
+effortful until they’ve had enough practice.
+•	 If it’s not easy to use, is there anything that can be done to help that?  
+Can the learners practice enough to make it easier? Can you make job aids  
+or other performance supports? Can you roll it out in parts so they don’t  
+have to tackle it all at once? Can you improve the process or interface to 
+address ease-of-use issues? 
+Diffusions of Innovation
+The other model I find really useful is from Everett Rogers’ classic book Diffusion 
+of Innovations. If you haven’t read it, you might want to get a copy. It’s a really 
+entertaining read, packed with intriguing case studies and loaded with useful 
+stuff. The part I want to focus on here is his take on what perceived attributes 
+affect whether a user adopts or rejects an innovation:
+Relative Advantage—The degree to which an innovation is perceived as being 
+better than the idea it supersedes
+Compatibility—The degree to which an innovation is perceived to be consistent 
+with the existing values, past experiences, and needs of potential adopters
+Complexity—The degree to which an innovation is perceived as difficult to use
+Observability—The degree to which the results of an innovation are visible  
+to others
+Trialability—The opportunity to experiment with the innovation on a limited basis 
+(Rogers 1983)
+There is obviously some crossover with TAM, but if I’m designing a learning 
+experience for a new system, I use this as a mental checklist:
+•	 Are the learners going to believe the new system is better?
+•	 Are there compatibility issues that need to be addressed?
+•	 Can we do anything to reduce complexity?
+•	 Do the learners have a chance to see it being used?
+•	 Do the learners have a chance to try it out themselves?
+•	 How can learners have the opportunity to have some success with the  
+new system?
+Excerpted from Design For How People Learn by Julie Dirksen.  
+Copyright © 2012. Used with permission of Pearson Education, Inc. and New Riders.
+
+221
+DESIGNING FOR BEHAVIOR
+If somebody really, really doesn’t want to do something, designing instruction 
+around these elements probably isn’t going to change their mind. And if a new 
+system, process, or idea is really sucky, or a pain in the ass to implement, then it’s  
+going to fail no matter how many opportunities you give the learner to try it out.
+How might this play out in a real-life, on-the-job situation? Let’s say you are 
+responsible for creating training for a network of nursing homes. There have 
+been a number of incidents lately with residents falling down and injuring them-
+selves. The network has started a new initiative to try to reduce the number 
+of falls. Your job is to train the staff to use a new process for evaluating a resi-
+dent’s risk level for falling. The staff is supposed to use a five-point checklist 
+(steadiness, use of walking aids, physical dexterity, vision impairment, and 
+environmental hazards) to evaluate a resident’s risk, and to take action on high-
+risk ratings. The difficulty is that this is a different procedure than has been 
+used in the past, and it is extra work for the already busy staff.
+What could you build into a learning experience for each of the check-points to 
+make it more likely that the staff will use the new procedure?
+Think about each of Everett’s attributes (relative advantage, compatibility, com-
+plexity, observability and trialability), and how you accomplish each of these for 
+the new procedure. Consider how you would apply these ideas before reading 
+the design suggestions below.
+Design suggestions:
+•	 Relative Advantage  Is there a way for the user to see how many more falls 
+can be prevented using the new system? This can be done with statistics, 
+but statistics talk to the rider, not the elephant. Some way to make this 
+information more visceral for people will have more impact.
+	
+For example, learners might be able to identify with the story of Millie, a lively 
+resident who is negatively affected by a fall, and has to struggle to come back.  
+The new method can be used to prevent Millie from falling again.
+	
+Statistics can also be translated into tangibles. For example, a 17% reduction 
+in falls can mean X more residents who can visit their families for the holidays 
+and Y more residents who can operate independently, which ultimately 
+equals less work for the staff also.
+	
+Another way to show relative advantage would be for the learners to work 
+through a few cases using the old system, and then assessing those same 
+cases using the new system. They can then report back on how many more 
+Excerpted from Design For How People Learn by Julie Dirksen.  
+Copyright © 2012. Used with permission of Pearson Education, Inc. and New Riders.
+
+222
+chapter 8  DESIGN FOR MOTIVATION
+potential hazards were identified using the new system. By having the learners 
+discover and report back on the advantages, it becomes more Show than Tell.
+•	 Compatibility  One way to improve compatibility is to recruit the learners on 
+this task. As part of the training, have them look at how this new procedure 
+is incompatible, and then have them help brainstorm ways to make it more 
+compatible with the existing process.
+•	 Complexity  The first step in clarifying and taming complexity is to 
+reduce the learners’ perceived sense of complexity by giving them enough 
+opportunities to practice such that the process starts to feel easier to them.
+	
+The second step is to actually reduce the complexity. If the new process 
+adds a separate form, can it be incorporated with the existing forms? If it’s 
+a situation where the learners have to write notes, can some of the items be 
+converted to a checklist so they don’t have to remember as much, and so 
+they can fill out the documentation faster?
+•	 Observability  Are there pilot programs that the learner can observe? Can 
+you identify opinion leaders (the folks everybody listens to) and have them 
+use the new process first, so everyone else can see how it’s going?
+•	 Trialability  Stage some practice scenarios that the learners can work through 
+to see how the new system works. After they’ve had a chance to try it out, 
+regroup and smooth out any rough edges, questions, or issues with the learners.
+Self-efficacy
+Self-efficacy can be described as someone’s belief in their own ability to suc-
+ceed. Basically, it’s the little engine that could (“I think I can…I think I can...”).
+Which of these guys do you think is going to be more likely to try a new method 
+or procedure?
+Earlier in the book, I mentioned a curriculum for drug and alcohol prevention for  
+middle-school students (www.projectalert.com). One of the key elements of 
+that curriculum is developing the students’ sense of resistance self-efficacy.
+Excerpted from Design For How People Learn by Julie Dirksen.  
+Copyright © 2012. Used with permission of Pearson Education, Inc. and New Riders.
+
+223
+DESIGNING FOR BEHAVIOR
+Dealing with peer pressure involving drugs, cigarettes, and alcohol is another 
+classic “I know, but…” scenario, right? For example, kids don’t start smoking 
+because they don’t know smoking is bad. They’ve all gotten that message, so 
+there are other reasons. But the situations where students need to make the 
+right decision are emotionally fraught, high-stress situations. Being able to act 
+confidently can make a big difference in those situations.
+Students participating in the prevention curriculum practice, and practice more, 
+and practice more how they are going to handle the situation. They have state-
+ments ready, and they’ve tried them out in role-play scenarios. Additionally, 
+they have the confidence of their peer group in the class, who have also talked 
+about their strategies in the same circumstances. 
+In addition to feeling capable, it helps if learners also feel that the necessary 
+task or skill is within their control.
+Carol Dweck, a social and developmental psychologist and researcher, con-
+ducted an experiment with fifth graders (Mueller & Dweck 1998). She had the 
+students solve a set of problems. When they were done, half the group was told 
+“You must be smart at these problems” and the others were praised for their 
+effort—“You must have worked hard at these problems.” They then had students 
+attempt subsequent tasks.
+Dweck describes the results: 
+We found that praise for intelligence tended to put students in a fixed mind-set 
+(intelligence is fixed, and you have it), whereas praise for effort tended to put them 
+in a growth mind-set (you’re developing these skills because you’re working 
+hard). We then offered students a chance to work on either a challenging task 
+that they could learn from or an easy one that ensured error-free performance. 
+Most of those praised for intelligence wanted the easy task, whereas most of 
+those praised for effort wanted the challenging task and the opportunity to learn. 
+When the students tackled subsequent tasks, the students who had been 
+praised for intelligence (something not in their control) did worse than they had 
+done initially, and the students who had been praised for working hard (some-
+thing they did control) did better overall.
+Well, that seems to have worked pretty effectively with kids, but are there ways 
+to improve the self-efficacy of adult learners as well?
+Excerpted from Design For How People Learn by Julie Dirksen.  
+Copyright © 2012. Used with permission of Pearson Education, Inc. and New Riders.
+
+224
+chapter 8  DESIGN FOR MOTIVATION
+Let’s revisit Marianna, from Chapter 1. You’ll recall that she is a newly minted 
+supervisor for her company’s IT support department. She was a great IT support 
+person and now she’s been promoted, supervising five other IT support workers. 
+Her HR department has sent her to a new-manager training class, where she 
+learned all about the paperwork necessary for managing hourly workers, and about 
+a coaching model for providing good and timely feedback to her direct reports.
+Marianna’s first few weeks have been a bit rocky. She is swamped by the paper-
+work demands, and has to work really hard to keep up. Other supervisors seem 
+to stay on top of their paperwork, so Marianna isn’t really sure what she’s doing 
+wrong. A couple of her employees are starting to come in late, and she’s reluc-
+tant to confront them directly about it, because she doesn’t want it to seem like 
+she got all bossy just because she was promoted. She tries to use the coaching 
+method she was taught, but while it works a little with one of the problem employ-
+ees, it doesn’t work at all with the other, and as Marianna gets busy, she doesn’t 
+really finish all the steps to the coaching process. She’s not that convinced it was 
+helpful, anyway.
+Marianna’s manager is aware that she’s struggling somewhat, and is thinking of 
+arranging more managerial training for her.
+What are some ways you could design learning experiences that would 
+increase Marianna’s sense of self-efficacy? Think about your own answer 
+before reading the design suggestion that follows.
+Design suggestion ➜ Practice is a really good place to start, probably first 
+through role-playing with her supervisor, or with others who can give her good 
+feedback. She can also shadow some other supervisors who are successfully 
+using the coaching model, and see it in use. She can try using the coaching model  
+for smaller issues, rather than using it to tackle major performance problems 
+right out of the gate. If she can use it to solve some smaller issues, she can gain 
+more confidence in using it with bigger, more intimidating issues. Additionally, 
+she can practice establishing herself as the supervisor of the team by doing some 
+other activities that are non-punitive—possibly ones around developing the 
+team in positive ways. This will make her more confident in her role as supervi-
+sor, which will help when it comes time to deal with more challenging issues.
+Modeling And Practice 
+In Marianna’s example, we looked at the value of observing someone else, and 
+of practicing to develop self-efficacy. 
+Excerpted from Design For How People Learn by Julie Dirksen.  
+Copyright © 2012. Used with permission of Pearson Education, Inc. and New Riders.
+
+225
+DESIGNING FOR BEHAVIOR
+These practices have other benefits besides developing self-efficacy. We know 
+that the elephant is a creature of habit, and that it likes to learn from its direct 
+experience (remember the second driver in the texting example?).
+It takes effort to switch paths. By creating opportunities for the learner to see 
+behaviors modeled and to practice them, you greatly increase the likelihood that 
+those behaviors will continue later. A particularly useful resource on creating 
+new, positive habits is the work of BJ Fogg (www.behaviormodel.org).
+Another way to practice and to help increase the likelihood of a behavior being 
+used is to walk learners a few steps down the path as part of the learning 
+design. By this I mean, have your learners prepare themselves to employ the 
+knowledge or skill by actively figuring out how they will use it to address their 
+own specific challenges or tasks—stick with them as they think through moving 
+from the theoretical to the practical. 
+We’ve talked a lot about using scenarios to make learning more vivid and engag-
+ing, but the best scenarios are the learner’s actual problems or challenges.
+Here are some examples:
+Topic of the Learning Experience
+Design
+How to write better  
+performance reviews
+If they can, have learners bring to class a performance 
+review that they need to write, and structure the 
+activities and discussions around writing that review. 
+At the end of the class, each learner will have a draft 
+of a real performance review.
+Filling out tax returns
+Have students start their own returns.
+Speaking Thai
+Have learners think about things they’d like to be 
+able to talk about (their kids, music, food, politics, 
+introducing themselves), and have them work on 
+ways to talk about those topics in Thai.
+Project management
+Have learners bring their own project documents 
+and project concerns, and be ready to discuss those 
+concerns, and have them work on solutions to those 
+problems as part of the class.
+Excerpted from Design For How People Learn by Julie Dirksen.  
+Copyright © 2012. Used with permission of Pearson Education, Inc. and New Riders.
+
+226
+chapter 8  DESIGN FOR MOTIVATION
+This set of tactics does a few useful things. First, it gets the learners imagining 
+how they can use the material in their own world. They start picturing the 
+possibilities and figuring out how to deal with obstacles.
+Second, it lets the learner get some practice with their own material when there 
+is still support to help iron out snags. 
+Third, the learners have now made an investment. Behavioral economists talk 
+about sunk cost and loss aversion. People have a strong reluctance to discard 
+something that they’ve already invested in.
+Fourth, they are ready to go when they get back to the real world. There’s always 
+a barrier to starting something new, and if the learner has already scaled part of 
+that barrier, then there’s less effort required from them as they continue.
+So, whenever it’s feasible, have the learners apply the subject matter to their 
+own situations.
+Social Proof
+We’ve already talked about how a good way to attract the elephant’s attention 
+is to tell it that all the other elephants are doing it. 
+But social proof (as discussed in Chapter 5—you remember, the tendency  
+of people to base their own actions on the actions of others around them) is 
+useful not only for attracting attention. It’s also really good for encouraging  
+the behavior.
+Excerpted from Design For How People Learn by Julie Dirksen.  
+Copyright © 2012. Used with permission of Pearson Education, Inc. and New Riders.
+
+227
+DESIGNING FOR BEHAVIOR
+Additionally, we can’t be experts on everything, so a good tool—often an effec-
+tive shortcut—is to turn to or to cite people whose opinions we respect, and 
+whose advice we seek. If those people tell us that something is useful, we are 
+much more likely to try it ourselves. I have folks who, if they tell me to go check 
+something out, I’ll do it without much question, because I trust their opinion:
+I’ve worked on a number of client projects where, at the beginning of the 
+course, there has been a “this is a really important initiative” message from the 
+CEO, or the relevant vice president, which is fine. It’s good to know a project is 
+known and supported at the top—gives it a feeling of authority, I guess you’d say.
+But really, who is, or should be, the actual authority figure when it comes to 
+doing your actual job? Is it the CEO, or is the person in the next cubicle who has 
+five times as much experience as you? If you are shopping on Amazon, whose 
+opinion are you going to really value—the publisher, whose blurb assures you 
+this author is a GENIUS, or the 19 readers who’ve said “meh…”?
+In the Project ALERT drug-prevention project, they use influential opinion  
+leaders to talk to kids about reasons not to do drugs. Now, granted, the term 
+“influential opinion leaders” means different things in different situations, but  
+if you are a 13-year old schoolkid, whose opinion would you most value?
+Excerpted from Design For How People Learn by Julie Dirksen.  
+Copyright © 2012. Used with permission of Pearson Education, Inc. and New Riders.
+
+228
+chapter 8  DESIGN FOR MOTIVATION
+Obviously, that depends on the 13-year old, but as a general rule, for middle-
+schoolers, high-school kids are pretty much the arbiters of what is and is not 
+cool. To that end, Project ALERT doesn’t spend a lot of time with lectures from 
+adult authority figures, but makes good use of teenagers talking about their 
+experiences, and how to make good choices. 
+So think about it—given your subject matter, who are the really influential people 
+in your organization or in the eyes of your target audience? How can you make 
+those opinions visible? Here are a few possibilities:
+•	 Have people describe successes with the process, procedure, or skill. These 
+descriptions can be presented on an intranet, a discussion forum, in email 
+blasts, or through any delivery methods already available in an organization. 
+If possible, you could create mini feature stories about the person who is 
+using the process to good effect—that person could be the star of the show.
+•	 Engage opinion leaders first. Involve your opinion leaders in the planning of 
+the endeavor and in the creation and design of the learning experience. Can 
+you have them lend case studies, or agree to champion the undertaking? Can 
+you have them mentor others?
+•	 Make progress visible. Many games put up leader boards to show 
+who is really killing it. While shaming low-performing people publicly is 
+counterproductive, having a way to acknowledge those who are succeeding 
+can help encourage others. 
+Excerpted from Design For How People Learn by Julie Dirksen.  
+Copyright © 2012. Used with permission of Pearson Education, Inc. and New Riders.
+
+229
+DESIGNING FOR BEHAVIOR
+Visceral Matters
+The elephant is not influenced only by outside forces like peer encouragement. 
+The elephant is also swayed by direct experience and strong emotion. Direct 
+visual choices and visceral experiences can sway the choices that learners make. 
+For example, in the cake-or-fruit-salad choice from Chapter 5, people were 
+more likely to pick the cake if they actually had it in front of them. If the choice 
+was more abstract, they had more self-control about choosing fruit salad.
+If we thought back to our texting-while-driving issue, how could we make the 
+experience more visceral or direct for people?
+Here are a couple of ways this has been done:
+•	 The New York Times created an interactive game to test how good you are at 
+changing lanes while distracted by a text message. It measures how much 
+your reaction time slows down when you are trying to deal with distractions. 
+You get direct experience with your own limitations. Unfortunately, it’s not 
+a very realistic simulation (you change lanes by pressing numbers on the 
+keyboard).
+•	 In 2009, the Gwent Police Force in Wales sponsored the creation of a video 
+showing teenage girls in a car. The driver is texting, and while she does, the  
+car drifts across the median line and strikes an oncoming car. A horrific 
+accident ensues, and you see every graphic detail.
+These are both visceral procedures—one involving direct experience and one 
+an emotionally wrenching video. There’s no data I can find on the outcomes of 
+either solution, unfortunately. However, I can tell you from personal experience: 
+I do flash on the memory of the video if I’m ever tempted to break my own rule 
+against texting while driving. 
+While scare tactics often fail to change behavior, there does seem to be some 
+benefit to strong visceral experiences, although more research is needed in  
+this area.
+or
+Excerpted from Design For How People Learn by Julie Dirksen.  
+Copyright © 2012. Used with permission of Pearson Education, Inc. and New Riders.
+
+230
+chapter 8  DESIGN FOR MOTIVATION
+You need to follow up
+All of the above suggestions and strategies can be useful, but possibly the most 
+important idea to keep in mind is this:
+Change is a process, not an event.
+Any time you want learners to change their behavior, it’s a process, and it needs 
+to be reinforced.
+The ways to reinforce the change are all the things we’ve already discussed, 
+so this isn’t a new idea at this point, but it’s still an important point. Be patient! 
+Even if all your learners start out with the best intentions, making a conscious 
+effort to implement the new solution or innovation, they are likely to trickle off if 
+the change isn’t reinforced. Always consider how that change will be reinforced 
+over the long term. 
+Summary
+•	 There are two kinds of motivation that learning designers need to consider: 
+motivation to learn, and motivation to do.
+•	 When you hear “I know, but…,” that’s a clue that you’ll probably need to 
+design for motivation.
+•	 “I know, but…” frequently comes up when there is a delayed reward or 
+consequence.
+•	 We learn from experience, but it can be a problem if we learn the wrong thing 
+from experience.
+•	 Change is hard.
+•	 We are creatures of habit—irritating for the short-term learning curve, but 
+potentially useful if we can help learners develop a new habit.
+•	 You may be able to influence your learners, but you can’t control them.
+•	 Learning designs should show the learners how something new is useful and 
+easy to use.
+•	 Try to ensure your learners get the opportunity to observe and personally try 
+new processes or procedures.
+•	 Learners need to feel a sense of self-efficacy with the new challenge or skill.
+•	 Use opinion leaders as examples.
+•	 Visceral experiences may have more impact that abstract ones, although the 
+research on this topic is ongoing.
+Excerpted from Design For How People Learn by Julie Dirksen.  
+Copyright © 2012. Used with permission of Pearson Education, Inc. and New Riders.
+
+231
+SUMMARY
+References
+Bandura, Albert. 1977. Self-efficacy: Toward a unifying theory of behavioral 
+change. Psychological Review 84: 191-215.
+Dance, Gabriel, Tom Jackson, and Aron Pilhofer. 2009. Gauging Your 
+Distraction. New York Times. www.nytimes.com/interactive/2009/07/19/
+technology/20090719-driving-game.html
+Davis, F. D. 1989. Perceived usefulness, perceived ease of use, and user 
+acceptance of information technology. MIS Quarterly 13(3): 319–340.
+Dweck, Carol S. 2007. The Perils and Promises of Praise. Educational Leadership 
+65 (2): 34–39.
+Fogg, BJ. 2011, 2010. Behavior Model (www.behaviormodel.org) and Behavior 
+Grid (www.behaviorgrid.org). 
+Mueller, Claudia M. and Carol S. Dweck. 1998. Intelligence praise can undermine 
+motivation and performance. Journal of Personality and Social Psychology 75: 
+33–52.
+PSA Texting and Driving, U.K. 2009. www.youtube.com/watch?v=8I54mlK0kVw. 
+Described at www.gwent.police.uk/leadnews.php?a=2172.
+Rogers, Everett M. 1962. Diffusion of Innovations. Glencoe: Free Press. Most 
+recently revised 2003 (5th edition).
+Excerpted from Design For How People Learn by Julie Dirksen.  
+Copyright © 2012. Used with permission of Pearson Education, Inc. and New Riders.
+Also: 
+Haidt, Jonathan. 2006. The Happiness Hypothesis. New York: 
+Basic Books

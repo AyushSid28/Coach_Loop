@@ -1,0 +1,589 @@
+REPRINT R1806G
+PUBLISHED IN HBR
+NOVEMBER–DECEMBER 2018
+ARTICLE
+SALES
+How to Sell  
+New Products
+Focus on learning, not performance 
+by Thomas Steenburgh and Michael Ahearne
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+Illustrations by MARCEL CEUPPENS
+How  
+to Sell 
+New  
+Products
+Thomas Steenburgh
+Professor, Darden School  
+of Business
+Michael Ahearne
+Professor, Bauer 
+College of Business
+Focus on learning,  
+not performance.
+Sales
+2    
+Harvard Business Review
+November–December 2018
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+FOR ARTICLE REPRINTS CALL 800-988-0886 OR 617-783-7500, OR VISIT HBR.ORG
+Harvard Business Review 
+November–December 2018    3
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+IDEA IN BRIEF
+THE PROBLEM
+Instead of training 
+salespeople to 
+understand and 
+overcome the 
+obstacles inherent 
+in selling completely 
+new products, 
+most companies 
+overrely on product 
+demonstrations. Thus 
+sales teams often 
+struggle to close deals.
+THE RESEARCH
+Studies show that 
+customers are often 
+enthusiastic about 
+new products early in 
+the selling cycle but 
+become resistant later. 
+Studies also show that 
+salespeople who take 
+the long view and have 
+a learning mindset 
+are better prepared to 
+handle the frustrations 
+inherent in the longer 
+process.
+THE SOLUTION
+Train salespeople 
+on process, not a 
+product’s bells and 
+whistles. Create a 
+psychological profile 
+of the ideal buyer. 
+Assess salespeople 
+for resilience and grit. 
+Use strategic account 
+management.
+WHEN WE TALK WITH COMPANIES about the biggest 
+challenges they face in growing revenues, we hear a  
+consistent complaint: Senior leaders have great confidence  
+in their ability to develop innovations but not in their 
+ability to commercialize them. Our research suggests that 
+this gap results from a lack of formal processes and  
+effective talent-management strategies. It’s a big problem, 
+because it limits the return companies reap from their R&D 
+spending. To put it simply, companies that have invested 
+millions to dream up new-to-the-world innovations need 
+to become more adept at selling them to customers.
+Sales
+COPYRIGHT © 2018 HARVARD BUSINESS SCHOOL PUBLISHING CORPORATION. ALL RIGHTS RESERVED.
+4    
+Harvard Business Review
+November–December 2018
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+To understand why that’s so difficult, we combed the 
+academic literature, conducted numerous one-on-one  
+interviews with senior sales leaders, and led several studies 
+of our own. We found that successful companies recognize 
+that the sales process for new products requires different 
+allocations of time and must overcome different objections 
+and barriers by comparison with the traditional approach. 
+We also found that people who excel at selling new products 
+have traits and behaviors different from those of people who 
+successfully sell existing product lines—and that the best 
+companies develop organizations and cultures to support 
+salespeople in rising to the challenge.
+A New Sales Process
+To better understand what makes the sales process for new 
+products different, we surveyed 500 salespeople at B2B 
+companies across a wide variety of industries, from technol-
+ogy to financial services to industrial products. We wanted 
+to understand how they spend their time during the process 
+and how the challenges they face vary as it unfolds.
+Demands on time. We found that selling new products 
+requires greater intensity and consumes much more atten-
+tion. On average, salespeople spend 35% more time meeting 
+with customers throughout the sales cycle than they do 
+when selling established goods and services. Since much of 
+that time is spent educating customers on how the product 
+will change their current business practices, these meetings 
+are typically conducted in person, with 32% more time  
+spent in face-to-face meetings. And because committing to  
+a completely new product requires broader consensus  
+within a targeted company, salespeople spend 30% more 
+time meeting with customers’ cross-functional teams.  
+Given that time is a salesperson’s most precious resource, 
+that’s a costly investment.
+Barriers to closing. We asked people to report when they 
+met resistance and what their biggest challenges were in each 
+of the six stages common to most sales processes: (1) sales 
+inquiry, when the initial call is made; (2) needs recognition, 
+when the salesperson helps the customer better understand 
+his or her needs; (3) evaluation, when the customer begins to 
+consider various products; (4) solution development, when 
+the customer sits down with a limited set of suppliers and 
+works out potential solutions; (5) decision, when the customer 
+decides whether or not to buy; and (6) after-sale maintenance, 
+which takes place when the product is being used.
+One important finding is that resistance to the sale 
+typically occurs later in the process for new innovations than 
+for established products. That’s because customers are often 
+curious about new products, so more of them will say yes to 
+an initial meeting. One buyer who rarely accepts appoint-
+ments with sales reps commented, “I will always listen if 
+someone brings me a new idea. I want to make sure we are 
+staying current with the best of what is being done in our 
+industry.” But as the process continues, customers become 
+more hesitant to abandon the status quo.
+The challenges faced in the sales process change over time. 
+In the first two stages, the biggest barrier is that customers 
+think they have only limited information about the product 
+because the salesperson is not revealing something import-
+ant about it. Similarly, in the next stage, evaluation, they 
+often worry that they still don’t fully understand the product.
+A big shift occurs in the solution-development stage. 
+At this point customers turn their attention to how their 
+business practices would change if they decided to adopt the 
+product. The two biggest issues are: Customers don’t like 
+open-ended situations, which create uncertainty and raise 
+doubt, and they worry that their way of doing business will 
+get disrupted. Also, the buying unit typically expands at this 
+point, and some of those just joining the process wonder, 
+What will happen to me? Similar concerns are raised in the 
+decision stage, as customers continue to focus on risk and 
+how people in the organization will be affected, worry that 
+they will regret a decision to buy, and wonder whether they 
+can accurately predict their switching costs.
+From the sales organization’s perspective, this pattern 
+is problematic and difficult to overcome. Because people 
+with new products to sell can book lots of initial meetings, 
+they feel a sense of accomplishment: They are getting in 
+front of customers and creating relationships with prospects 
+who previously might not have taken their calls. The initial 
+customer enthusiasm is seductive and persuades the sales-
+person that his or her time is being put to good use. But as the 
+process unfolds, it becomes clear that many of those  
+curiosity-driven meetings were never real opportunities, 
+leaving the salespeople with little to show for their efforts.
+On average, salespeople who sell new products spend  
+32% more time meeting customers face-to-face than do other reps.
+FOR ARTICLE REPRINTS CALL 800-988-0886 OR 617-783-7500, OR VISIT HBR.ORG
+Harvard Business Review 
+November–December 2018    5
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+What typically passes for training when a product  
+is launched is merely a product showcase in disguise.
+Sales
+6    
+Harvard Business Review
+November–December 2018
+the characteristics of just over 2,500 salespeople from five 
+leading companies in industries including digital media, 
+pharmaceuticals, and industrial products and services.
+They take the long view. Our first observation: The most 
+successful salespeople manage their time more deliberately 
+than other salespeople do. On average, they divert their 
+attention from existing products and services and use less 
+time on administrative work in order to spend 4.5 more 
+hours a week selling innovations. They invest more time up 
+front identifying good prospects, ruthlessly targeting a few 
+customers who are likely to adopt rather than spreading their 
+attention over many accounts. We also found that a focus 
+on long-term outcomes with customers is closely associated 
+with success. One customer described a favorite rep this way: 
+“His philosophy was that if he could help us do better, then 
+we would ultimately spend more money with his company, 
+and in the long run we would all do well.”
+They have different concerns. Successful salespeople 
+perceive barriers very different from those that others see. 
+They are concerned about people and process issues at the 
+buying organization and about whether the sale will stall if 
+the buyer lacks the evaluation criteria to make a purchase. 
+They worry that the customer will see the switching costs 
+as being too high, or that too many people will be heavily 
+invested in the status quo. In contrast, other salespeople 
+focus on their product knowledge, worrying that they lack 
+descriptive information or that the information they’ve 
+received is unclear.
+They exhibit more resolve. Although grit matters in most 
+sales, it is even more important when selling new products. 
+Setbacks often occur late in the process, causing salespeople 
+to feel that the rug has been pulled out from under them. As 
+one senior sales leader told us, “Salespeople will never turn 
+down the opportunity to sell new products. They view them 
+as another arrow in their quiver and immediately see them as a 
+key to their success. But whether they put sustained effort into 
+selling them is another matter.” Those with a long-term orien-
+tation focus on the future payoff and develop coping strategies 
+to deal with the obstacles they encounter along the way.
+They have a learning mindset. Goal orientation also 
+plays a role in success at selling new products. Some 
+salespeople have a learning orientation—a desire to improve 
+their abilities and a need to master difficult tasks. These 
+The training needed. In general, organizations don’t do 
+enough to help salespeople navigate this complex process. 
+Our research suggests that what usually passes for training 
+when a product is launched is merely a product showcase in 
+disguise; the main challenges that will arise during the sales 
+cycle aren’t addressed. At the launch meeting, product devel-
+opment teams typically devote too much attention to the 
+product’s bells and whistles, believing that their primary goal 
+is to get the salespeople excited enough about the innovation 
+to take it to all their customers. Early in the cycle, not only 
+must the salesperson provide the right product information, 
+but customers must feel they have the right information. That 
+involves establishing trust and demonstrating a deep under-
+standing of the customer’s challenges. Later in the cycle, 
+the salesperson must help the customer understand, assess, 
+and manage the risks and the people issues associated with 
+change. Too few companies help salespeople learn to do this.
+Sales teams would be better off spending their time devel-
+oping a psychological profile of the ideal customer. What 
+traits suggest that a prospect might be willing to adopt a new 
+way of doing business? What behavioral clues signal that he 
+or she is serious about making a purchase rather than simply 
+learning about a new technology? Does the prospect’s organi-
+zational culture support learning and change? For prospects 
+who best fit the profile, the sales team should map out all the 
+steps that will need to be taken—and all the people who will 
+need to be met. This exercise is creative in nature, because 
+the goal is to envision what should be new and different in 
+the sales process. The team should ask, “Will the buyer need 
+to create new evaluation criteria before a sale can be made? 
+Which groups in the buying organization stand to lose power, 
+and how might they be mollified? Do we know everyone who 
+will be affected by the change? If not, how can we develop 
+the network we need?”
+Although the sales team won’t have all the information 
+required to get this perfectly right the first time around, 
+working through the exercise will help avoid major stumbling 
+blocks and focus on finding the right types of customers.
+What Makes for Successful Salespeople?
+To learn what traits and competencies characterize people 
+who thrive selling new products, we began by analyzing 
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+FOR ARTICLE REPRINTS CALL 800-988-0886 OR 617-783-7500, OR VISIT HBR.ORG
+Harvard Business Review 
+November–December 2018    7
+individuals greatly value personal growth. Others have a 
+performance orientation, craving praise for superior work  
+or dreading poor evaluations. A recent study by Annie Chen 
+of Westminster Business School and colleagues looked at 
+how differences in goal orientation affected salespeople’s 
+belief in their abilities and their motivation to sell new 
+products. They found that those with a strong learning 
+orientation were confident and eager to meet the challenge. 
+Salespeople with a performance orientation fell into two 
+camps: Those who framed the challenge as an opportunity 
+for praise felt the same way that people with a learning 
+orientation did, but those who dreaded poor evaluations 
+worried they would fail and consequently were less likely  
+to put effort into selling the product.
+We looked at how goal orientation affects sales over time 
+at one of the five companies in our study and found that 
+performance suffers initially, when a product is launched, 
+regardless of which orientation a salesperson has. Reps 
+with a learning orientation spend more time acquiring new 
+sources of information and experimenting with different 
+strategies and less time selling; their performance tends 
+to suffer more at first than that of performance-oriented 
+salespeople. In effect, they are making a conscious trade-
+off—and the period of active learning yields a long-term 
+payoff. Once they understand the market and have found 
+effective strategies, their performance eventually stabilizes 
+at a higher level than that of their performance-oriented 
+peers. For managers this demonstrates that giving salespeo-
+ple time to experiment and learn about the market will pay 
+off in the long run, but you need the courage to weather an 
+early performance dip.
+They are knowledgeable, customer focused, and 
+adaptable. We identified several other characteristics 
+associated with success in selling new products. Salespeople 
+need both product knowledge and market knowledge—an 
+understanding of market trends and customer buying pat-
+terns. Given the changes that will take place in the custom-
+er’s business if the offering is adopted, they need customer 
+focus—a predisposition to meet customer needs above and 
+beyond what is required. And the pace of change means they 
+need adaptability to adjust their internal processes and style 
+quickly according to feedback from the team, other manag-
+ers, and market influences.
+To examine whether all salespeople—the more and the 
+less successful ones—recognize whether they have the 
+needed characteristics, we compared how they and their 
+customers rated their abilities on the above dimensions. The 
+pattern was striking: Confident in their own abilities, most 
+salespeople gave themselves high ratings across the board. 
+Customers, however, gave them high ratings on product 
+knowledge only—on most dimensions their evaluations were 
+only about a third as high as the salespeople’s own, and less 
+than a tenth as high on adaptability. The salespeople thought 
+they were adjusting quite well to outside influences, but cus-
+tomers saw them as stuck in their ways. It is clear from this 
+analysis that sales organizations need to provide guidance 
+and support for their team members’ improvement.
+A Culture That Supports New-Product Sales
+Frontline sales managers play a central role in executing 
+organic growth strategies, because they deal with the 
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+8    
+Harvard Business Review
+November–December 2018
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+The best companies customize training to meet  
+individual needs and tie assessments to performance.
+FOR ARTICLE REPRINTS CALL 800-988-0886 OR 617-783-7500, OR VISIT HBR.ORG
+Harvard Business Review 
+November–December 2018    9
+toughest people decisions on a day-to-day basis. During the 
+product launch phase they help existing salespeople learn 
+new behaviors and keep up morale when performance dips. 
+If the company is building a sales force from scratch to  
+support a new product, these managers are responsible  
+for hiring people with the appropriate skills and abilities.  
+If the company is launching a new growth strategy, they  
+must translate it into actions that will work in the field— 
+a challenging job, because they need to make decisions 
+without knowing exactly what will work.
+We found that the best companies use competency assess-
+ment and training programs to help frontline sales managers 
+effectively meet those challenges. Competency assessments 
+identify individual salespeople’s strengths and weaknesses 
+by measuring traits and skills; their sophistication varies 
+widely across companies. Many organizations don’t map 
+and assess competencies at all—or if they do, it’s in a general 
+way, not with an eye to selling new products. Companies may 
+develop group training programs to address deficiencies in 
+the sales force, but the main focus of such programs is to help 
+people take stock of their own abilities.
+Assess skills systematically. The best companies take 
+this a step further by customizing training to meet individual 
+needs and tying assessments to performance. Metrics such 
+as new-product sales productivity and new-product share 
+of wallet are used to discern who is excelling in the market-
+place. Managers use the assessments to guide one-on-one 
+coaching sessions about specific behaviors that will lead to 
+higher performance and to develop focused learning plans. 
+During the launch phase of a new product, the companies 
+don’t know exactly what skills will be needed for success, so 
+they make an educated guess. They revisit their competency 
+maps as it becomes clear who is thriving in the market and 
+revise their training programs to overcome deficiencies.  
+They create a culture in which salespeople aspire to grow.
+The training required in these programs tends to be broad, 
+encompassing both skill building and personal growth, 
+because new products test salespeople’s self-confidence.  
+For example, a media company told us that its salespeople 
+were becoming so overwhelmed by the pace of change in the 
+digital market that they could not engage with customers. 
+They could ask the right questions to assess customer needs 
+and had adequate product knowledge, but they couldn’t 
+bring themselves to discuss solutions. A constant stream  
+of digital disruptions shook their confidence in their under-
+standing of the market, and they did not want to appear 
+ignorant to their customers.
+Train for knowledge and resilience. The media company 
+took a two-pronged approach to this problem. To address 
+knowledge concerns, it created a market awareness training 
+program. After that ended, it provided regular updates on 
+trends in digital media so that salespeople could help their 
+customers make sense of where the market was moving. But 
+more important, it provided its people with coping mech-
+anisms to make them more comfortable with the pace of 
+change. The emotional barriers to making a sale were bigger 
+than the knowledge barriers. One senior manager described 
+the challenge this way: “Our salespeople could assess the 
+customer’s needs and offer appropriate solutions. But the dis-
+ruption in the digital market was so overwhelming that they 
+did not feel clear about what they were supposed to do. They 
+were stuck in place until we could get them over this hurdle. 
+To help them cope, we asked them to reflect on what their 
+role was and was not. We found that it was helpful for them 
+to write down their thoughts in a journal. We needed them to 
+recognize that they did not have to be an expert in all things.”
+Salespeople (like many others) often don’t want to see 
+that the world is changing and need prodding to learn new 
+behaviors. Competency assessments foster behavioral 
+change because they provide data from an outside source 
+about where salespeople’s skills need improvement. These 
+assessments are most effective when questions focus on 
+specific behaviors—such as “When selling new products, do 
+you first go to existing customers to gauge their reactions?”—
+and respondents cannot guess at the right answers. Making 
+comparisons that force them to wrestle with difficult facts 
+can foster behavioral change. For example, an individual’s 
+skills and behaviors can be benchmarked against the best 
+salespeople at innovative companies in the industry, the  
+best salespeople at his or her own firm, or customers’ assess-
+ments. The goal is to provide the manager with enough data 
+for any discussions that need to take place.
+Competency assessments also encourage sales managers 
+to focus on what the world should be rather than what it is.  
+If a product represents a change in direction for the company, 
+assessments can help determine who will be able to operate 
+Sales
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+10    
+Harvard Business Review
+November–December 2018
+in the new world and who will struggle. If the company is 
+building a new sales force to support the product, assess-
+ments can help determine what to look for in job candidates 
+and how to screen for the right traits. Changing behavior is as 
+difficult for sales managers as it is for salespeople. Successful 
+managers sometimes think, I know from experience what 
+works, so why should I change? When problems arise in the 
+field, these managers tend to blame the product rather than 
+the salespeople or themselves. If the sales management team 
+is stuck in the old world, significant turnover may be needed. 
+In an extreme case, we have seen half of a frontline sales 
+management team turn over in one year because its members 
+could not make the necessary leap.
+The Benefits of Strategic Account Management
+We also found that the best companies often launch new 
+products through strategic account management programs. 
+Strategic account managers (SAMs), who are assigned to 
+the most important customers, are permitted to take a 
+longer-term perspective for business development and are 
+responsible for building a useful network at all levels of their 
+customers’ organizations. They help the field sales team 
+overcome challenges as they arise. SAMs typically receive 
+more long-term incentives as part of their compensation 
+than regular salespeople do; companies with SAMs typically 
+experience higher sales costs but usually see a return on 
+that investment. At large companies SAMs help break down 
+internal barriers between business divisions that prevent 
+important conversations with customers. One member of an 
+operating board commented, “If I were to ask our business 
+division heads if we needed a strategic accounts manage-
+ment program, they would all say no, because they worry 
+about the cost. But from my position, I know that those 
+programs are a key driver of our growth.”
+Make sure someone’s looking at the big picture. It is 
+best practice for SAMs to hold regular planning meetings 
+with customers and establish mutually beneficial goals to 
+support the sale of new products. This form of planning and 
+collaboration allows SAMs to become intimately familiar 
+with customers’ business practices, culture, and strategies. 
+They analyze their customers’ industries and identify their 
+customers’ strengths and weaknesses relative to competi-
+tors in the market. Intimately working together on strategic 
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+FOR ARTICLE REPRINTS CALL 800-988-0886 OR 617-783-7500, OR VISIT HBR.ORG
+Harvard Business Review 
+November–December 2018    11
+priorities lowers barriers to adoption for new products. Trust 
+is established, so customers don’t worry that the seller is 
+holding back information about the product and are confi-
+dent that the seller understands the challenges they will face 
+as the product is rolled out to users.
+SAMs make sure that experts are connecting and new 
+opportunities are surfaced at lower levels of both companies. 
+Describing a typical success story, one commented, “Once a 
+business unit told me that the customer was not interested in 
+energy storage technologies. They had asked the wrong peo-
+ple. I put them in contact with the customer’s R&D center, 
+where I knew that a team of eight people worked on storage 
+innovation, and that team was indeed interested in cooperat-
+ing with us.” When the right connections are made, the two 
+companies often jointly develop technologies, promoting an 
+even deeper level of trust.
+Build partnerships with your best clients. SAMs are 
+responsible for bringing together the senior leadership 
+teams to show how the two companies can grow together. 
+Senior leaders at the selling organizations demonstrate their 
+personal commitment to these programs by regularly calling 
+on customers and holding strategy meetings with SAMs. 
+One senior leader explained, “The involvement of the board 
+shows our commitment to customer centricity; it builds trust 
+between the board and the customer’s top executives and 
+provides the board a more direct view of what customers 
+want. This program gives the SAMs further strength via our 
+top management inside and outside the organization.” Com-
+mitment at this level helps the operating team understand 
+its customers’ challenges and anticipate problems that might 
+be created by the adoption of a new product. And it reassures 
+customers that problems will be addressed in a timely man-
+ner, lowering the risk associated with making a purchase.
+Senior leaders also use strategic account management to 
+balance the need for long-term growth with pressure to meet 
+short-term earnings targets, which can create tension in sales 
+organizations and undermine a company’s ability to sell new 
+products. Our research suggests that senior leaders resolve 
+some of this pressure by letting SAMs focus on long-term 
+goals and managing earnings through nonstrategic relation-
+ships. In one study we found that most companies use their 
+sales organizations to manage earnings targets—81% of senior 
+sales leaders said that their CEO, and 75% said that their CFO, 
+requests revenue or expense management actions to smooth 
+earnings. But the leaders did not treat all accounts equally: 
+We found that the biggest factor in letting customers become 
+strategic accounts was their potential for long-term growth, 
+and that senior leaders were about half as likely to request 
+short-term actions in strategic accounts as in others. One SAM 
+described his company’s focus this way: “We see consistency 
+as being a driver of strategic relationships and are willing to 
+suffer through periods of reduced profitability to maintain 
+prog­ress.” This long-term focus is key to selling new products.
+SUCCESSFULLY EXECUTING an organic growth strategy 
+requires a deep and lasting commitment from the entire 
+senior leadership team, because bringing new-to-the-world 
+products to market transforms selling organizations as 
+much as it transforms buying organizations. The best com-
+panies are strategically aligned, from the sales force to the 
+C-suite, when new products are launched. They recognize 
+that selling these products involves different barriers, and 
+they develop new processes to overcome them. HR creates 
+competency maps to assess the skills and behaviors needed 
+to sell the products and works with sales managers to estab-
+lish the necessary training and coaching programs. Front-
+line sales managers buy into the strategy behind a product 
+launch and support the learning process that salespeople 
+go through in the field. The C-suite maintains a long-term 
+orientation by nurturing strategic accounts and making sure 
+that pressure to meet earnings targets does not stand in the 
+way of future growth.
+At the best companies we visited for our interviews, the 
+entire sales organization takes pride in having developed a 
+long-term mindset regarding organic growth. These compa-
+nies recognize that investing in R&D is not enough to ensure 
+that it will bear fruit; they make the same commitment to 
+commercialization that they make to idea development. Too 
+much is at stake to do otherwise. 
+
+HBR Reprint R1806G
+THOMAS STEENBURGH is the Richard S. Reynolds Professor and 
+senior associate dean for faculty development at the University 
+of Virginia’s Darden School of Business. MICHAEL AHEARNE is a 
+professor and the C.T. Bauer Chair in Marketing at the University of 
+Houston and the research director of the Sales Excellence Institute.
+Senior leaders should allow strategic account 
+managers to focus on long-term goals.
+Sales
+This document is authorized for use only by Joel Parisipogu (films.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org

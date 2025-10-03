@@ -1,0 +1,97 @@
+Digital 
+Article
+Business Communication
+Your Business Needs 
+Insight, Not Just Pretty 
+Pictures
+Introducing our month-long series on data visualization. 
+by Scott Berinato
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+Your Business Needs Insight, 
+Not Just Pretty Pictures
+Introducing our month-long series on data visualization. 
+by Scott Berinato
+Published on HBR.org  /  March 19, 2013  /  Reprint H00AC1
+In 2007, if you were a Starbucks shareholder and you opened 
+your annual financial report, the first meaningful information you 
+encountered was this:
+HBR  /  Digital Article  /  Your Business Needs Insight, Not Just Pretty Pictures
+Copyright © 2013 Harvard Business School Publishing. All rights reserved.
+1
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+And if you read the “narrative” annual report from that year, the first
+thing you saw was this:
+Last year, if you were a Starbucks shareholder, you only received one 
+annual report, and the very first page after the cover began with this:
+HBR  /  Digital Article  /  Your Business Needs Insight, Not Just Pretty Pictures
+Copyright © 2013 Harvard Business School Publishing. All rights reserved.
+2
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+The evolution of annual reports represents a broader trend in business 
+communication: Data comes first, and it’s incresingly visual.
+Welcome to the Visualizing Data Insight Center, where for the 
+next month we’ll explore the broadening role data visualization 
+plays in business communication. We believe this is not only an 
+inevitable trend, but one you must embrace if you want to effectively
+communicate with all of your stakeholders.
+Data visualization is taking hold now because of two trends. The first:
+big data is here, it must be analyzed, and one of the best ways to make 
+sense of it is with visual representations. And two, the tools to create 
+good data visualizations are being democratized, which has led to a 
+growing community of programmers, designers, and statisticians who 
+can apply their analytical and intuitive powers to creating meaningful 
+visual stories.
+HBR  /  Digital Article  /  Your Business Needs Insight, Not Just Pretty Pictures
+Copyright © 2013 Harvard Business School Publishing. All rights reserved.
+3
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+We’ve already declared the data scientist to be the sexiest job of the 21st 
+century. Those scientists will need visualization experts the way writers 
+need editors.
+While we’ll be sharing some stunning visuals over the next month, 
+this Insight Center is not just focused on pretty pictures. Our aim is 
+to get you acquainted with this burgeoning discipline, emphasizing 
+how and when you can practically apply visualization in order to be 
+a more effective communicator. We’ll cover everything from the basic 
+— how you can improve PowerPoint slides using visualization — to the 
+advanced ways graphics can make sense of big data sets.
+We’ll also share our contributors’ and editors’ favorite visualizations 
+with explanations of why they find them so useful. And, of course, we’ll 
+share some all-time bad examples as cautionary tales.
+We also want to know what your favorite — or least favorite — data 
+visualizations are. You can email me, or post links in the comments.
+We’re kicking the Insight Center off today with a good mix of 
+introductory content. Designer and art director Dylan C. Lathrop 
+explores the growth of data viz, and the positives and negatives that 
+have emerged during this period. I interviewed Amanda Cox, a graphics 
+editor at the New York Times, to talk about how they create their 
+stunning — and stunningly useful — visualizations. How do they decide 
+what’s worth doing? And how do they staff against it?
+And for fun, we’re re running one of our most popular features on “crap 
+circles,” which explores the world of remarkably awful PowerPoint cycle 
+graphics.
+HBR  /  Digital Article  /  Your Business Needs Insight, Not Just Pretty Pictures
+Copyright © 2013 Harvard Business School Publishing. All rights reserved.
+4
+This document is authorized for use only by Joel Parisipogu (ﬁlms.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org 
+or 800-988-0886 for additional copies.
+
+Thank you for joining us, and jump in with your ideas, insights, and 
+visualizations as well.
+This article was originally published online on March 19, 2013.
+Scott Berinato is a senior editor at Harvard Business Review and 
+the author of Good Charts Workbook: Tips Tools, and Exercises for 
+Making Better Data Visualizations and Good Charts: The HBR Guide 
+to Making Smarter, More Persuasive Data Visualizations.
+HBR  /  Digital Article  /  Your Business Needs Insight, Not Just Pretty Pictures
+Copyright © 2013 Harvard Business School Publishing. All rights reserved.
+5
+This document is authorized for use only by Joel Parisipogu (films.aster@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org

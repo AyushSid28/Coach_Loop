@@ -1,0 +1,744 @@
+COACHING
+PSYCHOLOGY
+MANUAL
+
+
+Margaret Moore
+Bob Tschannen-Moran
+With the Wellcoaches faculty team
+COACHING
+PSYCHOLOGY
+MANUAL
+
+Acquisitions Editor: Emily Lupash
+Managing Editor: Andrea M. Klingler
+Marketing Manager: Christen Murphy
+Senior Production Editor: Sandra Cherrey Scheinin
+Designer: Teresa Mallon
+Compositor: Circle Graphics
+Copyright © 2010 Wellcoaches Corporation.
+351 West Camden Street
+530 Walnut Street
+Baltimore, MD 21201
+Philadelphia, PA 19106
+Printed in China
+All rights reserved. This book is protected by copyright. No part of this book may be
+reproduced or transmitted in any form or by any means, including as photocopies or
+scanned-in or other electronic copies, or utilized by any information storage and retrieval
+system without written permission from the copyright owner, except for brief quotations
+embodied in critical articles and reviews. Materials appearing in this book prepared by
+individuals as part of their official duties as U.S. government employees are not covered
+by the above-mentioned copyright. To request permission, please contact Lippincott
+Williams & Wilkins at 530 Walnut Street, Philadelphia, PA 19106, via email at
+permissions@lww.com, or via website at lww.com (products and services).
+9 8 7 6 5 4 3 2 1
+Library of Congress Cataloging-in-Publication Data
+Moore, Margaret, MBA.
+Coaching psychology manual / Margaret Moore, Bob Tschannen-Moran ; with the
+Wellcoaches faculty team.
+p. ; cm.
+Includes bibliographical references and index.
+ISBN 978-0-7817-7262-4
+1.
+Health coaches. I. Tschannen-Moran, Bob. II. Title.
+[DNLM: 1.
+Counseling—methods. 2.
+Health Behavior. 3.
+Motivation.
+WM 55
+M823c 2010]
+R727.415M66 2010
+610.73'7—dc22
+2008047615
+Care has been taken to confirm the accuracy of the information present and to describe
+generally accepted practices. However, the authors, editors, and publisher are not respon-
+sible for errors or omissions or for any consequences from application of the information
+in this book and make no warranty, expressed or implied, with respect to the currency,
+completeness, or accuracy of the contents of the publication. Application of this information
+in a particular situation remains the professional responsibility of the practitioner; the
+clinical treatments described and recommended may not be considered absolute and 
+universal recommendations.
+The authors, editors, and publisher have exerted every effort to ensure that drug selection
+and dosage set forth in this text are in accordance with the current recommendations and
+practice at the time of publication. However, in view of ongoing research, changes in
+government regulations, and the constant flow of information relating to drug therapy
+and drug reactions, the reader is urged to check the package insert for each drug for any
+change in indications and dosage and for added warnings and precautions. This is partic-
+ularly important when the recommended agent is a new or infrequently employed drug.
+Some drugs and medical devices presented in this publication have Food and Drug
+Administration (FDA) clearance for limited use in restricted research settings. It is the
+responsibility of the health care provider to ascertain the FDA status of each drug or
+device planned for use in their clinical practice.
+To purchase additional copies of this book, call our customer service department at 
+(800) 638-3030 or fax orders to (301) 223-2320. International customers should call 
+(301) 223-2300.
+Visit Lippincott Williams & Wilkins on the Internet: http://www.lww.com. Lippincott
+Williams & Wilkins customer service representatives are available from 8:30 am to 
+6:00 pm, EST.
+
+This manual is dedicated to my wonderful husband,Paul Clark,a biotechnology
+patent attorney,who dreamed up the idea for me to start Wellcoaches while I was
+a biotechnology executive.Paul is the reason that my life is now a work of art.
+Margaret Moore
+
+
+vii
+Margaret is an entrepreneur
+and17-year veteran of the bio-
+technologyindustryinthe UK,
+Canada, the US, and France.
+She served in marketing and
+business development roles
+at three companies, which
+later joined AstraZeneca or
+SanofiAventis. She served as
+CEO and COO of two early-
+stage biotech companies.
+In 2000, Margaret shifted focus from the high
+technology side of medicine to prevention and well-
+being and founded Wellcoaches Corporation (a strate-
+gic partner of the American College of Sports
+Medicine) to set the standard for professional coaches
+in healthcare and build the new professions of health
+coach, fitness coach, and wellness coach.
+The company’s coach training school, which
+employs 30 world-class faculty members, has trained
+more than 3,000 physical and mental health profes-
+sionals as health, fitness, and wellness coaches over
+the past five years. The school now trains more than
+1,000 coaches per year. Margaret’s collaboration with
+Edward Phillips, MD, to build a coaching roadmap
+for physician visits has led to the launch of the
+Institute of Lifestyle Medicine at Harvard Medical
+School, of which Margaret is a founding advisor.
+Margaret is the lead or co-author of
+• Harvard Medical School online CME pro-
+gram: Prescribing Lifestyle Medicine for Weight
+Management
+• White paper: The obesity epidemic—a confi-
+dence crisis calling for professional coaches
+• Principles of Behavioral Psychology in Well-
+ness Coaching
+• Relational Flow: Theoretical Model for the
+Intuitive Dance (new theory of coaching psy-
+chology)
+• Coach Meg’s Blog at www.coachmeg.com
+• Trade book underway titled: Coach Meg and the
+Realization of Rachel (a pediatrician)
+Margaret is a seasoned speaker, including radio
+and television, and has delivered more than 50 work-
+shops and presentations about coaching psychology
+and positive psychology at national and international
+conferences. Born in Toronto, she earned a BS in
+Biology and an MBA from the University of Western
+Ontario in 1978 and 1983, respectively. Margaret is a
+board member of the Boston Philharmonic Orchestra,
+led by Benjamin Zander.
+Bob Tschannen-Moran, IAC-
+CC, is the founder and Pres-
+ident of LifeTrek Coaching
+International, 
+a 
+cutting-
+edge group of professional
+coaches and consultants
+with diverse backgrounds,
+education, training, and ex-
+perience. Founded in 1998,
+LifeTrek 
+uses 
+strengths-
+based strategies to assist
+individuals and organizations to unleash their full
+potential. LifeTrek “celebrates the best to bring out the
+best in life and work.”
+Bob is a graduate of three coach-training pro-
+grams (Coach U, Wellcoaches, and FastTrack) and is
+an avid participant in life-long learning opportunities.
+He has particularly enjoyed learning from CoachVille,
+Appreciative Inquiry Unlimited, the NTL Institute 
+for Applied Behavioral Sciences, the Center for
+Nonviolent Communication, and the International
+Coach Federation. He is certified by the International
+Association of Coaching.
+Bob is an avid writer and collaborator in the field
+of coaching. His weekly electronic newsletter, LifeTrek
+Provisions, goes out to more than 50,000 people in 
+152 countries. Recent topics have included Evolu-
+tionary Wellness, Stress-Proof Your Life, the Art of
+Coaching, Ten Keys to Better Listening, Navigat-
+ing Life’s Transitions, and Common Values for the
+Common Good. Past issues are archived at www.
+LifeTrekCoaching.com. Bob has also written a book
+chapter on Skills and Performance Coaching for the
+Sage Handbook of Coaching. Bob enjoys speaking and
+workshop leadership, particularly when it comes to
+coaching, strengths-based planning, communication
+training, and promoting wellness.
+ABOUT THE AUTHORS
+
+viii
+ABOUT THE AUTHORS
+educational leadership at the College of William and
+Mary and a collaborator in LifeTrek Coaching Inter-
+national; his daughter, Bryn Moran, a medical doctor
+in Los Angeles; as well as his son and daughter-in-
+law, Evan and Michelle Tschannen, who graduated
+from the University of Virginia in May 2008 with mas-
+ter’s degrees in Systems Engineering and Special
+Education, respectively.
+Before becoming a coach and head of a coaching
+organization, Bob served for 20 years as a United
+Church of Christ pastor in Connecticut, Chicago, and
+Columbus, Ohio. He graduated from Northwestern
+University with a BA in 1975 and from Yale University
+with an MDiv in 1979.
+Bob is active in Kiwanis and marathon running.
+His family includes his wife, Megan, a professor of
+
+CHAPTER 5 Self-Efficacy and Self-Esteem
+ix
+ix
+Margaret Moore, MBA
+Founder and CEO, Wellcoaches Corporation
+Wellesley, Massachusetts
+Bob Tschannen-Moran, MDiv, IAC-CC
+Wellcoaches Faculty
+Williamsburg, Virginia
+Gloria Silverio, MA, PCC
+Faculty, Wellcoaches Corporation
+Delray, Florida
+Gabe Highstein, PhD, RN
+Faculty, Wellcoaches Corporation
+East Falmouth, Massachusetts
+Lori Gray Boothroyd, PhD, LP, PCC
+Faculty, Wellcoaches Corporation
+Traverse City, Michigan
+Kate Larsen, BS, PCC
+Faculty, Wellcoaches Corporation
+Eden Prairie, Minnesota
+Juli Compton, PhD
+Faculty, Wellcoaches Corporation
+Eagle, Indiana
+Erika Jackson, MA
+Faculty, Wellcoaches Corporation
+Canal Winchester, Ohio
+Chuck Schroeder, MS
+Executive Wellness Coach
+Estes Park, Colorado
+Pam Schmid, BS, ACSM HFI
+Certified Executive Wellness Coach
+Faculty, Wellcoaches Corporation
+Clayton, North Carolina
+Walter R. Thompson, PhD, FACSM, FAACVPR
+Department of Kinesiology and Health
+Georgia State University
+Atlanta, Georgia
+Jessica Wolfson, BS, PCC
+Faculty, Wellcoaches Corporation
+Oakland, California
+Robert Rhode, PhD
+Assistant Professor, Clinical Family and 
+Community Medicine
+Department of Psychiatry
+University of Arizona
+Tucson, Arizona
+Carol Kauffman, PhD, ABPP, PCC
+Assistant Clinical Professor, Harvard Medical School
+Director, Coaching and Positive Psychology Initiative
+Arlington, Massachusetts
+Beverly J. Richstone, PhD
+Monument, Colorado
+CONTRIBUTORS
+
+
+xi
+Batrice Adams
+Certified Personal Trainer/Performance 
+Nutrition Specialist
+Pine Hill, New Jersey
+Deanna Brolly
+Personal Fitness Trainer/Yoga Instructor
+Western Athletic Clubs
+San Francisco, California
+Tiffany Bryson
+Health & Physical Education
+North Georgia College and State University
+Dahlonega, Georgia
+Timothy Burns
+Vice President
+Best Health Solutions
+St. Petersburg, Florida
+Sarah Carr
+Personal Trainer/Fitness Instructor
+Cambridge Family YMCA
+Cambridge, Massachusetts
+Stacie Parn
+Assistant Manager, Fitness Center
+Northeast Utilities
+Berlin, Connecticut
+Karen Pitstick
+Fitness Specialist
+Health & Fitness
+Parrish Medical Center
+Titusville, Florida
+Shaunna Rodgers
+Trainer
+Addyston, Ohio
+Gail Sas
+Fitness Trainer
+Buellton, California
+Judy Springer
+Lecturer
+Health, Physical Education and Athletics
+University of Wisconsin Parkside
+Kenosha, Wisconsin
+Kimberly Weary
+Assistant Professor
+Exercise & Rehabilitative Sciences
+Slippery Rock University
+Slippery Rock, Pennsylvania
+REVIEWERS
+
+
+xiii
+Wellcoaches Corporation, the American College of
+Sports Medicine (ACSM), and our growing commu-
+nity of coaches are building the foundation for the
+new professions of wellness coach, health coach, and
+fitness coach. Since Wellcoaches was founded in 2000,
+we have worked hard to establish the gold standard
+in coaching competencies in the healthcare, fitness,
+and wellness industries. Our integrity, commitment to
+the highest standards, and our passion, vision, and
+dedication are what bonds the Wellcoaches commu-
+nity together.
+Having trained more than 3,000 coaches and now
+more than 1,000 coaches per year (all who have learned
+from previous versions of this manual), we’ve built the
+largest community of coaches in healthcare worldwide
+and the foundation to support a global industry that
+we hope grows to 100,000 coaches or more.
+We could not have published this manual any
+sooner. It has taken almost 10 years to distill the princi-
+ples and practices of coaching psychology; even so, this
+manual represents only the beginning. The field of
+coaching psychology is evolving rapidly, with our
+help. The way our coaching psychology curriculum
+has grown indeed mimics the way coaching works
+with clients. A clear vision has led to clear goals and
+impressive outcomes that continually stretch us in new
+and surprising ways. With the publication of this man-
+ual, our curriculum has matured into a robust training
+program on coaching psychology.
+We are teaching evidence-based coaching psychol-
+ogy to pioneering credentialed professionals in health,
+fitness, and mental health, enabling them to energize
+and empower clients to master health and well-being.
+Together, we hope to make a dent in some of the tough-
+est challenges of our times: the epidemics of obesity,
+sedentary lifestyles, stress, poor nutrition, and ever-
+rising healthcare costs.
+ORGANIZATION
+This manual comprises three parts and 12 chapters.
+The first part, comprising five chapters about core
+coaching skills, starts with a chapter on the fundamen-
+tals of coaching psychology. We explore definitions
+of coaching, describe coaching specialties, introduce
+scope of practice, ethical, and liability guidelines,
+and make the case for professional coaches trained
+in best practices. Chapter 2 discusses the key skills
+that generate the coaching relationship. In Chapter 3
+we explore the richness of the Transtheoretical Model
+and processes of behavior change before moving to
+Chapter 4 for an engaging overview of the appre-
+ciative inquiry model, which we’ve adapted as a
+strengths-based approach to coaching. Chapter 5
+draws from the fields of nonviolent communication
+(NVC) and motivational interviewing (MI) to teach
+core skills around empathy, handling ambivalence,
+and eliciting intrinsic motivation and self-efficacy. The
+last chapter in Part I discusses in more depth the con-
+cepts of self-efficacy and self-esteem, both improved
+by coaching as universal coaching outcomes, whether
+stated or not, applying Bandura’s seminal work as
+well as concepts from the new field of research-driven,
+positive psychology.
+Part II of the manual is called the Coaching Tool-
+box. The first chapter discusses approaches to client
+assessment, followed by Chapter 8, which describes
+detailed approaches and guidelines for helping clients
+build visions, set goals, make plans, and track progress.
+We then describe the heart of a coaching session, the
+generative moment, to which we devote an entire chap-
+ter because generative moments represent the most
+powerful and engaging moments in coaching. Last in
+this part is a chapter on conducting coaching sessions
+with step-by-step checklists that allow new coaches to
+get a head start in navigating coaching sessions.
+Part III is titled Coach Development. Chapter 11
+discusses coaching presence and introduces the being
+skills of coaching and their connection to the new pos-
+itive psychology manual of character strengths and
+virtues. Last but not least, we have a chapter on self-
+care to call coaches to walk the walk, and professional
+development, to encourage coaches to make the pur-
+suit of coaching mastery a lifelong journey.
+FEATURES
+A Quote at the beginning of each chapter sets the tone
+and gives a sense of purpose to the material. Chapter
+Objectives allow for a review of concepts that will be
+PREFACE
+
+xiv
+PREFACE
+charge and master health and well-being on a large
+scale. To get there, large numbers of professionals will
+need to learn and master the principles and practices of
+coaching psychology presented in this manual. The
+more dedicated we are to “walking the wellness walk”
+and to assisting others on the journey through dynamic,
+growth-promoting coaching relationships, the more
+probable that our dream will become a reality.
+Thank you for making the leap and working to
+become a world class coach who will make a big impact
+on the lives of many. We are delighted that you have
+joined the movement. We ask you to help us continue to
+define and meet the highest possible standards.
+Margaret Moore (Coach Meg)
+Bob Tschannen-Moran
+covered in each chapter. Throughout each chapter are
+relevant extracts from conversations and other pub-
+lished materials, providing more background and
+discussion of the material. Important! boxes provide
+further discussion of topics covered in the text and
+give need-to-know information that will help a coach
+as they move through sessions with their clients. Don’t
+Forget . . . boxes cover information that it is important
+for coaching professionals to remember as they learn
+their craft and begin building relationships with their
+clients. Review and Discussion Questions listed at
+the end of each chapter give readers a chance to prac-
+tice what they’ve learned and review pertinent infor-
+mation presented throughout the chapters.
+The publication of this manual helps us realize our
+vision which is nothing less than helping people take
+
+xv
+This manual represents the culmination of nine years
+of work by many colleagues and collaborators. The
+first iteration of our manual was developed from
+2000–2002 by Margaret Moore in collaboration with
+Steven Jonas, MD; Gabe Highstein, PhD; Juli Compton;
+Sheryl Marks Brown; Kate Larsen; Joan Price; and Tony
+Rodriguez. Important contributions from others fol-
+lowed quickly and include Walter Thompson, PhD;
+Robert Rhode, PhD; Lori Gray Boothroyd, PhD; Pam
+Schmid; and Jessica Wolfson. Gloria Silverio led a com-
+plete editing of the manual in 2006, as well as bringing
+in significant and new content.
+TheLifeTrekCoachingteam,ledby Bob Tschannen-
+Moran and Erika Jackson, spearheaded an enormous
+effort in 2006 and 2007 to expand the curriculum by
+integrating tenets of positive psychology, strengths-
+based change strategies, nonviolent communication,
+and relational flow (the intuitive dance of coaching).
+They also led the effort to structure the curriculum in
+accord with adult learning theory and to align the cur-
+riculum with our certification process, creating won-
+derful checklists and guides that are incorporated into
+this manual.
+The final draft of this manual was reworked in
+2007 and 2008 by Bob Tschannen-Moran and Margaret
+Moore, but we would not have completed the manual
+without the tireless efforts of the Wellcoaches opera-
+tions team to support all of us, led by the indefatigable
+and one-of-a-kind Jeff Cramer.
+We want to acknowledge all of the Wellcoaches
+faculty members who also serve as mentor-coaches,
+including Blaine Wilson, Christina Lombardo Ray, and
+Michael Scholtz, for their dedication to teaching and
+mentoring coaches to master coaching competencies
+and for calling us to continually refine the manual.
+Most importantly, our coach trainees have con-
+tributed continually to the evolution and presentation
+of coaching skills and processes. They have chal-
+lenged us to make them elegantly simple to practice
+and use. In fact, Chuck Schroeder, executive wellness
+coach, even created a streamlined version of a sample
+well-being assessment.
+All of us enjoy using these principles and practices
+every day to support both our own and our clients’
+health and well-being. Not only have we all under-
+gone personal transformations, we are incredibly for-
+tunate to be the partners in the small and large trans-
+formations that our clients experience. It’s rewarding
+beyond compare. Coaching is our future.
+Margaret Moore
+Bob Tschannen-Moran
+ACKNOWLEDGMENTS
+
+
+xvii
+PART I
+CORE COACHING SKILLS
+1
+Chapter 1
+Fundamentals of Coaching Psychology
+3
+What Is Coaching?
+3
+Why We All Need Coaching
+4
+What Coaching Isn’t: The Expert Approach
+6
+What Coaching Isn’t: The Therapy Approach
+7
+What Is Coaching Psychology?
+8
+What Brings Clients to Coaching?
+9
+The Process of Coaching
+9
+Training to Be a Coach
+10
+Professional Coach Code of Ethics
+10
+Liability and Scope of Practice
+11
+Appendix A: The ICF Code of Ethics
+12
+Appendix B: Suggested Readings
+14
+Chapter 2
+Coaching Relationship Skills
+17
+Relationship: The Heart of Coaching
+17
+Establishing Trust and Rapport
+18
+Using Mindfulness in Coaching
+21
+Three Core Coaching Skills
+22
+Other Relationship-Building Tools
+24
+Some Do’s and Don’ts in Coaching
+26
+Qualities of Masterful Coaches
+27
+Appendix A: Examples of Open-Ended Questions
+28
+Appendix B: International Coach Federation Core Coaching Competencies
+29
+Chapter 3
+Coaching Behavior Change
+33
+Introduction to Behavior Change
+33
+CONTENTS
+
+xviii
+CONTENTS
+Transtheoretical Model of Behavior Change
+33
+Stages of Change and Effective Coaching Skills for Each Stage
+34
+Helping Clients Move through the Stages of Change
+39
+More on the Transtheoretical Model (TTM)
+40
+Decisional Balance
+41
+Self-Efficacy
+41
+Operant Conditioning
+42
+Coaching Timelines
+42
+Mount Lasting Change
+43
+General Suggestions for Coaching Change in Light of the TTM
+46
+Appendix A: The Readiness to Change Quiz for Clients
+48
+Appendix B: Coaching Strategies for Stages of Readiness
+49
+Chapter 4
+Appreciative Inquiry in Coaching
+52
+The Five Basic Principles of Appreciative Inquiry
+52
+The 5-D Cycle of AI
+54
+Using Appreciative Inquiry in Coaching
+56
+Solving Problems the AI Way: A Strength-Based Approach
+58
+Making the Coaching Program Interesting
+60
+Using AI to Transform the Coaching Relationship
+61
+Chapter 5
+Nonviolent Communication and Motivational Interviewing in Coaching
+63
+Definitions
+63
+Understanding Motivational Interviewing
+63
+Principle One: The Empathy Factor
+64
+The Language of Empathy: Nonviolent Communication (NVC)
+65
+Principle Two: Developing Discrepancy
+67
+Principle Three: Rolling with Resistance
+70
+Principle Four: Support Self-Efficacy
+71
+Motivational Interviewing and Appreciative Inquiry
+72
+Chapter 6
+Self-Efficacy and Self-Esteem
+74
+Self-Efficacy: The End Game of Coaching
+74
+Self-Esteem: The Bedrock of Coaching
+78
+Relationship Between Self-Efficacy and Self-Esteem
+79
+Conclusion
+80
+
+CONTENTS
+xix
+PART II
+COACHING TOOLBOX
+83
+Chapter 7
+Client Assessments
+85
+The Value of Assessments
+85
+Reviewing a Well-Being Assessment
+87
+Physical Health Risks
+88
+Mental Health Risks
+90
+Discussing a Well-Being Assessment
+90
+Additional Assessments for Coaching
+93
+Appendix A: Sample Well-Being Assessment
+96
+Appendix B: Mental Health Indicators
+102
+Appendix C: Physician Medical Release for Health, Fitness, 
+or Wellness Coaching
+103
+Chapter 8
+Vision, Planning, and Goals
+104
+Introduction to Health, Fitness, and Wellness Planning
+104
+The Importance of a Compelling Vision
+104
+Examples of Visions
+105
+Behavioral Goals Make Visions Real
+107
+Three-Month Behavioral Goals
+108
+Weekly Behavioral Goals
+109
+Behavioral Goals Are SMART Goals
+110
+The Role of Brainstorming in Goal Setting
+112
+The Importance of Motivation in Goal Setting
+112
+The Power of Accountability in Goal Setting
+113
+Assessment of Behavioral Goal Achievement
+113
+Tracking and Measuring Outcomes Progress
+114
+Setting Outcomes Baselines
+114
+Putting It All Together
+116
+Chapter 9
+Generative Moments in Coaching
+120
+Definitions and Acronyms
+120
+Understanding and Recognizing Generative Moments
+120
+Generative Moments Engage Every Coaching Skill
+123
+Facilitating Generative Moments
+124
+Relational Flow in Generative Moments
+129
+
+xx
+CONTENTS
+Chapter 10 Conducting Coaching Sessions
+132
+Introduction
+132
+Step-by-Step Guidelines for the First 45- to 90-Minute Coaching Session 
+(Creating a Vision, 3-Month Goals, and First-Week Goals)
+132
+Step-by-Step Guidelines for Subsequent 30- to 45-Minute Coaching 
+Sessions (Achieving Goals and Realizing a Vision)
+141
+What to Expect during the First 3 Months of Working 
+with a Client
+144
+Adapt Your Coaching Style to Client Learning Styles
+145
+Putting It All Together
+146
+Appendix A: Client Coaching Program Checklist
+148
+Appendix B: Coaching Program Feedback Survey
+149
+PART III
+COACH DEVELOPMENT
+153
+Chapter 11 Coaching Presence
+155
+Definitions
+155
+Understanding Coaching Presence
+155
+Coaching Presence as a Symphony of Strengths
+156
+The Presence That Generates Movement and Growth
+160
+The Being Skills of Coaching Presence
+165
+Conveying Coaching Presence
+165
+Chapter 12 Self-Care and Professional Development
+168
+Personal Wellness Foundation Tool: Six Facets
+169
+Setting Strong Personal Standards and Boundaries
+169
+Steps to Enforcing Boundaries
+170
+Preventing Burnout
+170
+Professional Development
+171
+Experience Coaching as a Client
+171
+Participate in Additional Training Opportunities
+172
+Coaching Career Vision
+172
+INDEX
+174

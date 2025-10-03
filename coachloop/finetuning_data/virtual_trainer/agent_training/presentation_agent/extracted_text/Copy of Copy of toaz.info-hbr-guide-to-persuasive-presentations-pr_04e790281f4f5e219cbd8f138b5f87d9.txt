@@ -1,0 +1,280 @@
+
+HBR Guide to
+Persuasive
+Presentations
+Nancy Duarte
+HARVARD BUSINESS REVIEW PRESS
+Boston, Massachusetts
+
+Copyright 2012 Harvard Business School Publishing Corporation
+All rights reserved
+Printed in the United States of America
+No part of this publication may be reproduced, stored in or introduced into a retrieval system, or transmitted, in any form, or by any means (electronic, mechanical, photocopying, recording, or otherwise), without the prior
+permission of the publisher. Requests for permission should be directed to permissions@hbsp.harvard.edu, or mailed to Permissions, Harvard Business School Publishing, 60 Harvard Way, Boston, Massachusetts 02163.
+Library of Congress Cataloging-in-Publication Data (Print)
+Duarte, Nancy.
+HBR guide to persuasive presentations / Nancy Duarte.
+ 
+p. cm.
+ISBN 978-1-4221-8710-4 (alk. paper)
+1. Business presentations. 2. Persuasion (Psychology) I. Title.
+HF5718.22.D817 2012
+658.4′52—dc23
+2012019634
+eBook development by eBook Architects
+QED stands for Quality, Excellence and Design. The QED seal of approval shown here verifies that this eBook has passed a rigorous quality assurance process and will render well in most eBook reading platforms.
+For more information please click here.
+
+Section 1
+Audience
+Designing a presentation without an audience in mind is like writing a love letter and addressing it “to whom it
+may concern.”
+—Ken Haemer,
+Presentation Research Manager, AT&T
+
+Understand the Audience’s Power
+When you walk into a room as a presenter, it’s easy to feel as if you’re in a position of power: You’re up front, perhaps
+even elevated on a stage, and people came to hear you speak. In reality, though, you’re not the star of the show. The
+audience is.
+Why? The people you’re addressing will determine whether your idea spreads or dies, simply by embracing or
+rejecting it. You need them more than they need you. Since they have that control, it’s crucial to be humble in your
+approach. Use their desires and goals as a filter for everything you present.
+Presenters tend to be self-focused. They have a lot to say, they want to say it well, and they have little time to
+prepare. These pressures make them forget what’s important to the audience. A self-focused presenter might just
+describe a new initiative and explain what needs to get done—outlining how to do it, when to do it, and the budget
+required. Then maybe, if the audience is lucky, he’ll have a slide at the very end about “why it matters.” This format
+screams, “I pay you to do this, so just do it!” The presenter is so consumed by the mission that he forgets to say why
+people would want or need to be involved.
+Spend a moment in your audience’s shoes. Walk people through why the initiative matters to them and to the
+organization, what internal and external factors are driving it, and why their support will make it successful. Yes, get
+through the nitty-gritty details, but set up the valuable role they’ll play in the scenario rather than dictate a laundry list of
+to-do’s.
+Though presentations and audiences vary, one important fact remains constant: The people in your audience came
+to see what you can do for them, not what they must do for you. So look at the audience as the “hero” of your idea—and
+yourself as the mentor who helps people see themselves in that role so they’ll want to get behind your idea and propel it
+forward.
+Think of Yoda—a classic example of a wise, humble mentor. In the Star Wars movies, he gives the hero, Luke
+Skywalker, a special gift (a deeper understanding of the “Force”), trains him to use a magical tool (the lightsaber), and
+helps him in his fight against the Empire.
+Like Yoda and other mentors in mythology, presenters should:
+ 
+Give the hero a special gift: Give people insights that will improve their lives. Perhaps you introduce senior
+managers at your company to an exciting new way to compete in the marketplace. Or maybe you show a roomful
+of potential clients that you can save them money and time.
+ 
+Teach the hero to use a “magical” tool: This is where the people in your audience pick up a new skill or mind-
+set from you—something that enables them to reach their objectives and yours.
+ 
+Help the hero get “unstuck”: Ideally, you’ll come with an idea or a solution that gets the audience out of a
+difficult or painful situation.
+So if you’re gearing up to launch a new service offering, for example, give your team a clear roadmap (tool) and a
+promise to bring in consultants for training and support (gift)—and describe how these will help everyone rise to the
+challenge ahead.
+
+Segment the Audience
+If you see your audience as a homogenous, faceless clump of people, you’ll have a hard time making a connection and
+moving them to action. Instead, think of them as a line of individuals waiting to have a conversation with you.
+Your audience will usually include a mix of people—individuals in diverse roles, with various levels of decision-
+making authority, from different parts of the organization—each needing to hear your message for different reasons.
+Decide which subgroup is the most important to you, and zero in on that subgroup’s needs when you develop your
+presentation.
+When you’re segmenting your audience, take a look at:
+ 
+Politics: Power, influence, decision process
+ 
+Demographics: Age, education, ethnicity, gender, and geography
+ 
+Psychographics: Personality, values, attitudes, interests, communities, and lifestyle
+ 
+Firmographics: Number of employees, revenue size, industry, number of locations, location of headquarters
+ 
+Ethnographics: Social and cultural needs
+After you’ve segmented the group, figure out which members will have the greatest impact on the adoption of
+your idea. Is there a layer of management you need to appeal to? Is there a type of customer in the room with a lot of
+sway over the industry?
+Then view yourself as a curator of content for your most valuable and powerful stakeholders. Pick the one type of
+person in the room with the most influence, and write your presentation as if just to that subgroup. The presentation can’t
+be so specialized that it will alienate everyone else—you’ll need some content that appeals to the greater group. But
+tailor most of your specifics to the subgroup you’ve targeted.
+Say you’re presenting a new product concept to the executive team, and you know you won’t get their buy-in
+unless Trent, the president of the enterprise division, gets excited about the idea, because they always defer to his
+instincts on new initiatives. Appeal first to Trent’s entrepreneurial nature by describing how exciting the new market is
+—while keeping in mind what the other executives will care about. Here’s where your segmentation work will come in
+handy (table 1–1).
+Draw on your understanding of the team members as you prepare your talk. In addition to fanning the flames of
+Trent’s entrepreneurism, for example, have data in your pocket to respond to Marco, the analytical and risk-averse CTO,
+when he inevitably balks. And try to work with, not against, your CMO’s arrogance: Ask for his counsel on a key
+marketing point or two before the group meets, and he’ll be less likely to lash out during the presentation or sit there
+quietly plotting a coup, as is his wont.
+TABLE 1-1
+Segmenting your audience
+Executive team member
+Qualities
+Bert, CEO
+Hierarchical, micromanager, dominant, fear-driven, needs to
+be liked
+Carol, president of
+Consumer division
+Visionary, creative, disruptive, scattered, wants to stand on
+own feet
+Trent, president of
+Entrepreneurial, design thinker, systematic, found self after
+
+Enterprise division
+near-death experience
+Martin, CMO
+CEO’s favorite, empirically minded, arrogant, sabotages
+projects
+Marco, CTO
+Political, risk-averse, analytical, introverted, has self-doubt
+What if some audience members are already familiar with your idea and others need to be brought up to speed?
+(This is most likely to happen when you’re presenting within your organization.) Consider evening things out by giving
+the newbies a crash course before you conduct the larger presentation. Or you may decide just to do two separate
+presentations.
+
+Present Clearly and Concisely to Senior Executives
+Senior executives are a tough segment to reach. They usually have very little time in their schedules to give you. Though
+that’s true of many audiences, what sets this crowd apart is that they need to make huge decisions based on accurate
+information delivered quickly. Long presentations with a big reveal at the end do not work for them. They’ll want you to
+get to the bottom line right away—and they often won’t let you finish your shtick without interrupting. (Never mind that
+you would have answered their questions if they’d just let you get through the next three slides.)
+When presenting to an audience of senior executives, do everything you can to make their decision making easier
+and more efficient:
+ 
+Get to the point: Take less time than you were allocated. If you were given 30 minutes, create your talk within
+that timeframe but then pretend that your slot got cut to 5 minutes. That’ll force you to be succinct and lead with
+the things they care about—high-level findings, conclusions, recommendations, your call to action. Hit those
+points clearly and simply before you venture into supporting data or tangential areas of importance to you.
+ 
+Give them what they asked for: Stay on topic. If you were invited to give an update about the flooding of the
+manufacturing plant in Indonesia, do that before covering anything else. They’ve invited you because they felt
+you could supply a missing piece of information, so answer that specific request quickly.
+ 
+Set expectations: At the beginning, let the audience know you will spend the first 5 of your 30 minutes
+presenting your summary and the remaining time on discussion. Most executives will be patient for 5 minutes and
+let you present your main points well if they know they’ll be able to ask questions fairly soon.
+ 
+Create executive summary slides: Develop a clear, short overview of your key points, and place it in a set of
+executive summary slides at the front of the deck; have the rest of your slides serve as an appendix. Follow a 10%
+rule of thumb: If your appendix is 50 slides, devote about 5 slides to your summary at the beginning. After you
+present the summary, let the group drive the conversation. Often, executives will want to go deeper on the points
+that will aid their decision making. You can quickly pull up any slides in the appendix that speak to those points.
+ 
+Rehearse: Before presenting, run your slides by someone who has success getting ideas adopted at the executive
+level and who will serve as an honest coach. Is your message coming through clearly and quickly? Do your
+summary slides boil everything down into skimmable key insights? Are you missing anything your audience is
+likely to expect?
+Sounds like a lot of work, right? It is, but presenting to an executive team is a great honor and can open
+tremendous doors. If you nail this, people with a lot of influence will become strong advocates for your ideas.
+
+Get to Know Your Audience
+Segmenting your audience members politically, demographically, psychographically, and so on is a great start, but
+connecting with people means understanding them on a more personal level. To develop resonant content for them, dig
+for deeper insights about them. Ask yourself:
+ 
+What are they like? Think through a day in their lives. Describe what that looks like so they’ll know you “get”
+them.
+ 
+Why are they here? What do they think they’re going to get out of this presentation? Are they willing
+participants or mandatory attendees? Highlight what’s in it for them.
+ 
+What keeps them up at night? Everyone has a fear, a pain point, a thorn in the side. Let your audience know that
+you empathize—and that you’re here to help.
+ 
+How can you solve their problems? How are you going to make their lives better? Point to benefits you know
+they’ll care about.
+ 
+What do you want them to do? What’s their part in your plan? Make sure there’s a clear action for your
+audience to take. (See “Build an Effective Call to Action” in the Message section of this guide.)
+ 
+How might they resist? What will keep them from adopting your message and carrying out your call to action?
+Remove any obstacles you can.
+ 
+How can you best reach them? How do they prefer to receive information? Do they like the room to be set up a
+certain way? Do they want materials to review before the presentation? Afterward? What atmosphere or type of
+media will best help them see your point of view? Give them what they want, how they want it.
+When getting ready to present to an audience you’ve never met, do some research online. If you know the names
+of stakeholders in your audience, look up their bios. If you know only generalities about the audience, find the event on
+social media feeds and read what’s on the minds of those who’ll be attending. If you’ll be presenting to a company, find
+recent press mentions, look at how the company positions itself against competitors, read its annual report, and have
+Google Alerts send new articles about the company to your e-mail.
+One time, I was preparing to present to beer executives, and I don’t like beer or know anything about the industry.
+So I hosted a beer-tasting event at my shop, read their annual report, read recent press, studied key influencers, and
+looked up each attendee online. During the Q&A, a question came from one of the top executives (I knew he was at the
+top because I’d looked him up)—and I answered his question with timely examples.
+When your audience is familiar—say, a group of your direct reports or colleagues—think through the pressures
+they are under and find ways to create an empathic connection.
+Knowing people—really knowing them—makes it easier to influence them. You engage in a conversation,
+exchange insights, tell stories. Usually, both you and they change a bit in the process.
+People don’t fall asleep during conversations, but they often do during presentations—and that’s because many
+presentations don’t feel conversational. Knowing your audience well helps you feel warmly toward the people in the
+room and take on a more conversational tone. Speak sincerely to your audience, and people will want to listen to your
+message and root for and contribute to the success of your idea.
+
+Define How You’ll Change the Audience
+When you present, you’re asking the people in the room to change their behavior or beliefs in some way, big or small.
+Before you begin writing your presentation, map out that transformation—where your audience is starting, and where
+you want people to end up. This is the most critical step in planning your presentation, because that desired endpoint is
+the whole reason you’re presenting in the first place, and people won’t get there on their own.
+Ask yourself, “What new beliefs do I want them to adopt? How do I want them to behave differently? How must
+their attitudes or emotions change before their behavior can change?”
+By thinking through who they are before they enter the room and who you want them to be when they leave,
+you’ll define their transformation arc, much as a screenwriter plans the protagonist’s transformation in a film.
+Let’s say you work in the development office at a university and you’re delivering a presentation to potential
+donors. The audience transformation might look like the one shown in table 1-2.
+TABLE 1-2
+Transforming your audience
+Move audience from:
+Move audience to:
+Skepticism that the school will
+make good use of the money
+Excitement about innovative research by faculty,
+students, and alumni—and an impulse to give
+Change typically doesn’t happen without a struggle. It’s hard to convince people to move away from a view that is
+comfortable or widely held as true, or change a behavioral pattern that has become their norm. You are persuading
+members of your audience to let go of old beliefs or habits and adopt new ones. Once you understand their
+transformation, you can demonstrate empathy for the sacrifices they may need to make to move your idea forward.
+
+Find Common Ground
+Whether you evoke frenzied enthusiasm or puzzled stares or glassy-eyed boredom depends largely on how well your
+message resonates with the audience.
+Resonance is a physics phenomenon. If you tap into an object’s natural rate of vibration, or resonant frequency, it
+will move: It may vibrate, shudder, or even play a sympathetic musical note—think tuning forks. The same is true,
+metaphorically, when you present to an audience. If you tap into the group’s resonant frequency, you can move the
+people listening to you.
+But how do you resonate deeply enough to move them toward your objective? Figure out where you have
+common ground, and communicate on that frequency. Think about what’s inside them that’s also inside you. That way,
+you’re not pushing or pulling them; they’re moving because you tapped into something they already believe.
+All this may sound highly unscientific and touchy-feely, but you can find your audience’s resonant frequency by
+doing a little research. You’ll want to examine:
+ 
+Shared experiences: What from your past do you have in common. Do you share memories, historical events,
+interests?
+ 
+Common goals: Where are you all headed in the future? What types of outcomes are mutually desired?
+ 
+Qualifications: Why are you uniquely qualified to be the audience’s guiding expert? What did you learn when
+you faced similar challenges of your own, and how will your audience benefit from that insight?
+The amount of common ground you discover will depend on the depth of your relationship with the group.
+Lots of common ground
+If you are presenting to family, friends, club members, or a religous group, it’s easy to find common ground because you
+know the people well and tend to share many experiences, interests, and values.
+Moderate common ground
+With your colleagues, the challenge is a bit tougher. You know them a bit, but not as much as close friends or relatives.
+You share some interests but possibly only around one or two things. Examine those points of intersection for a way in.
+Let’s say you’re a scientist working for a biotech company and you’ve been asked to speak at an all-hands
+meeting. Most of the audience members will be scientists, but you’ll also be addressing executives and administrative
+employees. To find common ground with them, think about why you decided to work for this company and what
+motivates you to do your job day to day. Maybe you wanted to use your research and problem-solving skills to help
+people stay healthy—a mission the others in the room will share or at least support. Finding such commonalities will
+help you connect with them.
+Minimal common ground
+With a broad audience—for instance, a group of seminar participants from a variety of organizations and industries—
+you’ll have many types of people to think about. The overlap won’t be immediately evident, because there are so many
+perspectives and backgrounds to consider. You’ll need to work hard to find or create it, but that work will pay off.
+Before I went to China on a book tour, for example, I researched communication and storytelling in modern and
+ancient Chinese culture. I identified three great communicators in Chinese history and analyzed their speeches. When I
+shared my analysis with audiences, it was clear to them that I understood the historical context surrounding the speeches
+
+—I could even provide detailed answers to their questions about it. I got feedback multiple times on that trip that people
+could see I cared enough to really study and understand their perspective.

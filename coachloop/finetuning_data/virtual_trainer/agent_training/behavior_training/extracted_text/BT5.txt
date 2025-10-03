@@ -1,0 +1,815 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/347858930
+The Art of Facilitation
+Chapter · January 2021
+DOI: 10.1007/978-3-030-54584-0_12
+CITATIONS
+2
+READS
+256
+1 author:
+Jan Marie Fritz
+University of Cincinnati
+98 PUBLICATIONS   506 CITATIONS   
+SEE PROFILE
+All content following this page was uploaded by Jan Marie Fritz on 08 September 2024.
+The user has requested enhancement of the downloaded file.
+
+Chapter 9
+The Art of Facilitation
+Jan Marie Fritz
+Introduction
+There are a number of ways to successfully facilitate (assist a group with)
+activities. Facilitators are expected to learn different techniques/styles/methods such
+as probing, reframing, positive reinforcement, design, use of resources,1 problem
+analysis (Hartwig 2010, pp. 18–19), and methods of decision-making. The use of
+such techniques is only a part of a facilitated activity; facilitation is an art,2 a creative
+undertaking in which the facilitator needs to continually act,3 focusing on what is
+currently happening while taking into account a group’s setting, participants, aims,
+relevant history, current situation and future opportunities. This chapter discusses
+the creative facilitation of meetings and provides a case study which points to some
+of the problems that can develop when not enough attention is given to effective
+facilitation.
+1Nielsen (2012, p. 87) wrote about how “a range of semiotic resources (whiteboard, colored cards,
+speed markers, re-usable adhesive putty, body posture, gestures, gazes, pauses and talk) is used in
+a facilitated meeting.
+2Shaw et al. (2010, p. 4) indicated “the true art of an effective facilitator is often not always about
+the methods, tools or techniques that they employ but on the internal condition of the facilitator”
+which allows the facilitator to “create transformation in groups.”
+3According to Shaw et al. (2010, p. 4), “as scholars and practicing facilitators have emphasized,
+facilitators work intuitively, and often need to act in the moment : : : deciding if, when and how to
+intervene : : : ”
+J.M. Fritz ()
+Professor, University of Cincinnati, USA and Senior Research Fellow, Centre for Sociological
+Research, University of Johannesburg, South Africa
+e-mail: jan.fritz@uc.edu
+J.M. Fritz (ed.), Moving Toward a Just Peace: The Mediation Continuum,
+Clinical Sociology: Research and Practice, DOI 10.1007/978-94-007-2885-1 9,
+© Springer ScienceCBusiness Media Dordrecht 2014
+149
+
+150
+J.M. Fritz
+Deﬁning Facilitation
+The term facilitation basically refers to the act of making something easy or, at least,
+easier. The concept is known in many countries, but not all. Japan, for instance, has
+no word for facilitation in Japanese, but the idea of facilitation, particularly in the
+areas of education and training, is “increasingly gaining attention and acceptance”
+(Kato 2010, p. 694).
+Because facilitation is such a general term, one ﬁnds it used in different ways in
+many ﬁelds including neuroscience (increase in postsynaptic potential evoked by a
+second impulse), business (running meetings), ecology (for instance, when a plant
+provides shade for a seedling) as well as areas such as human trafﬁcking (facilitators
+are the people who are engaged in illegal trafﬁcking across international borders).
+There also are “practice facilitators” (PFs) who are health care professionals – in
+England, the Netherlands, Australia, Canada and the US – who assist primary care
+clinicians with “a variety of activities, including enhancement of documentation and
+delivery of clinical interventions, particularly preventive services; improvement of
+ofﬁce systems; and implementation of Health Information Technology” (Nagykaldi
+et al. 2005, p. 583). There is “facilitative dialogue” (Smock and Serwer 2012,
+pp. 1–2), a conversation, moderated by a third-party, to help those involved in a
+discussion overcome any barriers to effective communication. While this approach
+can be used in many situations, Smock and Serwer (2012) discuss its use in conﬂict
+and post-conﬂict areas.4 And “facilitative leadership,” “a skilled approach to leading
+that’s based on the core beliefs and practices of group facilitation” (Bens 2006, p. 8),
+is frequently discussed (e.g., Kato 2010, p. 694; Fryer 2012; Subramaniam 2011).
+Finally, there is “guerilla facilitation,” techniques to be used by a meeting participant
+when a meeting is not going well and the participant is not managing the meeting
+(Wilkinson n.d.).
+Facilitation is a concept that is frequently used by mediators and many others
+to characterize some or all of the work they do. Haskell and Cyr (2011, p. 5)
+deﬁned facilitation, in a group facilitation journal, “as the design and management
+of structures and processes that help a group do its work and minimize the common
+problems people have working together.” Amnesty International (2011, p. 20), in its
+training manual about facilitation, has provided a useful deﬁnition of the term that
+has much less of a management focus:
+Generally speaking, facilitation is deﬁned as making things occur easily, or making
+something possible. Facilitation is an enabling and guiding process which creates and
+supports a space for purposeful engagement and participation.
+Mie Femø Nielsen (2012, p. 89) indicated that a facilitator is a “content neutral”
+person “working to enable : : : [a group or organization] to collaborate, work more
+4Smock and Serwer (2012, p. 2) indicate that the three components of facilitated dialogue in
+conﬂict and post-conﬂict situations are (1) being sensitive to situations and intervening as needed
+to make conversations productive, (2) focusing on underlying interests and (3) organizing topics to
+achieve early consensus on less-difﬁcult topics.
+
+9
+The Art of Facilitation
+151
+effectively and achieve synergy,” or to think in a deeper way about its assumptions,
+beliefs, values, processes, or other areas by using a rather informal, ﬂexible
+alternative “to constricting formats like parliamentary procedure or Robert’s Rules
+of Order.”5 Facilitators LISTEN, encourage participation, draw out the opinions of
+participants, ask questions, clarify communication, keep a meeting on task, guide
+groups through difﬁcult discussions, test assumptions, are optimistic, give as well
+as receive feedback, have no substantive decision-making authority and periodically
+summarize progress.
+In discussing facilitation, there are differences of opinion about where one
+usually ﬁnds facilitation being used and how it should be done. According to
+Nielsen (2012, p. 89), for instance, facilitators “are frequently used in innovation
+projects and change management projects; but usually not used in ‘ordinary,’
+intraorganizational idea development meetings.” Others would think facilitation is
+also valuable in idea development meetings. And according to Smock and Serwer
+(2012, p. 163), a skilled facilitator in conﬂict zones should be “actively engaged in
+directing the discussion and helping the participants reach consensus;” this kind of
+facilitator would not be a “neutral trafﬁc cop.” Others might see this as an option
+in many kinds of facilitation (not just in conﬂict zones) while some others might
+think that this characterization opens the door to a facilitator being directive or
+opinionated.
+Stephen Thorpe, in an editorial for Group Facilitation (2011, p. 3) lovingly
+described the role of the facilitator:
+A facilitator “in the moment” might be likened to the metaphor of a swan that skillfully and
+gracefully glides on the surface of a pond: guiding the group towards their purpose, making
+subtle interventions, and cutting through blockages and conﬂict with precision. The group
+[members] may ﬁnd that they are achieving [the group’s] goals, are becoming empowered,
+and participants are amazed at how easy it all seemed to ﬂow – even through those tough
+bits they had been avoiding. Yet, just beneath the surface of the water, that facilitator’s feet
+are paddling away, drawing on a number of inner resources, picking up on subtle currents
+and bringing deeper awareness to all that is happening. This I call the inner practice of a
+group facilitator : : : There is a need now : : : to further expore and write about these subtle
+aspects of the group facilitator role : : : [so that others] can truly see the magic in the things
+we are : : : doing while we are facilitating.
+Amnesty International (2011, p. 22) emphasized that a facilitator’s qualities
+include “resourcefulness and creativity:”
+Each group is as different as the people who make it up. A good facilitator needs an
+overall programme and objectives but may also adapt these to ﬁt changing conditions and
+opportunities : : :
+5Robert’s Rules of Order is a widely used parliamentary authority in the U.S. The ﬁrst edition of
+the procedures was published in 1876.
+
+152
+J.M. Fritz
+Mediation and Facilitation
+Mediation is a humanistic and creative process in which one or more impartial
+individuals help disputants discuss an issue or issues that concern one or more
+of the parties. This process is sometimes referred to as facilitated negotiation.
+The mediator will establish an open, trusting environment in which parties are
+encouraged to discuss the facts of the matter as well as their personal feelings
+about the issue or issues that brought them to the table. Mediation is usually
+problem-centered with a ﬂexibly-structured process that can be free ﬂowing or
+rather controlled or directed. If the outcome of this process is an agreement, it would
+be shaped by the parties and mutually satisfactory.
+The U.S. Institute for Environmental Conﬂict Resolution (n.d.) indicates that
+mediation and facilitation “are the cornerstone of the U.S. Institute’s services.” The
+Institute indicates that mediation is a negotiation process in which “‘resolution’ is
+the goal” while facilitation is a collaborative process that aims to “seek a shared
+understanding of the issues at hand, and to explore how they might work together
+to meet their common goals.” The Institute’s deﬁnition tries to draw a strong line
+between the two processes : : : but that is actually hard to do. Both mediation
+and facilitation can be broadly deﬁned and are overlapping. For instance, New
+Zealand’s guidance note (Sefton 2009) for environmental disputes sees the role of
+mediator and facilitator as the same except that “outcomes of facilitated meetings
+are summarized at the conclusion” and “at closure, the agreement of a mediation is
+nailed.”
+Mediators, for a number of reasons, may refer to some or all of their work as
+facilitation. It may be that the term mediation is not understood by most or some
+segment of the public or it may be that some think if the term “mediation” is used
+that it means there is a severe problem. Facilitation may be a more acceptable
+term for those reasons. Also, a mediator may feel that the work she or he is
+doing – perhaps because it involves many people or a number of groups6 – really is
+facilitation, although she or he uses many mediation skills.
+Mediators in the U.S. who regularly work with large groups usually have
+been trained in and have experience with facilitation. However, not all mediators
+(particularly those working with individuals or small groups) have been trained
+in facilitation. Increasingly, there has been an interest in and opportunities for
+these mediators to have this training. For instance, some large civic discussions
+(e.g., about national health options or problems facing women who wish to fully
+participate in society) offered facilitation training to mediators and asked them to
+serve as table or group facilitators. Also, special education mediators in the U.S.
+6According to The State of Queensland, Department of Justice and Attorney-General (Australia)
+(n.d.), “mediation doesn’t usually involve large numbers of people : : : [and] facilitation is used
+for large-scale disputes, often involving several parties, an organization, a department or entire
+community.”
+
+9
+The Art of Facilitation
+153
+are being trained or have been trained by a number of state education departments
+to serve as facilitators. These individuals are increasingly being made available
+to school systems to run meetings or develop models for running meetings when
+parents and school system representatives are trying to develop an individualized
+education plan for a student with special needs. The thinking is that if the initial
+meetings between parents and school system representatives are successful, there
+will be less problems in the future and less need to have mediators deal with special
+education disputes.
+Mediators and facilitators often belong to the same professional organizations.
+They may be active, for instance, in the International Association of Facilitators or
+the Environment and Public Policy Section (or other sections) of the Association for
+Conﬂict Resolution. The US Institute for Environmental Conﬂict Resolution (n.d.)
+frequently uses “contracted private-sector” mediators and facilitators in addition to
+its own small staff in dealing with environmental disputes. The Institute maintains
+a national roster of dispute resolution and consensus building professionals who all
+are third-party professional facilitators and/or mediators.
+The selection of mediators and facilitators generally should be acceptable to
+all the members of the groups. However, sometimes mediators and facilitators are
+assigned and it is only after assignment that a person or organization might question
+if the person is appropriate for the assignment.
+Both mediation and facilitation involve creativity. The situations of groups
+involved in mediation and facilitation may often be unclearly deﬁned (what have
+been called “ill-deﬁned domains”). Particularly when that is the case, creativity may
+not just be a contribution of the mediator or facilitator; the creativity may be in the
+collaboration/sharing of the participants as well as the contributions of the facilitator
+or mediator (see Reilly 2008).
+Novice, Experienced and Artisan Facilitation
+Facilitators may not be needed in particular situations. The authors of a book
+about collaboration (Dukes and Firehock 2001, p. 29) noted that when a group
+has low conﬂict and “the meeting process is not terribly demanding,” a meeting
+can be managed by a chair or a member of the group. And Andy Williams (2012,
+p. 137) studied student learning when an open facilitation approach was used
+regarding “solo camping” (camping on your own). He concluded (p. 153) “that
+soloists can and do attach important meanings to their experiences without the
+need for a facilitator to guide or structure the learning process on their behalf.”
+Williams (p. 154) underlined, however, that he was not saying that “facilitator-led
+solo activities should become a thing of the past” but, rather, that all should be aware
+of the “potential of a more open mode of facilitation (a learner-centered approach in)
+which participants (solo campers) have more ownership of the process and outcomes
+of their own learning because facilitators were encouraged to take a step back.”
+
+154
+J.M. Fritz
+When facilitation can be useful, what level of facilitation skill is needed?
+Facilitators do have different levels of expertise (see, for example, Bens 2000,
+p. 35; Rees 2005, pp. 261–283).7 Modifying Berkvens’ typology of facilitators
+(2012, p. 360), this chapter discusses the following levels: novice facilitator (little
+or no training in facilitation; uses more authoritarian style that she or he probably
+has experienced without checking the backgrounds and needs of participants; no
+continuing support offered to participants); experienced facilitator (training, some
+experience after training and some feedback from more experienced facilitators; has
+thought about background and needs of participants and sometimes has done a needs
+assessment; provides support for participants by asking how they are doing) and
+artisan facilitator (has training and periodically is given feedback by experienced
+and artisan facilitators; can use many different techniques in facilitating meetings;
+continually adjusts what is being done by taking into account the context and needs
+of participants; optimizes full participation of all participants). Holborn (2002),
+Hogan (2002), and Jenkins (2004) have noted the complex skills (such as clear
+communication, neutrality, process and participation skills) required in facilitation.
+All levels of facilitation require not only continuing training and/or discussion of
+facilitations, but also ongoing support and resources.
+Amnesty International (2011, pp. 20–22) discussed experienced and particularly
+artisan facilitation when it described what facilitators should do:
+– Promote inclusion and active participation of all members of the group.
+– Promote dialogue in a constructive way.
+– Emphasize process, as well as outcomes.
+– Manage tensions.
+– Recognize and address power imbalances.
+– Inspire!
+Is there any evidence that experienced and artisan facilitation is better than
+novice facilitation? The general expectation is that experienced or artisan facilitation
+is better. Dukes and Firehock (2001, p. 30), based on their experience with
+environmental conﬂicts, noted that “the more diverse the group, the greater the
+scope of the group’s purpose and potential impact, and the more complex or
+conﬂictual the issues, then the more likely you will need a skilled and experienced
+facilitator or mediator who will take an active role in all elements of the group’s
+process.” Espiner and Hartnett (2011) also noted the value of a skilled facilitator. In
+discussing person-centered facilitation of planning with adults who have intellectual
+disabilities, they (Espiner and Hartnett 2011, p. 63) wrote that “the facilitation of a
+person’s aspirations requires a skilled facilitator who is a clear communicator giving
+priority to the aspirations and choices expressed by the person.” The researchers
+7Shaw and his colleagues (2010, p. 5) have deﬁned intentional facilitator in the following way: “we
+use the label ‘intentional’ to distinguish a purposeful (or formal or professional) facilitator from
+one who facilitates a group meeting with only a tacit awareness of the reasons or motives behind
+actions or with limited knowledge of facilitation tools and techniques.”
+
+9
+The Art of Facilitation
+155
+(Espiner and Hartnett 2011, p. 69) concluded that “skilled facilitation in the planning
+process will be essential to honour the adult’s voice and to promote a greater sense
+of ownership and control.” This study, however, did not discuss the different levels
+of skilled facilitation.
+Two studies are mentioned here because of their interest in both effectiveness
+and different levels of facilitation. One study of electronic meetings – by Wong
+and Aiken (2003, p. 125) – concluded that “automated facilitation was as good as
+expert-human and better than novice-human facilitation for simple idea generation
+and ranking tasks.” One of the big limitations of this study was that “no attempt was
+made to automate more cognitively complex facilitation tasks such as ensuring that
+parties are heard, that one ‘faction’ does not take over the meeting, that all ideas are
+discussed fairly, intimidating or derisive comments are discouraged, and that new
+ideas are considered.”
+The other study – by Kolfschoten et al. (2007) – compared facilitators who
+had different levels of experience. For their research (Kolfschoten et al. 2007,
+p. 353) novice facilitators were those who had facilitated less than 25 workshops,
+experienced facilitators had facilitated between 25 and 100 workshops and expert
+facilitators had conducted over 100 workshops. The researchers (Kolfschoten et al.
+2007, p. 347, 354, 359) concluded that “generally, the time to prepare diminishes
+when experience increases,” novices and experienced facilitators regularly use less
+(facilitation) techniques than experts,” “novices have less access to a consulting
+team” and novices “are more likely to encounter surprises (e.g., unexpected
+outcomes or conﬂict) yet they are less equipped to handle (by adapting their
+facilitation designs) these surprises.”8 These ﬁndings lend support to the value of
+experienced and artisan facilitation and also provide some suggestions about how
+facilitation can be improved.
+Steps to a Better Meeting
+Facilitators, whether external (outside of the group making decisions) or internal
+(a member of the group making decisions who is taking on the role of a facilitator),
+are expected to improve the processes and outcomes of group meetings.9 The
+meetings may differ in substantial ways such as the emotional connection of some
+or all participants to issues being discussed, different power of participants, or
+8Dukes and Firehock (2001, p. 32) noted that “a volunteer facilitator, or even a paid agency staff
+person with minimum training, may not have the skills required to help parties negotiate the twists
+and turns of a highly political and/or highly technical issue : : : Innocent mistakes by an untrained
+person may result in parties leaving the group or other adverse outcomes.”
+9Nielsen (2012, p. 89) indicates that “a workshop facilitator is often an external consultant, working
+to organize and lead events like meetings, seminars, workshops and group sessions in order to help
+their participants reach a certain goal or conclusion deﬁned in advance (by the participants or the
+management).”
+
+156
+J.M. Fritz
+group traditions including usual approaches to making decisions. The purpose
+for the meeting also can be quite different. Retreats,10 for instance, may be for
+developing a strategic plan, changing organizational culture, building relationships
+or encouraging creativity/innovation. Because of these differences, no one set way
+of facilitating a meeting is the only way to do things.
+Even though meetings can be quite different, there are some general considera-
+tions (e.g., Frediani 2009; Bens 2000, pp. 39–44; Doyle and Straus 1976) that can
+be put forward as basic for most business-type meetings in the United States (with
+varying applications in other countries). The following section of this chapter is
+divided into ﬁve parts – before, beginning, during, ending and after the meeting.
+Before the Meeting
+1. Plan the meeting carefully. Meetings often require a great deal of advance
+work. Among the questions to be answered: Who should attend? What will be
+discussed? When will the meeting be held? (In some situations, the timing of
+when a meeting will be held is extremely important.) Where will the meeting be
+held? What will be the best seating arrangement for the meeting room? Will there
+be refreshments? Why is the meeting being held? What is the desired outcome or
+outcomes of the meeting? If a series of meetings might be needed, how many will
+there be? Will the meeting be a safe environment? Will guests or the public be
+invited/allowed/encouraged to attend the meeting? How much notice needs to be
+provided before the meeting? Will a quorum be needed? Will Robert’s Rules of
+Order (Robert 2011) or some other format need to be followed? Management
+representatives (at the highest level) should be involved in the planning meeting
+or meetings to make sure that there is agreement about the process, content and
+goals.
+2. Collect needed background information. This may involve interviews. (Some-
+times you learn surprising information in individual interviews. In advance of a
+small meeting, I learned that two participants had not spoken to each other in 10
+years and that junior members of the work group were afraid to say anything in
+front of senior people.) A review of documents (including records and accounts of
+previous meetings) also may need to be undertaken. Some documents may need
+to be distributed at and/or in advance of the meeting.
+3. Prepare and send out a tentative agenda in advance of the meeting. The
+tentative agenda should identify the kind of meeting that will be held, the
+proposed topics for discussion and the tentative amount of time that will be
+devoted to each item. (The facilitator’s copy of the draft agenda also should
+include process notes indicating how each agenda item will be handled – e.g.,
+each person will give one story, brief report from three people, or establish
+10See, for instance, Retreats that Work (2006) by Liteman, Campbell and Liteman.
+
+9
+The Art of Facilitation
+157
+evaluation criteria.) Comments/suggestions should be invited about the topics,
+the order of the topics and amount of time required for discussion. Depending on
+responses, a revised agenda may need to be sent out in advance of the meeting.
+4. Arrive early at the meeting site and set up the meeting room. Make sure that
+there is sufﬁcient time to set up your room before your meeting begins. I have
+found that sometimes arrangements made in advance do not result in what is
+expected. Be prepared, for example, to move tables and locate extra seating.
+5. Plan and check all technical aspects of the meeting. This should be done well
+in advance of the meeting and again just before the meeting. Have plans in place
+about what will be done in the event that some equipment is not there or does not
+function.
+6. Have a troubleshooter poised and in position. If you are greeting those attending
+the meeting or are the facilitator, you probably will not have the possibility
+of dealing with a security issue (e.g., threatening person) or other problem. It
+always is best to have one or two people identiﬁed as troubleshooters who know
+it is their job (if you indicate) to solve any problem that develops.
+At the Beginning of the Meeting
+7. Greet those attending the meeting. Make people feel welcome when entering
+the meeting room and ask if they have any questions. This might be done just
+before or at the beginning of the formal meeting or, if people are attending who
+are not known to the facilitator, as each person enters the room. This might
+be a point to ask what people are expecting from the meeting or why they are
+attending. This gives the facilitator some sense of who is in the room and why
+people are attending the meeting.
+8. Identify the type of meeting. Indicate if the meeting will be, for instance, all
+or in part informational, planning, advisory, relationship-building or decision-
+making. This is good to do at a beginning of a meeting and also may need to be
+done during the meeting.
+9. Establish ground rules? Some meetings can progress very nicely without
+establishing any ground rules. If ground rules or stated principles (e.g., conﬁ-
+dentiality) are needed, they can be developed (with the help of the participants)
+at the beginning of the meeting or at any point during the meeting.
+10. Start on time. The announcement of the meeting and the agenda indicate the
+starting and ending times for the meeting. Those attending generally expect that
+these times are accurate.
+11. Have participants introduce themselves and perhaps state their expectations
+for the meeting. Don’t assume everyone knows everyone else. Set a process
+in place that lets everyone hear what is being said but doesn’t let anyone
+monopolize the introduction process. The last two meetings I attended were
+problematic from the very beginning. In one a rather large number of peo-
+ple were asked by the novice facilitator to introduce themselves (without a
+
+158
+J.M. Fritz
+microphone) and nobody heard or understood the information because most
+of the names and afﬁliations were mumbled. One of the meetings had people
+introducing themselves with a microphone but the novice facilitator also asked
+each person to say a little something about her or his project. Many of the
+people talked for a rather long time about their projects while the novice
+facilitator did nothing (but wring his hands and look pained) while this was
+going on. Introductions can be a very good idea at the beginning of the meeting
+but the approach that is used, the directions that are given and the handling
+of this process by the facilitator are very important. (In a large meeting, it
+may be that only small numbers of people can be given the opportunity to
+introduce themselves to each other and/or people can introduce themselves as
+they contribute to the meeting.)
+12. Clearly deﬁne roles.11 The facilitator should use an approach that makes clear
+the expectations for all those participating in a meeting. It may be that each
+person is expected to speak and also that each person should encourage others
+to contribute. Participants should understand the role of the facilitator and
+whether a recorder (writing a public display of notes) will be used rather than a
+secretary (with private notes). Who will be acting as the timekeeper? Will roles
+possibly change (e.g., people sharing the recorder role) during the meeting?
+If a top manager or ofﬁcial is there, what will be her or his role during the
+meeting?
+13. Review, revise, and order the agenda (including times). The agenda already
+has been through at least one review and may have been resubmitted to those
+attending the meeting. This would be a ﬁnal review, even though topics and
+times still may be changed during the meeting.
+14. Review action items, if any, from previous meetings. This can bring partici-
+pants up-to-date, note accomplishments or progress, identify problems and help
+bring closure on some issues.
+15. Explain the process that will be used. In addition to explaining the roles of
+those participating in the meeting, explain (or discuss) the process that will
+be used for any discussion and decision-making (e.g., ranking and evaluating,
+multi-voting, ranking/prioritizing, nominal group, force-ﬁeld analysis).
+During the Meeting
+16. Focus on an issue (all in the same way and the same time). The facilitator,
+with the help of all participants, has to keep the meeting on track. The process
+that has been explained at the beginning of the meeting will help the facilitator
+do this and also to handle new topics or difﬁcult points that may emerge during
+the discussion.
+11Those who want more information about deﬁning roles in meetings will ﬁnd it useful to look at
+How to Make Meetings Work (1976) by Michael Doyle and David Straus.
+
+9
+The Art of Facilitation
+159
+17. Consider using small groups. This approach can bring involvement/energy or
+renewed energy to a discussion. Groups need concrete directions and a time
+limit.
+18. Consider having one or more breaks. Breaks can be an excellent way to get
+people to talk or caucus with each other, change the seating arrangements
+and/or have the meeting easily go in a different direction. Participants do need
+to know when the meeting will reconvene. While this can be a very effective
+tool, I have seen meetings where participants did not return on time and some
+used the break as an opportunity/invitation to leave.
+At the End of the Meeting
+19. Review the group memory. This is easily done if there is a public version (e.g.,
+overhead or poster sheets on walls) rather than a private record (personal
+notes). It is most important that action items are established or conﬁrmed
+including who will take an action, what will be done and when it will be done.
+20. Set the date, time and place of the next meeting (if one is needed) and develop
+a preliminary agenda. It may be that only suggestions for dates, times and
+places can be mentioned if one also has to consider the preferences of those
+who were not able to attend this meeting.
+21. Evaluate the meeting. This can be done casually or in a formal way. Infor-
+mation obtained at the end of a meeting can be helpful to those who may put
+another meeting in place.
+22. Close the meeting on time – crisply and positively. Unless the whole group has
+agreed to extend the meeting, it is best to close the meeting at the announced
+time. After this formal ending, a group or groups may be given encouragement
+to meet.
+23. Clean up and rearrange the room. People in charge of a space appreciate
+some help in getting a room ready for the next meeting. The amount of help that
+is appreciated will vary depending on the administrators (e.g., hotel manager,
+school principal) and/or the regular set-up people for the space.
+After the Meeting
+24. Evaluate the meeting/write and ﬁle a report. Review any comments given
+orally or in writing by participants and add your own comments. Even if there
+will be no additional meetings, at least a brief report (including the agenda,
+any action items and evaluations) should be developed based on the meeting
+as well as the preparatory and evaluation sessions. This will serve as guidance
+to others who may eventually hold a meeting of these participants or run a
+meeting dealing with the same or similar topics.
+
+160
+J.M. Fritz
+25. Follow-up on any action items and, if there will be a next meeting, begin to
+plan it. A plan needs to be put in place dealing with the completion of action
+items.
+26. Give praise (as deserved) for those who helped develop and run the meeting. It
+is important to thank people by name for their assistance. It also may be a good
+idea, in some cases, to write notes of thanks that will be included in personnel
+ﬁles.
+Two examples of facilitated meetings might be useful at this point. The ﬁrst,
+an initiative in a Minnesota county (CR Planning, Inc. n.d.), required a permanent
+stakeholder advisory commission be established for decisions involving parks,
+trails and open space. A consulting group, CR Planning, used a facilitated public
+participation process (during a one-year period) to “engage citizens, landowners and
+public ofﬁcials in a respectful dialogue” at the start of the planning process and then
+facilitated discussion of the Park Advisory Committee. A policy plan was adopted
+by the County Board and this was followed by an implementation plan.12
+As a second example, I facilitated a series of meetings (every two weeks for
+several months) for a “blue ribbon” citizen advisory group that had been put in
+place by a large city’s school board. The school board had been “encouraged” by
+community groups to get input from civic and business organizations representing
+minorities (as well as unions) regarding inclusive, local hiring in connection with
+new construction that the school system was going to undertake over a 10-year
+period. The facilitator, in this case, was involved in the process after the participants
+already had been selected, helped design the process that would be used for each
+meeting, facilitated each session, provided research and perspective for the head of
+the advisory group and assisted in developing the Committee’s report to the board.
+Mediators also serve as advisers or mentors about facilitation processes. For
+example, SwissPeace (n.d.), which describes itself as a “practice-oriented peace
+research institute,” has a coaching program (2012–2013) for women in Myanmar
+who are engaged in peace processes. In another instance, I advised the head of a
+chapter of a national NGO in developing a process for bringing together parts of a
+community that was deeply divided. I also helped a community organization revise
+its process for a public forum that would bring together members of the community
+to discuss a multi-service center that was proposed by a religious organization
+based outside of the community. The religious group thought that the center was an
+excellent idea but had not collaborated with community organizations in developing
+its project. Many community organizations (and many members of the community
+organization sponsoring the forum) were skeptical or opposed to the project. The
+12Full implementation did not happen. According to Brian Ross (2012) of CR Planning, the
+implementation work was to be managed by an employee of the small parks department and not
+the consultants. Most of the plan was not implemented because the parks department employee
+who was to manage the implementation was hired away by another organization and county
+ofﬁcials disbanded the parks department and shifted the responsibility for parks to another county
+department that had a different focus.
+
+9
+The Art of Facilitation
+161
+community room in which the meeting was held was packed and included local
+residents as well as sign-carrying members of the outside church.
+Some mediators and facilitators, run meetings dealing with environmental,
+community or public policy issues. Frequently such meetings are part of a series
+of meetings that may take place over a long period of time (e.g., months or years).
+Depending, in part, on the importance and urgency of the issue to those attending
+the meeting, the need to agree on a process, the level of controversy and the number
+of sectors and groups involved, the facilitator (or facilitation team) may organize
+a set of planning meetings to arrange the actual decision-making meetings. Those
+planning meetings could cover topics such as number of organizations that will be
+represented in the meetings; how many representatives each group will have; how
+decisions will be communicated to the public (if needed); who will facilitate the
+actual meetings; how representatives will communicate and get the involvement of
+the organizations they represent; how absences will be handled; what topics will be
+covered and how decisions will be made.
+Some mediators facilitate sessions in conﬂict zones or post-conﬂict situations
+(see Asuni 2012, pp. 113–126; Smock and Serwer 2012, pp. 163–169). Smock and
+Serwer (2012) provide advice about a number of difﬁcult issues including getting
+minority representation in meetings and getting minority representatives to have
+full and accepted participation from those with more power. They also caution that
+if discussions involve national policies, that there need to be links to Track One
+(ofﬁcial) diplomacy. And they discuss that frequently participants want to represent
+themselves rather than their organizations which can have consequences in moving
+things forward in a country or region. While Smock and Serwer’s advice is based
+on working in conﬂict zones, the points are true (or can be adapted) for many other
+kinds of mediation and facilitation settings.
+Dealing with Facilitation Difﬁculties: The Well City
+Experience
+The hearings described below were held in Well City,13 a medium-sized community
+in the U.S. The ﬁrst hearing was in a court room and run by the elected mayor. The
+second hearing was in a university building and run by an experienced facilitator.
+Aurora Punch, Well City’s Health Commissioner, knew that tobacco use was a
+preventable cause of disease and death. She also knew the American Cancer Society
+and the American Lung Association were encouraging communities to put tobacco
+use prevention regulations in place and she wanted to do that in Well City.
+13The example described here is based on an actual case that is discussed at length in “The Bumpy
+Road to a Tobacco-Free Community: Lessons from Well City” (Fritz et al. 2000). Pseudonyms are
+used here and in the original article for the names of the city and individuals.
+
+162
+J.M. Fritz
+In September, Commissioner Punch sent letters to selected organizations,
+including the city council, indicating that she was forming a “task force of
+community leaders” to study the tobacco problem. She wanted representatives
+from each group to “actively participate” in the work of the task force.
+The task force ﬁrst met eight months later (in May) with 18 representatives,
+including the mayor, two city council members, the clerk of court, three city board
+of health members, a county health department employee, a representative from the
+hospital, an employee of the county commissioner’ ofﬁce, and a member of the busi-
+ness community. One of the task force members, a representative of the American
+Cancer Society, was a retired regulatory technologist and familiar with the indoor
+air standard accepted by the American Society of Heating, Refrigerating, and Air-
+conditioning Engineers (ASHRAE). The American Cancer Society representative
+along with the city health commissioner and two other task force members formed
+a smaller working group – the Clean-Air Regulation Subcommittee. In July, the
+subcommittee recommended a clean air regulation to the city board of health that
+incorporated the ASHRAE standard of ventilation.
+The proposed regulation stated that “lighted smoking materials in public places
+is declared a public nuisance and hazardous to the public health.” It prohibited the
+possession of lighted smoking material in any form in any commercial establish-
+ment (including bars, restaurants, and bowling alleys), public vehicles, restrooms,
+elevators, and selected public facilities (libraries, educational facilities, museums,
+auditoriums, and art galleries). The proposed regulation did allow an owner of a
+facility to permit smoking if the owner installed a ventilation system based on the
+ASHRAE standard or have a hearing if the owner wanted a variance.
+It was anticipated that owners would not attempt to meet the ASHRAE standard,
+as this would be an expensive undertaking, and also that few variances would be
+given. Any owner or operation that failed to comply with the regulation could be
+charged with a minor misdemeanor and ﬁned up to $100. Essentially what was
+being proposed was a total smoking ban for public places.
+The city health commissioner proposed the regulation at a city board of health
+meeting in October and the city’s ﬁrst public hearing (meeting) was held in
+November. That hearing, by all accounts, was bedlam. About 250 people jammed
+a small courtroom and the group heard more than 50 speakers. The meeting lasted
+more than four hours. While no smoking was allowed in the courtroom, smoking
+was allowed in the hall just outside the courtroom. Tobacco smoke from the packed
+corridor poured into the hall every time the court’s doors opened.
+The mayor, who served as head of the city’s health board, facilitated the public
+hearing. The mayor indicated that anyone who wanted to speak could do so. He
+allowed speakers to go beyond the prescribed time limits and speakers frequently
+repeated what others had said. Hecklers were not controlled. Most of those opposing
+the proposed regulation were bar, restaurant, or small business owners.
+One of the speakers was Marge Can, a well-known, realtor in the community, who
+had owned her own business for more than 10 years. She was smart and energetic.
+While not frequently active in the public life of the community, she had headed the
+
+9
+The Art of Facilitation
+163
+committee (whose members all were smokers) that organized the American Cancer
+Society’s annual (fundraising) golf tournaments for the two years prior to Well
+City’s tobacco-control initiative.
+Each morning Marge went for coffee at P.T.’s, a local restaurant, and joined the
+regulars for a discussion of local events. One morning the talk turned to the story
+on the front page of the local paper, the city and county’s proposed tobacco control
+regulations. After considerable discussion, Marge, who smoked two to four packs of
+cigarettes a day, and a farmer decided to form an organization, BADLAW, to ﬁght
+the proposed regulations. The core group of organizers also included the owner of a
+restaurant and the non-smoking owner of a travel agency. They spoke at the public
+hearing and Marge gave interviews to the city newspaper.
+Marge said the main issue was one of freedom. She pointed out that the health
+boards were not elected and had no right to be making tobacco-control rules. Marge
+felt that if she and a client wanted to smoke in the conference room of her ofﬁce, they
+should be able to do so without government interference.14
+After the shock of the chaotic public hearing, the city health department began
+licking its wounds, and four months later, in January, the city and county health
+boards started working together on revising the proposed regulation. The new
+proposal dropped the term “clean air” and the list of exemptions and variances
+began to grow to include (1) bars, bowling alleys, and pool halls (if they have signs
+stating that a no-smoking area is not available; (2) an employee vehicle where the
+driver and all the passengers consent to smoking; and (3) retail tobacco stores.
+More than one year after the ﬁrst hearing, in October, the city and county boards
+of health held a joint public hearing at the Well City campus of a state university
+to collect feedback on the revised proposal. The university building was chosen
+because it was removed from city departments and ofﬁces and no smoking was
+allowed in the whole building. This time there would be no smoke coming in from
+the corridors.
+This public hearing was held in a large auditorium, much larger than the ex-
+pected number of participants, and it was run by a trained facilitator. The facilitator
+gave a rather complete informational presentation that began the meeting. After
+the presentation, audience members were able to speak, but they had to follow
+guidelines. Speakers had to sign up in advance and no more than one speaker
+was allowed from an organization. Length of speaking time and heckling were now
+14Five years after Marge’s group (BADLAW) lost its last court battle against the city, Marge Can,
+52, died of lung cancer. During the 20 years she had lived in Well City, Marge unsuccessfully tried
+many methods to quit smoking, including acupuncture, hypnosis, and the patch. She did not try
+to quit smoking while she was the spokesperson for BADLAW. One year before she died, Marge
+learned she had lung cancer and would have to have surgery. She stopped smoking. During her
+last year, she established a website to let others follow her progress in dealing with cancer. When
+she became too weak to type her own website entries, family members made the entries for her.
+The obituary that appeared in the local paper noted Marge’s community service, particularly her
+volunteer work on behalf of the American Cancer Society.
+
+164
+J.M. Fritz
+under control. Security personnel were available if needed, and the organizers of
+the hearing had agreed in advance that if the event got out of control in some way,
+it would be ended early. The meeting ended at the announced time.
+The facilitator has to be in control of a meeting, in this case, a community
+hearing. Well City’s ﬁrst public hearing was a disaster. It was led by an elected
+ofﬁcial who did not want to upset any of his constituents; he allowed people to
+speak too long and repetitively, did not control heckling, and held the hearing in
+a place where tobacco smoke could pour into the hearing room. By the time of
+the second hearing, Well City public health ofﬁcials had learned a lesson. The
+hearing was held in a building that was smoke-free on a college campus (neutral
+territory). The meeting room was much larger than the number people that would
+be in attendance. This setting – a large room with many empty seats rather than
+a crowded court room – means that the setting will not easily add fuel to any
+controversy. There was visible security and the hand-picked, experienced facilitator
+had a long, thorough, informative introduction about the main topic and established
+a speaking process that was inclusive, orderly and calm. The second hearing gave
+the public the opportunity to take part in the discussion, but, unlike the ﬁrst hearing,
+there was no chaos.
+Conclusion
+Mediation and facilitation often are broadly deﬁned and the deﬁnitions can be
+quite similar. This certainly is seen when mediation is described as “facilitated
+negotiation.” And when Hampson and Zartman (2012, p. 35, 51) refer to “triple
+talk” (when a mediator becomes involved with parties who have been negotiating)
+as “mediated negotiation” or say a mediator is “by any other name [a] facilitator,
+good ofﬁces, third party, etc.” While there are some differences between mediation
+and facilitation, sometimes the deﬁnitions don’t reﬂect these differences because the
+deﬁnitions are not detailed enough or the differences are differences in emphasis
+(rather than absolute differences).
+One general difference between mediation and facilitation is that facilitators need
+to be able to work with large meetings (as well as small ones) and mediators,
+based on their special area of work, may not have to work with large groups.
+Also, mediators have to be able to write formal agreements while facilitations
+often do not have such an outcome. Some think that a facilitator’s main task is
+to improve the process or structure of a group while a mediator most frequently
+is working on resolving an issue. (While this may generally be true, there are
+many exceptions.) Finally, facilitators, because they are expected to have the
+capacity to work with large groups of people, may have exposure to many
+different techniques (particularly ones that encourage participation) as part of their
+training while some mediators, depending on the area of practice, may not have
+this training or experience. Professional mediators who work with large groups
+
+9
+The Art of Facilitation
+165
+usually also are facilitators; some mediators who work with individuals and small
+groups are facilitators, and, increasingly, the others are being trained in the art of
+facilitation.
+Business-type meetings need to be prepared carefully and, if a media-
+tor/facilitator or facilitator team is involved, the mediators/facilitators need to be
+part of the planning as well as the implementation effort. As noted in the Well City
+case, meetings that are not well-prepared may not accomplish goals, can reinforce
+initial positions and anger as well as lose participants.
+There is evidence that facilitated processes can be very effective. Shaw and his
+colleagues (2010, p. 9), based on their research of facilitator impact during a quality
+improvement process, concluded that external facilitators, who are experienced or
+artisan, “are able to ask critical questions, hold people accountable, and even ‘see’
+processes or dynamics that the insider may not.” The art of facilitation can help
+meeting participants work through difﬁcult issues; really involve people in their
+organizations and communities; help people who have had difﬁculty participating
+in groups as well as those who think that others should not be full participants; and
+develop creative, inclusive long-range plans. All groups do not need professional
+facilitators, but experienced and artisan facilitation often can make a central
+contribution to a group’s progress.
+References
+Amnesty International. (2011). Facilitation manual: A guide to using participatory methodologies
+for human rights education. London: Amnesty International.
+Asuni, J. B. (2012). Nigeria: Dialogue in the delta. In D. R. Smock & D. Serwer (Eds.), Facilitating
+dialogue: USIP’s work in conﬂict zones (pp. 113–126). Washington, DC: United States Institute
+of Peace Press.
+Bens, I. (2000). Facilitating with ease! A step-by-step guidebook with customizable worksheets on
+CD/Rom. San Francisco: Jossey-Bass.
+Bens, I. (2006). Facilitating to lead! Leadership strategies for a networked world. San Francisco:
+Jossey-Bass.
+Berkvens, J. (2012). What international aid organizations can learn from international adult
+learning: Experiences from Cambodia. The Journal of Agricultural Education and Extension,
+18(4), 347–368.
+CR Planning Inc. (n.d.). Retrieved from www.crplanning.com and www.crplanning.com/pdfs/
+crowwingparks.pdf. Accessed 15 Oct 2012.
+Doyle, M., & Straus, D. (1976). How to make meetings work. New York: Jove Books.
+Dukes, E. F., & Firehock, K. (2001). Collaboration: A guide for environmental advocates.
+Charlottesville: Institute for Environmental Negotiation.
+Espiner, D., & Hartnett, F. M. (2011). ‘I felt I was in control of the meeting’: Facilitating planning
+with adults with an intellectual disability. British Journal of Learning Disabilities, 40, 62–70.
+Frediani, J. A. (2009). Sharing the ﬂoor: Some strategies for effective group facilitation. Unitarian
+Universalist, Association of Congregations. Retrieved from www.uua.org/re/adults/151805.
+Accessed 15 Jan 2013.
+Fritz, J. M., Bistak, P., & Auffrey, C. (2000). The bumpy road to a tobacco-free community:
+Lessons from Well City. Sociological Practice: A Journal of Clinical and Applied Sociology,
+2(2), 113–126.
+
+166
+J.M. Fritz
+Fryer, M. (2012). Facilitative leadership: Drawing on J¨urgen Habermas’ model of ideal speech to
+propose a less impositional way to lead. Organization, 19(1), 25–43.
+Hampson, F. O., & Zartman, I. W. (2012). The global power of talk: Negotiating America’s
+interests. Boulder/London: Paradigm Publishers.
+Hartwig, R. T. (2010). Facilitating problem solving: A case study using the devil’s advocacy
+technique. Group Facilitation: A Research and Applications Journal, 10, 17–31.
+Haskell, J. E., & Cyr, L. F. (2011). Community facilitator education: How training can lead to
+positive impacts at the community level. Group Facilitation: A Research and Applications
+Journal, 11, 5–14.
+Hogan, C. (2002). Understanding facilitation: Theory and principles. London: Kogan Page.
+Holborn, S. (2002). The value of measuring person-centered planning. In J. O’Brien & C. O’Brien
+(Eds.), Implementing person-centered planning: Voice of experience (pp. 79–97). Toronto:
+Inclusion Press.
+Jenkins, J. (2004). Facilitation, training, consultation or do it yourself? Handout for ADR
+institute meeting 5 November 2004. Retrieved from masterplan.co.za/resources/documents/
+facilitationis.pdf. Accessed 15 Jan 2013.
+Kato, F. (2010). How we think and talk about facilitation. Simulation & Gaming, 41(5), 694–704.
+Kolfschoten, G. L., den Hengst-Bruggeling, M., & de Vreede, G. J. (2007). Issues in the design of
+facilitated collaboration processes. Group Decision and Negotiation, 16, 347–361.
+Liteman, M., Campbell, S., & Liteman, J. (2006). Retreats that work: Everything you need to know
+about planning and leading great offsites (Expandedth ed.). San Francisco: Jossey-Bass.
+Nagykaldi, Z., Mold, J. W., & Aspy, C. B. (2005). Practice facilitators: A review of the literature.
+Family Medicine, 37(8), 581–588.
+Nielsen, M. F. (2012). Using artifacts in brainstorming sessions to secure participation and
+decouple sequentiality. Discourse Studies, 14(1), 87–109.
+Rees, F. (2005). The facilitator excellence handbook (2nd ed.). San Francisco: Pfeiffer.
+Reilly, C. R. (2008). Is expertise a necessary precondition for creativity? A case of four novice
+learning group facilitators. Thinking Skills and Creativity, 3, 59–76.
+Robert, H. M. (2011). Robert’s rules of order. Newly revised. Philadelphia: Da Capo Press.
+Ross, B. (2012). Telephone interview. November 27.
+Sefton, E. (2009). Resource Management Act Amendment 2009 Guidance. New Zealand. October.
+Shaw, E., Looney, A., Chase, S., Navalekar, R., Stello, B., Lontok, O., & Crabtree, B. (2010). ‘In
+the moment’: An analysis of facilitator impact during a quality improvement process. Group
+Facilitation: A Research and Applications Journal, 10, 4–16.
+Smock, D. R., & Serwer, D. (Eds.). (2012). Facilitating dialogue: USIP’s work in conﬂict zones.
+Washington, DC: United States Institute of Peace Press.
+SwissPeace. (n.d.). Retrieved from http://www.swisspeace.ch. Accessed 16 Oct 2012.
+Subramaniam, M. (2011). Grassroots groups and poor women’s empowerment in rural India.
+International Sociology, 27(1), 72–95.
+The State of Queensland, Department of Justice and Attorney-General (2010–2012). (n.d.). Dispute
+resolution: Facilitation. Brisbane: The State of Queensland. Retrieved from http://www.justice.
+qld.gov.au/justice-services/dispute-resolution/facilitation. Accessed 16 Oct 2012.
+Thorpe, S. (2011). Editorial introduction. Group Facilitation: A Research and Applications
+Journal, 11, 3–4.
+U.S. Institute for Environmental Conﬂict Resolution. (n.d.). Retrieved from http://www.ecr.gov/
+HowWeWork/Services.aspx. Accessed 16 Oct 2012.
+Williams, A. (2012). Taking a step back: Learning without the facilitator on solo activities. Journal
+of Adventure Education & Outdoor Learning, 12(2), 137–155.
+Wilkinson, M. (n.d.). Guerilla facilitation: What to do if the meeting leader is not leading.
+Retrieved from www.inifac.org/articles/arGuerillaFacilitation.pdf. Accessed 18 Oct 2012.
+Wong, Z., & Aiken, M. (2003). Automated facilitation of electronic meetings. Information &
+Management, 41, 125–134.
+View publication stats

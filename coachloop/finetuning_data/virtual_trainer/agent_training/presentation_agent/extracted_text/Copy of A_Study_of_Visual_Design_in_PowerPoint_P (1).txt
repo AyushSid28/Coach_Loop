@@ -1,0 +1,358 @@
+DOI: 10.7763/IPEDR. 2014. V 78. 18  
+A Study of Visual Design in PowerPoint Presentation Slide and Its 
+Relationship with Postgraduate Learner Engagement and Satisfaction  
+Tse Chwan Ang 1, Mariam Mohamad 2 
+1 Faculty of Applied and Creative Arts, Universiti Malaysia Sarawak 
+2 Center for Instructional Technology and Multimedia, Universiti Sains Malaysia 
+Abstract. This paper aimed to examine the utilization of visual in PowerPoint presentation slide and 
+influence on learner engagement and satisfaction. The study grounded with cognitive theories of multimedia 
+learning, ARCS Model and CRAP model in developing the PowerPoint presentation slide. The study adapted 
+repeated measure method on 21 postgraduate learners. The learner is presented visually non-designed and 
+visually designed slide of two lecture session. Data collected through self-report questionnaire and 
+observation during the lecture session. Data from the study were analyzed using repeated measures analysis 
+of variance (RM ANOVA) and descriptive statistic. The result of the study revealed no significant 
+relationship between visual design of presentation slide on learner engagement and satisfaction, but the mean 
+score of learner engagement and satisfaction is higher for the session with visually designed slides. The 
+findings provide useful insight for instructors into the need for enhancing the knowledge and technical skill 
+in developing of visual design for presentation, and researchers to further establish the study of visual design 
+in presentation slide. Furthermore, findings of the study reveals relationship of lecturer teaching style on 
+learner engagement and satisfaction.  
+Keywords: Visual Design, PowerPoint Presentation Slide, Engagement, Satisfaction 
+1. Introduction  
+Technology had improved learning in term of efficiency, flexibility through multidimensional approach 
+and learner performance; hence, the learner has access to larger quantity and better quality of information 
+[1][2][3]. Teaching and learning environment is never being segregated from multimedia [2]. Today, in an 
+instructional event, mode (text, narration and picture) for delivering the content is remain unchanged, but due 
+to the advancement of the technology, the medium for delivering the media was shifted to be a more 
+technological environment. Presentation slide as a delivery medium is used to emphasize key point, show 
+complex image and reveal the organization of the presentation [4] which generates higher comprehension in 
+the learner [4][5][6]. Visual aid such as PowerPoint presentation slide enhances the flexibility of presentation, 
+further increase the effectiveness of the presentation [7] and enhances learner attitudes towards the instructor 
+and the presentation session [4].  
+Some researcher suggested that teaching tools can be poorly executed [4][8]. Furthermore, there is a 
+broad account of study found that people are having a bad experience from PowerPoint presentation [9]. 
+According to [5], presenter often faced difficulty in designing presentation slide using PowerPoint; it takes 
+much effort to change typography, color and layout. In the later study by [10], users of PowerPoint have 
+been often lack of experience to design an effective presentation slide. It is also found that the principle for 
+designing PowerPoint presentations is not apprehended with certainty, in the result, this might cause negative 
+impact on the learning process [12]. 
+It is suggested from prior study to determine the functional aspect of non-text information and visual in 
+presentation to improve the communication process through design of visual stimuli in term of the learning 
+process [12][13]. According to Chen [12], “Learning is improved by well-communicated visual”. Visual in 
+presentation function as supporting towards speaker narration and integration of visual and verbal 
+information which focus audience attention, increase interest and enhance retention [7]. Visual are not solely 
+                                                           
+ Corresponding author.  
+   E-mail address: angtc@hotmail.my. 
+91
+
+images, but also integration of text explanation, guidance and message which is literally through the appeals 
+to the human eye. 
+The method of visualizing learning material will define the engagement of teacher and learner in the 
+process of teaching and learning [15]. Visual effectively direct learner attention towards important 
+information, giving learner support in organizing it into meaningful way [14][16] and reducing processing 
+effort [14]. Effective use of visual imagery can increase learner learning process in term of comprehension 
+and recall of the class material, engagement and improve attitudes about the classroom experience [17] and 
+learner participation in a lesson. Is it suggested that PowerPoint presentation with no concern about the 
+visual design can cause learner disengagement [18]. Learners who engaged in learning activity learn more, 
+retain more, and enjoy the learning activity more that those who are not [19]. Thus, result in greater 
+educational outcomes [20]. 
+The study suggested the link between the presentation and learner satisfaction [21]. Satisfaction is a 
+feeling of fulfillment response from judgment towards the product or services [22]. The user had expectation 
+originate from the belief of performance or quality that a product or service will provide [22]. The stage of 
+satisfaction will result in the intention of the learner either to stay or quit which in turn lead to learner 
+retention. Learner satisfaction and motivation are higher with multimedia learning environment [2]. Learner 
+reacts positively towards used of technology in teaching and learning process. But on the other hand, some 
+learner and instructor having bad experience in multimedia learning, it shows that not everyone benefits from 
+the advance of technology itself.  
+The research study is grounded with three theoretical areas: (1) learning theory: Cognitive theory of 
+multimedia learning by Richard Mayer [23], (2) Motivational theory: ARCS model by John Keller [24], (3) 
+Graphic design principle: C.R.A.P model by Robin Williams [25]. These theories are a significant part of the 
+study in bridging between learning theory with motivational theory and visual design principle of 
+implementing effective, functional and motivated instructional material-presentation slide. This paper aimed 
+to examine the utilization of visual in PowerPoint presentation slide and influence on learner engagement 
+and satisfaction. 
+2. Methodology 
+By using repeated measurement method, the samples in this study were 21 postgraduate students who 
+enroll in a coursework postgraduate program in one of the public universities in Malaysia. The study is 
+conducted in two fold. During the development stage, the content of the lesson is provided by the subject 
+lecturer and the visual design of the presentation slides is developed by the researcher based on the guideline 
+and recommendation by expert personals from several sources[26][27][28]. Visual design guideline adapted 
+in this study is based on the concerns of slide layout, typography, graphic and color usage. 2 presentation 
+slides are developed for the study. First Presentation slide is visually non-designed, second presentation slide 
+is visually designed. During experimental stage, data collection is conducted before treatment (visually non-
+designed presentation), during (observation in both presentation sessions) and after treatment (visually 
+designed presentation).  
+Data was collected using self-report questionnaire survey and observation during the presentation session 
+to identify the effect of the visual design in presentation slide towards learner engagement and satisfaction. 
+Two instruments were used in the study. First, an evaluation form for expert to review and validate of the 
+visual design and motivational design of PowerPoint presentation slide. Second, a self-report survey 
+questionnaire which is adapted from Instructional Material Motivation Survey (IMMS) by John M. Keller, 
+Student Academic Engagement Scale (SAENS) by Rupayana D. D., and Principle Experience Sampling 
+Method (ESM) by Northwestern University, and Faculty Survey of Student Engagement (FSSE) by The 
+Trustees of Indiana University. Both instruments were validated by expert and undergoes a pilot test with 
+postgraduate learners. Descriptive statistical analysis was used to compare the mean score for engagement 
+and satisfaction in both controlled and treatment conditions. Further, repeated measures ANOVA was used 
+92
+2.1 Research Design 
+2.2 Data Collection and Measures 
+
+to statistically analysis the significance of visual design on learner engagement and satisfaction. Open-ended 
+responses from survey questionnaire are analyzed using text mining method to extract the key concepts from 
+the respondent and grouped them into categories. The result of the statistical and text mining analysis is 
+externally validated with the data of observation collected during the presentation session.  
+3. Result and Discussion  
+3.1 Repeated measure ANOVA 
+The repeated measure ANOVA data analysis examines the effect of the visual design of presentation slide on 
+learner engagement and satisfaction.  
+Table 1: Within-Subjects Effects for Learner Engagement and Satisfaction 
+Source 
+Type III Sum of Squares
+ 
+df 
+Mean Square 
+F 
+Sig. 
+Engagement  
+Designed slide and non
+-designed 
+slide 
+2.381 
+1 
+2.381 
+3.257 
+.086 
+Satisfaction  
+Designed slide and non
+-designed 
+slide 
+.214 
+1 
+.214 
+.417 
+.526 
+Error  
+10.286 
+20 
+.514  
+ 
+ 
+Table 2: Descriptive Statistics (Overall) 
+ 
+ 
+Mean
+ 
+Std. Deviation
+ 
+N
+ 
+engagement
+ 
+non-designed slide
+ 
+3.52
+ 
+.981
+ 
+21
+ 
+designed slide
+ 
+4.00
+ 
+.775
+ 
+21
+ 
+satisfaction
+ 
+non-designed slide
+ 
+3.90
+ 
+.831
+ 
+21
+ 
+designed slide
+ 
+4.05
+ 
+.740
+ 
+21
+ 
+*Note. Maximum engagement score = 5. Maximum Satisfaction score = 5. 
+ 
+Table 1 illustrates the within-subject effects of learner engagement and satisfaction for visually designed 
+slide and visually non-designed slide. It is reported that there was no significant effect of the visual design of 
+presentation slide on learner engagement (F (1, 20) = 3.257, p = .086) at a significant level of 5%. Likewise, 
+there was no significant effect of the visual design of presentation slide on learner satisfaction (F (1, 20) = 
+0.417, p = .526) at a significant level of 5%. However, to refer to Table 2, it shows that the mean of learner 
+engagement and satisfaction was increased over a week after the visually designed slide was presented.  
+In providing the feedback on the overall satisfaction in the learning experience of each lesson, more than 
+half participant commented for the open-ended survey question. In non-designed slide session, learner 
+responses were of a few themes. Firstly, some learner thinks that the PowerPoint slide is “plain, blank 
+without attractive design”, “dull”, “not good to be satisfied”, “very boring”, “the slide can be improved”, 
+“must include some multimedia element to attract student”. While on the visually designed slide, learner 
+commented that “I like the design of the presentation slides”, “the PowerPoint slide was very interesting and 
+can attract my attention”, “very eye-catching”, “easy to understand”, “more creative, image layout is clear to 
+read”, “layout and graphic are visually appealing”. It shows that learner were less satisfied with the visually 
+non-designed slide session than visually designed slide session.  
+From the observation of learner in class, researcher found no significant differences between control 
+condition and treatment condition. Learner engagement towards the lesson is at a similar level as observed. 
+Learners’ responds towards the presentation slide were not differing from each other for both lecture sessions. 
+Furthermore, from the observation, the visually designed presentation slide did not yield increment in learner 
+engagement as in term of attention, enjoyment and effort. Learner did not show any significant different 
+reaction towards the slide for both sessions. Furthermore, it was observed that visually designed presentation 
+slide did not yield differences in the instructor and learner interaction.  
+However, it was noticed that learner commented on the open-ended question on the lecturer’s teaching 
+style for both lecture sessions. One of the learners indicated that “the PowerPoint slides not influence my 
+attention” and “the way she (lecturer) present and organized the notes attract me to focus on this lesson”. 
+Besides, few learners think that the lecturer sharing of real life experience helped the lecture session to be 
+more interesting. Some of the learner commented that “lecturer gave a lot of real life examples that make the 
+lecturer interesting”, “lecturer has explained the lesson in a very understandable way.”, “the lecturer 
+93
+
+motivates the lesson”, “The lecturer used her experiences to explain the lesson”, “I enjoyed the class 
+presentation with sharing of experiences from lecturer”, “the lecturer is good”. From these comments, the 
+learner may think that the way of the lecturer presented and explained the slide influence their motivation 
+and satisfaction. Besides, during the presentation session, learners are observed to be more enjoyable when 
+the instructor sharing of real life example or experience which related to the discussed topic. The researcher 
+observed that learners tend to ask more questions and give respond such as laughter and discuss among 
+themselves during and after the lecturer sharing of her experience. The interaction of learner and lecturer is 
+more during the lecture post question about the discussed topic in both treatment and non-treatment sessions.  
+3.2 Visual Design of Presentation Slide and Learner Engagement 
+Some learner indicates that the visually non-designed slide is “dull” and one of the learner comments 
+that he/she feels “sleepy” during the presentation session. On the other hand, some learner indicated that the 
+PowerPoint slide did not affect their attention in the lecture session. As so, it seems the finding is from two 
+sides of possibility where some learner is benefiting from the visual design of presentation slide and also 
+some are not benefiting from it. And even some may think that the visual design on presentation slide do not 
+influence the learning in a lecture session. Learner motivation should be one of the major concerns when 
+design for learning [29][30]. It is suggested from this study to further explore on effective visual design in 
+instructional purposes which include of the motivational element as a tool to engage the learner actively. 
+From the survey questionnaire, learners indicate that they are more enjoyable with the visually designed 
+slide. Furthermore, they think that the presentation slide helped them to hold their attention on the lesson. 
+Besides, learners also commented that the slide are visually appealing and help them to understand better in 
+class. This finding supported prior study that visual in presentation slide help focus learner attention 
+[7][14][16][31]. Visual design in presentation slide helps direct learner attention maybe due to the effective 
+allocation of the limited working memory and reduce cognitive load [32].  
+3.3 Visual Design of Presentation Slide and Learner Satisfaction 
+Learner indicated that they are having greater enthusiasm for the subject after the introduction of visually 
+designed presentation slide as compared to non-designed slide. Besides, they agreed which is more pleasure 
+to learn with the visually designed presentation slide. Learners also commented that which is more satisfied 
+with the lecture session with visually designed presentation slides. 
+Prior study shows that learner satisfaction is the quality of experience which benefits the education 
+institution and the society [33]. The feeling of fulfillment [22] may come from the source of the service and 
+facilitating goods by the university [33][34]. From the learner’s response, teaching style of the instructor 
+might be one of the major causes that yield learner satisfaction. Students tend to respond more actively on 
+lecturer speech. They ask questions and discuss among themselves from the topic as discuss by the lecturer. 
+Furthermore, the lecturer involve in the study having the approach of sharing the real life experience to help 
+learners in understanding of the lesson. Some learners indicate that they are more satisfied of the lesson due 
+to such approach. Where the learners think the lesson is more understandable and easier to relate to lesson 
+content. Furthermore, learners feel that the lesson is interesting when the lecturer using the real example 
+approach. The lecturer using the conversation approach where there is a discussion and sharing of experience 
+between learner and lecturer might help learner to feel relaxed and more enjoyable. Furthermore, learner 
+thinks lecture style affect their enjoyment [12] and lecturer playing the role as motivator in a learning session 
+[35]. To consider an overall presentation quality, oral presentation should also be taken into account [3][36]. 
+It is suggested from this finding to investigate how presenter and the teaching style might influence learner 
+satisfaction and to which extend its help learner to engage in class. 
+4. Conclusion and Recommendation 
+This study demonstrates the effect of visual design in presentation slide towards learner engagement and 
+satisfaction. It is suggested from the findings that further study of visual design in presentation slide and its 
+relationship with learner engagement is important for a greater learning experience. The results indicate that 
+postgraduate learners have a higher engagement and satisfaction level in a lecture session when presented a 
+94
+
+visually designed presentation slide. Learner attendance in the lesson despite of physically and mentally is 
+important in the learning process; learner engagement and the factor that leads to higher level of learner 
+engagement in the lecture session should be comprehended. The findings provide useful insight for 
+instructors into the need for enhancing the knowledge and technical skill in developing effective visual 
+design for presentation, and researchers to further establish the study of visual design in presentation slide.  
+In the conclusion, future direction might give special attention to the study, which integrating effective 
+visual design in presentation slide and the relationship with learner engagement and satisfaction in a lecture 
+session. Besides, it is important to learn about how learner satisfaction will benefit the learner themselves, 
+the institution and furthermore the society. Furthermore, from the finding of the study, it is also important to 
+further investigate how teaching style might influence learner engagement and learner satisfaction towards 
+the learning session. 
+5. Acknowledgements  
+I would like to express the deepest appreciation to my project supervisor, Dr. Mariam Mohamad, for 
+kind supervision and guidance throughout this dissertation. In addition, a thank you to Dr. Zarina Samsudin 
+who had helped me with data collection for this research project. I would also like to thank my parents and 
+family in constant giving support mentally and financially through the postgraduate studies. Finally, 
+appreciation to the help given by staff of Center for Instructional Technology and Multimedia, Universiti 
+Sains Malaysia in succeeding this research project. 
+6. References  
+[1] Schacter, John, and Cheryl Fagnano. "Does computer technology improve student learning and achievement? How, 
+when, and under what conditions?"Journal of Educational Computing Research 20, no. 4 (1999): 329-343. 
+[2] Ludwig, Thomas E., David B. Daniel, Rick Froman, and Virginia A. Mathie. "Using multimedia in classroom 
+presentations: Best principles." Society for the Teaching of Psychology: Pedagogical Innovations Task Force 
+Report, 2005. 
+[3] Garmston, Robert J. "Glad You Asked." Journal of Staff Development 21, no. 1 (2000): 73-75. 
+[4] Nouri, Hossein and Abdus Shahid. "The effect of PowerPoint presentations on student learning and attitudes." 
+Global Perspectives on Accounting Education 2, no. 1 (2005): 53-73. 
+[5] Alley, Michael, and Harry Robertshaw. "Rethinking the design of presentation slides: Creating slides that are 
+readily comprehended." In ASME 2004 International Mechanical Engineering Congress and Exposition, pp. 445-
+450. American Society of Mechanical Engineers, 2004. 
+[6] Bradshaw, Amy C. "Effects of Presentation Interference in Learning with Visuals." Journal of Visual Literacy 23, 
+no. 1 (2003). 
+[7] Apperson, Jennifer M., Eric L. Laws, and James A. Scepansky. "An assessment of student preferences for 
+PowerPoint presentation structure in undergraduate courses." Computers & Education 50, no. 1 (2008): 148-153. 
+[8] Maddux, Cleborne D., Johnson D. Lamont, and Jerry W. Willis. 1997. Educational Computing: Learning With 
+Tommorow's Technologies. 2nd edition. United States: Allyn & Bacon. 
+[9] Farkas, David. "Understanding and using PowerPoint." In Proceedings of the STC annual conference, vol. 3, pp. 
+3-320. 2005. 
+[10] Lowenthal, Patrick R. "Improving the design of PowerPoint presentations." The CU Online Handbook (2009): 59. 
+[11] Uz, Çiğdem, Feza Orhan and Gülşah Bilgiç. " Prospective teachers’ opinions on the value of PowerPoint 
+presentations in lecturing." Procedia - Social and Behavioral Sciences2, no. 2 (2010): 2051-2059.  
+[12] Bartsch, Robert A., and Kristi M. Cobern. "Effectiveness of PowerPoint presentations in lectures." Computers & 
+Education 41, no. 1 (2003): 77-86. 
+[13] Moriarty, Sandra E. "The Symbiotics of Semiotics and Visual Communication."Journal of Visual Literacy 22, no. 
+1 (2002). 
+[14] Chen, Elaine Huei-Lien. "A review of learning theories from visual literacy."Journal of Educational Computing, 
+Design & Online Learning 5 (2004): 1-8. 
+[15] Hay, David, Ian Kinchin, and Simon Lygo‐Baker. "Making learning visible: the role of concept mapping in 
+higher education." Studies in Higher Education 33, no. 3 (2008): 295-311. 
+[16] Gomez, Steven R., Radu Jianu, Caroline Ziemkiewicz, Hua Guo, and David H. Laidlaw. "Different strokes for 
+different folks: visual presentation design between disciplines." Visualization and Computer Graphics, IEEE 
+Transactions on 18, no. 12 (2012): 2411-2420. 
+95
+
+[17] Ulbig, Stacy G. "A Picture is Worth What? Using Visual Images to Enhance Student Engagement and Retention." 
+International Journal of Instructional Media 37, no. 2 (2010): 185-200.  
+[18] Kahraman, Sakıp, Ceren Çevik, and Hülya Kodan. "Investigation of university students’ attitude toward the use of 
+powerpoint according to some variables."Procedia Computer Science 3 (2011): 1341-1347. 
+[19] Akey, Theresa M. "School Context, Student Attitudes and Behavior, and Academic Achievement: An Exploratory 
+Analysis." MDRC (2006). 
+[20] Trowler, Paul, and Vicki Trowler. "Student engagement evidence summary." (2010). 
+http://eprints.lancs.ac.uk/61680/1/Deliverable_2._Evidence_Summary._Nov_2010.pdf 
+[21] Blalock, M. Gale, and Robert D. Montgomery. "The effect of PowerPoint on student performance in principles of 
+economics: An exploratory study." Journal For Economıcs Educators 5, no. 3 (2005): 1-7. 
+[22] Hom, Willard. "An Overview of Customer Satisfaction Models." (2000). 
+[23] Mayer, Richard E. "Cognitive theory of multimedia learning." The Cambridge handbook of multimedia learning 
+(2005): 31-48. 
+[24] Keller, John M. "How to integrate learner motivation planning into lesson planning: The ARCS model approach." 
+VII Semanario, Santiago, Cuba (2000): 1-13. 
+[25] Williams, Robin. The non-designer's design book. Peachpit Press, 2008. 
+[26] Reynolds, Gary. "Top ten slide tips." GarrReynolds. com (2005). 
+[27] Lee, Sung Heum, and Elizabeth Boling. "Screen design guidelines for motivation in interactive multimedia 
+instruction: A survey and framework for designers." Educational technology 39, no. 3 (1999): 19-26. 
+[28] Alley, Michael, and Kathryn A. Neeley. "Rethinking the design of presentation slides: A case for sentence 
+headlines and visual evidence." Technical communication 52, no. 4 (2005): 417-426. 
+[29] Astleitner, Hermann, and Christian Wiesner. "An integrated model of multimedia learning and motivation." 
+Journal of Educational Multimedia and Hypermedia 13, no. 1 (2004): 3-21. 
+[30] Churchill, Daniel. "Presentation design for “conceptual model” learning objects."British Journal of Educational 
+Technology 45, no. 1 (2014): 136-148. 
+[31] Bradshaw, Amy C. "Effects of Presentation Interference in Learning with Visuals." Journal of Visual Literacy 23, 
+no. 1 (2003). 
+[32] Wecker, Christof. "Slide presentations as speech suppressors: When and why learners miss oral information." 
+Computers & Education 59, no. 2 (2012): 260-273. 
+[33] Kara, Ali, and O. W. DeShields. "Business student satisfaction, intentions and retention in higher education: An 
+empirical investigation." Marketing Education Quarterly 3, no. 1 (2004): 1-25. 
+[34] Douglas, Jacqueline, Alex Douglas, and Barry Barnes. "Measuring student satisfaction at a UK university." 
+Quality assurance in education 14, no. 3 (2006): 251-267. 
+[35] Susskind, Joshua E. "Limits of PowerPoint’s power: Enhancing students’ self-efficacy and attitudes but not their 
+behavior." Computers & Education 50, no. 4 (2008): 1228-1239. 
+[36] Doumont, Jean-Luc. "The cognitive style of PowerPoint: Slides are not all evil."Technical communication 52, no. 
+1 (2005): 64-70. 
+96
