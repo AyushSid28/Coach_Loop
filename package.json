@@ -8,7 +8,8 @@
     "dev:backend": "cd coachloop/backend && npm run dev",
     "dev:frontend": "cd coachloop/frontend && npm start",
     "start": "cd coachloop/backend && npm start",
-    "build": "npm run build:backend && npm run build:frontend",
+    "build": "npm run install:all",
+    "vercel-build": "npm run install:all",
     "build:backend": "cd coachloop/backend && npm install",
     "build:frontend": "cd coachloop/frontend && npm install",
     "install:all": "npm run build:backend && npm run build:frontend"

@@ -4,22 +4,28 @@
   "builds": [
     {
       "src": "coachloop/backend/server.js",
-      "use": "@vercel/node",
-      "config": {
-        "includeFiles": ["coachloop/backend/**"]
-      }
+      "use": "@vercel/node"
     },
     {
       "src": "coachloop/frontend/server.js", 
-      "use": "@vercel/node",
-      "config": {
-        "includeFiles": ["coachloop/frontend/**"]
-      }
+      "use": "@vercel/node"
     }
   ],
   "routes": [
     {
       "src": "/api/(.*)",
+      "dest": "coachloop/backend/server.js"
+    },
+    {
+      "src": "/voice-input",
+      "dest": "coachloop/backend/server.js"
+    },
+    {
+      "src": "/stream-tts",
+      "dest": "coachloop/backend/server.js"
+    },
+    {
+      "src": "/chat",
       "dest": "coachloop/backend/server.js"
     },
     {
