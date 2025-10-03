@@ -2,15 +2,15 @@
   "version": 2,
   "builds": [
     {
-      "src": "coachloop/frontend/server.js",
+      "src": "coachloop/frontend/server-simple.js",
       "use": "@vercel/node"
     }
   ],
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "coachloop/frontend/server.js"
+      "dest": "coachloop/frontend/server-simple.js"
     }
   ],
-  "installCommand": "npm install && cd coachloop/backend && npm install && cd ../frontend && npm install"
+  "installCommand": "cd coachloop/frontend && npm install"
 }
