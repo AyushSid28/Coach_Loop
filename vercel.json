@@ -4,11 +4,17 @@
   "builds": [
     {
       "src": "coachloop/backend/server.js",
-      "use": "@vercel/node"
+      "use": "@vercel/node",
+      "config": {
+        "maxDuration": 30
+      }
     },
     {
       "src": "coachloop/frontend/server.js", 
-      "use": "@vercel/node"
+      "use": "@vercel/node",
+      "config": {
+        "maxDuration": 30
+      }
     }
   ],
   "routes": [
@@ -35,13 +41,5 @@
   ],
   "env": {
     "NODE_ENV": "production"
-  },
-  "functions": {
-    "coachloop/backend/server.js": {
-      "maxDuration": 30
-    },
-    "coachloop/frontend/server.js": {
-      "maxDuration": 30
-    }
   }
 }
