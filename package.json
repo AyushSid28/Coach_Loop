@@ -2,31 +2,25 @@
   "name": "coachloop-app",
   "version": "1.0.0",
   "description": "AI-powered coaching platform with payment-based session management",
-  "main": "index.js",
+  "main": "api/app.js",
   "scripts": {
-    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
-    "dev:backend": "cd coachloop/backend && npm run dev",
-    "dev:frontend": "cd coachloop/frontend && npm start",
-    "start": "cd coachloop/backend && npm start",
-    "build": "npm run install:all",
-    "vercel-build": "npm run install:all",
-    "build:backend": "cd coachloop/backend && npm install",
-    "build:frontend": "cd coachloop/frontend && npm install",
-    "install:all": "npm run build:backend && npm run build:frontend"
+    "start": "node api/app.js",
+    "build": "echo 'Build completed'",
+    "dev": "node api/app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "openai": "^4.85.1",
+    "dotenv": "^16.4.7"
   },
   "keywords": [
     "ai",
     "coaching",
     "chatbot",
-    "payments",
-    "razorpay",
     "openai"
   ],
   "author": "AYUSH",
   "license": "ISC",
-  "devDependencies": {
-    "concurrently": "^8.2.2"
-  },
   "engines": {
     "node": ">=18.0.0"
   }
